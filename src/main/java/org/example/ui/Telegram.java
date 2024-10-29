@@ -1,5 +1,7 @@
 package org.example.ui;
 
+import org.example.data.logger.LogType;
+import org.example.data.logger.Logger;
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.meta.TelegramBotsApi;
 import org.telegram.telegrambots.meta.api.objects.Update;
@@ -7,7 +9,7 @@ import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
 
-public class Telegram extends TelegramLongPollingBot {
+public class Telegram extends TelegramLongPollingBot implements Runnable{
 
     @Override
     public String getBotUsername() {
@@ -27,7 +29,7 @@ public class Telegram extends TelegramLongPollingBot {
             long chatId = update.getMessage().getChatId();
 
             // Ответное сообщение
-            String responseText = "f: " + messageText;
+            String responseText = "Msg: " + messageText;
 
             // Создание сообщения
             SendMessage message = new SendMessage();
@@ -38,7 +40,7 @@ public class Telegram extends TelegramLongPollingBot {
             try {
                 execute(message); // Отправка сообщения пользователю
             } catch (TelegramApiException e) {
-                e.printStackTrace();
+                Logger.print(e.getMessage(), LogType.ERROR);
             }
         }
     }
@@ -49,7 +51,7 @@ public class Telegram extends TelegramLongPollingBot {
             TelegramBotsApi botsApi = new TelegramBotsApi(DefaultBotSession.class);
             botsApi.registerBot(new Telegram());
         } catch (TelegramApiException e) {
-            e.printStackTrace();
+            Logger.print(e.getMessage(), LogType.ERROR);
         }
     }
 }

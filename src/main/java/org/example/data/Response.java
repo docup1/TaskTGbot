@@ -1,4 +1,4 @@
-package org.example.data.response;
+package org.example.data;
 
 public class Response {
     private final String response;

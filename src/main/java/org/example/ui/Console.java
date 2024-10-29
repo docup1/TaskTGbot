@@ -1,9 +1,8 @@
 package org.example.ui;
 
-import org.example.data.database.Connect;
 import org.example.data.logger.LogType;
 import org.example.data.logger.Logger;
-import org.example.data.response.Response;
+import org.example.data.Response;
 import org.example.managers.CommandConverter;
 import org.example.managers.CommandMannager;
 
@@ -14,36 +13,33 @@ public class Console implements Runnable{
     private CommandConverter converter;
     private CommandMannager mannager;
     private Response response;
-    private Logger logger;
     public Console() {
         response = new Response();
-        logger = new Logger();
         converter = new CommandConverter();
         mannager = new CommandMannager();
-
-        logger.setDebug(true);
     }
     @Override
     public void run() {
+        Logger.print("Console started successfully", LogType.INFO);
         while (true){
             try {
                 scanner = new Scanner(System.in);
                 converter.run(scanner.nextLine());
                 if (converter.getCommandName() != null) {
-                    response = mannager.execute(converter.getCommandName(), converter.getArgs());
-                    logger.setLog(response.getResponse(), LogType.INFO);
+                    var command = converter.getCommandName();
+                    var args = converter.getArgs();
+                    var output = "";
+                    response = mannager.execute(command, args);
+                    output += "Executed command: " + command + " Command response: " + response.getResponse();
+                    Logger.print(output, LogType.INFO);
                 }
                 else {
                     response = new Response("Command not found.");
-                    logger.setLog(response.getResponse(), LogType.WARN);
+                    Logger.print(response.getResponse(), LogType.WARN);
                 }
-
             }catch (Exception e){
-                logger.setLog(e.getMessage(), LogType.ERROR);
-                logger.print();
-                System.exit(0);
+                Logger.print(e.getMessage(), LogType.ERROR);
             }
-            logger.print();
         }
     }
 }

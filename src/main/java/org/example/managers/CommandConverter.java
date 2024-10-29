@@ -1,5 +1,8 @@
 package org.example.managers;
 
+import org.example.data.logger.LogType;
+import org.example.data.logger.Logger;
+
 import java.util.ArrayList;
 
 public class CommandConverter {
@@ -9,16 +12,25 @@ public class CommandConverter {
         args = new ArrayList<>();
     }
     public void run(String input){
-        String com[] = input.split(" ");
         try {
+            String com[] = input.split(" ");
             commandName = CommandsNames.fromString(com[0]);
+            for(int i = 1; i < com.length; i++){
+                args.add(com[i]);
+            }
+            Logger.print("Command converted.", LogType.TRACE);
+            Logger.print("Command name: " + commandName, LogType.TRACE);
+            Logger.print("Command arguments: " + args.toString(), LogType.TRACE);
         }
         catch (IllegalArgumentException e){
+            Logger.print("Command convertion field.", LogType.TRACE);
+            Logger.print(e.getMessage(), LogType.TRACE);
             commandName = null;
         }
-        for(int i = 1; i < com.length; i++){
-            args.add(com[i]);
+        catch (Exception e){
+            Logger.print(e.getMessage(), LogType.DEBUG_FATAL);
         }
+
     }
     public CommandsNames getCommandName(){
         return commandName;

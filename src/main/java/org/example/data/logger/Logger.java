@@ -1,46 +1,41 @@
 package org.example.data.logger;
 
-import org.example.ui.Console;
-
 public class Logger {
-    private String textColor;
-    private static final String ANSI_RESET = "\u001B[0m";
-    private static final String ANSI_RED = "\u001B[31m";
-    private static final String ANSI_GREEN = "\u001B[32m";
-    private static final String ANSI_YELLOW = "\u001B[33m";
-    private static final String ANSI_CYAN = "\u001B[36m";
-
-    private String output;
-    private boolean debug = false;
-    private LogType type;
-    private String massage;
-    public void setDebug(boolean debug) {
+    private static String textColor;
+    private static String output;
+    private static boolean debug = false;
+    private static boolean trace = true;
+    public void setDebug(boolean trace) {
+        this.debug = trace;
+    }
+    public void setTrace(boolean debug) {
         this.debug = debug;
     }
-    public void setLog(String massage, LogType type){
-        this.massage = massage;
-        this.type = type;
-    }
-    public void print() {
+    public static void print(String massage, LogType type) {
+        output = "";
         switch (type) {
             case INFO:
-                textColor = ANSI_GREEN;
+                textColor = LogColor.ANSI_GREEN.getColor();
                 break;
             case WARN:
-                textColor = ANSI_YELLOW;
+                textColor = LogColor.ANSI_YELLOW.getColor();
                 break;
             case ERROR:
-                textColor = ANSI_RED;
+                textColor = LogColor.ANSI_RED.getColor();
                 break;
             case DEBUG_FATAL:
-                textColor = ANSI_CYAN;
+                textColor = LogColor.ANSI_CYAN.getColor();
                 break;
             case TRACE:
-                textColor = ANSI_RESET;
+                textColor = LogColor.ANSI_RESET.getColor();
                 break;
         }
+        output += textColor;
+        output += "[ " + type + " ] : " + massage + "\n";
+
         if ( debug == false && type == LogType.DEBUG_FATAL) output = "";
-        else output = textColor + "[ " + type + " ] : " + massage + "\n";
+        if ( trace == false && type == LogType.TRACE) output = "";
+
         System.out.printf(output);
     }
 }

@@ -1,7 +1,12 @@
 package org.example.managers;
 
 public enum CommandsNames {
-    ADD_USER("adduser");
+    ADD_USER("add_user"),
+    SHOW_USERS("show_users"),
+    START("start"),
+    START_CONS("start_cons"),
+    EXIT("exit")
+    ;
 
     private final String command;
 
