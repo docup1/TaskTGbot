@@ -6,8 +6,9 @@ public class Main {
     public static void main(String[] args) {
 
         Runnable AdminConsole = new Console();
-        //AdminConsole.run();
-        Telegram tg = new Telegram();
-        tg.run();
+        AdminConsole.run();
+        //new Connect().run();
+        //Telegram tg = new Telegram();
+        //tg.run();
     }
 }
