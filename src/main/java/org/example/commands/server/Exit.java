@@ -12,7 +12,7 @@ public class Exit extends Command {
     @Override
     public Response run(ArrayList<String> args) {
         new DataBase().closeConnection();
-        Logger.print("Server stopping...", LogType.INFO);
+        Logger.put("Server stopping...", LogType.INFO);
         System.exit(0);
         return ans;
     }

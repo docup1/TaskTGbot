@@ -14,12 +14,12 @@ public class Start extends Command {
     public Response run(ArrayList<String> args) {
         try {
             DataBase db = new DataBase();
-            db.init();
+            db.init("config/database.ini");
             db.connect();
             new Telegram().run();
         }
         catch (Exception e) {
-            Logger.print(e.getMessage(), LogType.DEBUG_FATAL);
+            Logger.put(e.getMessage(), LogType.ERROR);
         }
         return ans;
     }

@@ -18,17 +18,17 @@ public class CommandConverter {
             for(int i = 1; i < com.length; i++){
                 args.add(com[i]);
             }
-            Logger.print("Command converted.", LogType.TRACE);
-            Logger.print("Command name: " + commandName, LogType.TRACE);
-            Logger.print("Command arguments: " + args.toString(), LogType.TRACE);
+            Logger.put("Command converted.", LogType.TRACE);
+            Logger.put("Command name: " + commandName, LogType.TRACE);
+            Logger.put("Command arguments: " + args.toString(), LogType.TRACE);
         }
         catch (IllegalArgumentException e){
-            Logger.print("Command convertion field.", LogType.TRACE);
-            Logger.print(e.getMessage(), LogType.TRACE);
+            Logger.put("Command convertion field.", LogType.TRACE);
+            Logger.put(e.getMessage(), LogType.TRACE);
             commandName = null;
         }
         catch (Exception e){
-            Logger.print(e.getMessage(), LogType.DEBUG_FATAL);
+            Logger.put(e.getMessage(), LogType.ERROR);
         }
 
     }

@@ -6,12 +6,15 @@ import org.example.data.logger.Logger;
 import org.example.managers.CommandConverter;
 import org.example.managers.CommandMannager;
 
+import java.io.BufferedReader;
+
 
 public class Main {
+
     public static void main(String[] args) {
-        Logger logger = new Logger();
-        logger.setDebug(true);
+
         try {
+            Logger.init("config/logger.ini");
             String input = "";
             CommandMannager mannager = new CommandMannager();
             CommandConverter converter = new CommandConverter();
@@ -26,16 +29,17 @@ public class Main {
                 var output = "";
                 response = mannager.execute(command, arguments);
                 output += "Executed command: " + command + " Command response: " + response.getResponse();
-                Logger.print(output, LogType.INFO);
+                Logger.put(output, LogType.INFO);
             }
 
             else {
                 response = new Response("Command not found.");
-                Logger.print(response.getResponse(), LogType.WARN);
+                Logger.put(response.getResponse(), LogType.WARN);
             }
         }catch (Exception e){
-            Logger.print(e.getMessage(), LogType.ERROR);
+            Logger.put(e.getMessage(), LogType.ERROR);
         }
 
     }
+
 }

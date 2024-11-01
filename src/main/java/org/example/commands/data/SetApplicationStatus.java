@@ -5,7 +5,7 @@ import org.example.data.Response;
 
 import java.util.ArrayList;
 
-public class AddUser extends Command {
+public class SetApplicationStatus extends Command {
     public Response run(ArrayList<String> args){
         return ans;
     }

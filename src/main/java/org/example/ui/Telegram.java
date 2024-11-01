@@ -27,9 +27,10 @@ public class Telegram extends TelegramLongPollingBot implements Runnable{
         if (update.hasMessage() && update.getMessage().hasText()) {
             String messageText = update.getMessage().getText();
             long chatId = update.getMessage().getChatId();
-
+            Logger.put("ChatID: " + chatId, LogType.INFO);
             // Ответное сообщение
             String responseText = "Msg: " + messageText;
+            Logger.put(responseText, LogType.INFO);
 
             // Создание сообщения
             SendMessage message = new SendMessage();
@@ -40,7 +41,7 @@ public class Telegram extends TelegramLongPollingBot implements Runnable{
             try {
                 execute(message); // Отправка сообщения пользователю
             } catch (TelegramApiException e) {
-                Logger.print(e.getMessage(), LogType.ERROR);
+                Logger.put(e.getMessage(), LogType.ERROR);
             }
         }
     }
@@ -51,7 +52,7 @@ public class Telegram extends TelegramLongPollingBot implements Runnable{
             TelegramBotsApi botsApi = new TelegramBotsApi(DefaultBotSession.class);
             botsApi.registerBot(new Telegram());
         } catch (TelegramApiException e) {
-            Logger.print(e.getMessage(), LogType.ERROR);
+            Logger.put(e.getMessage(), LogType.ERROR);
         }
     }
 }

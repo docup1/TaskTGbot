@@ -1,0 +1,14 @@
+[0m[ "03:22:51 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "03:22:51 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "03:22:51 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "03:22:51 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "03:22:53 | 01.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "03:22:53 | 01.11.24" ] [ TRACE ] : No enum constant for command: sfg[0m
+[33m[ "03:22:53 | 01.11.24" ] [ WARN ] : Command not found.[0m
+[0m[ "03:22:54 | 01.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "03:22:54 | 01.11.24" ] [ TRACE ] : No enum constant for command: sdf[0m
+[33m[ "03:22:54 | 01.11.24" ] [ WARN ] : Command not found.[0m
+[0m[ "03:22:56 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "03:22:56 | 01.11.24" ] [ TRACE ] : Command name: EXIT[0m
+[0m[ "03:22:56 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "03:22:56 | 01.11.24" ] [ INFO ] : Server stopping...[0m

@@ -2,10 +2,12 @@ package org.example.managers;
 
 public enum CommandsNames {
     ADD_USER("add_user"),
+    CREATE_TASK("create_task"),
     SHOW_USERS("show_users"),
     START("start"),
     START_CONS("start_cons"),
-    EXIT("exit")
+    EXIT("exit"),
+    PRINT_LOGS("print_logs"),
     ;
 
     private final String command;

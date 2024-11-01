@@ -20,7 +20,7 @@ public class Console implements Runnable{
     }
     @Override
     public void run() {
-        Logger.print("Console started successfully", LogType.INFO);
+        Logger.put("Console started successfully", LogType.INFO, true);
         while (true){
             try {
                 scanner = new Scanner(System.in);
@@ -31,14 +31,14 @@ public class Console implements Runnable{
                     var output = "";
                     response = mannager.execute(command, args);
                     output += "Executed command: " + command + " Command response: " + response.getResponse();
-                    Logger.print(output, LogType.INFO);
+                    Logger.put(output, LogType.INFO, true);
                 }
                 else {
                     response = new Response("Command not found.");
-                    Logger.print(response.getResponse(), LogType.WARN);
+                    Logger.put(response.getResponse(), LogType.WARN, true);
                 }
             }catch (Exception e){
-                Logger.print(e.getMessage(), LogType.ERROR);
+                Logger.put(e.getMessage(), LogType.ERROR, true);
             }
         }
     }
