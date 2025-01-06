@@ -1,0 +1,2129 @@
+[36m[ "02:42:01 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:42:01 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:42:01 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:42:01 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:42:01 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "02:42:01 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "02:42:01 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[36m[ "02:42:42 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:42:42 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:42:42 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:42:42 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:42:42 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "02:42:42 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "02:42:42 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[36m[ "02:43:02 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:43:02 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:43:02 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:43:02 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:43:02 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "02:43:02 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "02:43:02 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[36m[ "02:43:24 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:43:24 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:43:24 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:43:24 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:43:24 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "02:43:24 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "02:43:24 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[36m[ "02:44:30 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:44:30 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:44:30 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:44:30 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:44:30 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "02:44:30 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "02:44:30 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:44:31 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:44:31 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:44:31 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 1[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню задач[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 1[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Информация[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 1[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Нажмите кнопку ниже для получения дополнительной информации:[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:44:31 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 1[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:44:31 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 1[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:44:31 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 1[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: /applytask[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 1[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:44:31 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 1[0m
+[36m[ "02:44:31 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:44:59 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "02:44:59 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:44:59 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 0[0m
+[36m[ "02:44:59 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 0[0m
+[36m[ "02:45:00 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:45:04 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:45:04 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:45:04 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:45:04 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:45:09 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:45:09 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:45:09 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 1[0m
+[36m[ "02:45:09 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:45:11 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "02:45:11 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:45:11 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 0[0m
+[36m[ "02:45:11 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 0[0m
+[36m[ "02:45:11 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:45:13 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:45:13 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:45:13 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:45:13 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:45:15 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:45:15 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:45:15 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 1[0m
+[36m[ "02:45:15 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:45:17 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "02:45:17 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:45:17 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 0[0m
+[36m[ "02:45:17 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 0[0m
+[36m[ "02:45:17 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:45:21 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:45:21 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:45:21 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:45:21 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:45:23 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:45:23 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:45:23 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 1[0m
+[36m[ "02:45:23 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:45:26 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "02:45:26 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:45:26 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 0[0m
+[36m[ "02:45:26 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 0[0m
+[36m[ "02:45:26 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:45:30 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: В начало[0m
+[36m[ "02:45:30 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 0[0m
+[36m[ "02:45:30 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:45:33 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:45:33 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:45:33 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 0[0m
+[36m[ "02:45:34 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:45:35 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: В начало[0m
+[36m[ "02:45:35 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 0[0m
+[36m[ "02:45:35 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:45:37 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Информация[0m
+[36m[ "02:45:37 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 0[0m
+[36m[ "02:45:37 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Нажмите кнопку ниже для получения дополнительной информации:[0m
+[36m[ "02:45:39 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Информация[0m
+[36m[ "02:45:39 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 0[0m
+[36m[ "02:45:39 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Нажмите кнопку ниже для получения дополнительной информации:[0m
+[36m[ "02:45:42 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Информация[0m
+[36m[ "02:45:42 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 0[0m
+[36m[ "02:45:42 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Нажмите кнопку ниже для получения дополнительной информации:[0m
+[36m[ "02:45:53 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:45:53 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:45:53 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:45:53 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:45:53 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "02:45:53 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "02:45:53 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:45:53 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:45:53 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "02:45:55 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:45:55 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:45:55 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 1[0m
+[36m[ "02:45:55 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:46:00 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "02:46:00 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:46:00 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 0[0m
+[36m[ "02:46:00 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 0[0m
+[36m[ "02:46:00 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:46:08 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:46:08 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:46:08 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:46:08 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:46:11 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:46:11 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:46:11 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 1[0m
+[36m[ "02:46:11 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:46:22 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "02:46:22 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:46:22 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 0[0m
+[36m[ "02:46:22 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 0[0m
+[36m[ "02:46:22 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:46:25 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:46:25 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:46:25 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:46:25 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:46:28 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Информация[0m
+[36m[ "02:46:28 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:46:28 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Нажмите кнопку ниже для получения дополнительной информации:[0m
+[36m[ "02:46:33 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню задач[0m
+[36m[ "02:46:33 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:46:33 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:46:35 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:46:35 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:46:35 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:46:35 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:46:37 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:46:37 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:46:37 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 1[0m
+[36m[ "02:46:37 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:47:56 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:47:56 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:47:56 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:47:56 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:47:56 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "02:47:56 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "02:47:56 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:47:57 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:47:57 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "02:48:00 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: В начало[0m
+[36m[ "02:48:00 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:48:00 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:48:04 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:48:04 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:48:04 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Меню задач] | Counter: 1[0m
+[36m[ "02:48:04 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:48:39 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:48:39 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:48:39 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:48:39 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:48:39 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "02:48:39 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "02:48:39 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:48:39 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:48:39 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "02:48:40 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:48:40 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:48:40 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:48:40 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:48:43 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:48:43 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:48:43 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "02:48:43 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Информация о пользователе:
+<b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Назад
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "02:48:46 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:48:46 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:48:46 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:48:47 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:48:48 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:48:48 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:48:48 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "02:48:48 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Информация о пользователе:
+<b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Назад
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "02:48:52 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:48:52 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:48:52 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:48:52 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:48:59 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню задач[0m
+[36m[ "02:48:59 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:48:59 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:49:01 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:49:01 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:49:01 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:49:01 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:49:02 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Информация[0m
+[36m[ "02:49:02 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:49:02 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Нажмите кнопку ниже для получения дополнительной информации:[0m
+[36m[ "02:49:02 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Информация[0m
+[36m[ "02:49:02 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:49:02 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Нажмите кнопку ниже для получения дополнительной информации:[0m
+[36m[ "02:49:04 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню задач[0m
+[36m[ "02:49:04 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:49:04 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:49:04 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню задач[0m
+[36m[ "02:49:04 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:49:04 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:49:04 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Черновики[0m
+[36m[ "02:49:04 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:49:04 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "02:49:04 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Создать задачу[0m
+[36m[ "02:49:04 | 11.11.24" ] [ DEBUG ] : [Меню задач, Создать задачу] | Counter: 1[0m
+[36m[ "02:49:04 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Новая задача создана.[0m
+[36m[ "02:49:09 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:49:09 | 11.11.24" ] [ DEBUG ] : [Меню задач, Создать задачу] | Counter: 0[0m
+[36m[ "02:49:09 | 11.11.24" ] [ DEBUG ] : [Меню задач, Создать задачу] | Counter: 0[0m
+[36m[ "02:49:09 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:49:14 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:49:14 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:49:14 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:49:14 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:49:19 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:49:19 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:49:19 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "02:49:19 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Информация о пользователе:
+<b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Назад
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "02:50:01 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:50:01 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:50:01 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:50:01 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:50:01 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "02:50:01 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "02:50:01 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:50:01 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:50:01 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "02:50:04 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "02:50:04 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:50:04 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "02:50:06 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "02:50:06 | 11.11.24" ] [ INFO ] : Bio updated successfully. Rows affected: 1[0m
+[32m[ "02:50:06 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:50:06 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Информация о пользователе:
+<b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Назад
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "02:52:02 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:52:02 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:52:02 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:52:02 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:52:02 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "02:52:02 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "02:52:02 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:52:02 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:52:02 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "02:52:56 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: В начало[0m
+[36m[ "02:52:56 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:52:56 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:53:03 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:53:03 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:53:03 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "02:53:03 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Назад
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "02:53:05 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "02:53:05 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "02:53:05 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "02:53:09 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Аоаочоатат[0m
+[32m[ "02:53:09 | 11.11.24" ] [ INFO ] : Bio updated successfully. Rows affected: 1[0m
+[32m[ "02:53:09 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:53:09 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Информация о пользователе:
+<b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аоаочоатат
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "02:53:13 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "02:53:13 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "02:53:13 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "02:53:16 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:53:16 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:53:16 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:53:22 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:53:22 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:53:22 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "02:53:22 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аоаочоатат
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "02:54:04 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:54:04 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:54:04 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:54:04 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:54:04 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "02:54:04 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "02:54:04 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:54:04 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:54:04 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "02:54:07 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:54:07 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:54:07 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:54:07 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:54:13 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:54:13 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:54:13 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "02:54:13 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аоаочоатат
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "02:54:15 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "02:54:15 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "02:54:16 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "02:54:17 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "02:54:17 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:54:17 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 0[0m
+[36m[ "02:54:17 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аоаочоатат
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "02:54:20 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "02:54:20 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 0[0m
+[36m[ "02:54:20 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "02:54:21 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:54:21 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:54:21 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:54:42 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "02:54:42 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:54:42 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "02:54:42 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аоаочоатат
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "02:54:44 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "02:54:44 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "02:54:44 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "02:54:45 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "02:54:45 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "02:54:45 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 0[0m
+[36m[ "02:54:45 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аоаочоатат
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "02:54:46 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "02:54:46 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 0[0m
+[36m[ "02:54:46 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "02:54:47 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:54:47 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:54:47 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:55:04 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню задач[0m
+[36m[ "02:55:04 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:55:04 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:55:06 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Мои задачи[0m
+[36m[ "02:55:06 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:55:06 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "02:55:11 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Черновики[0m
+[36m[ "02:55:11 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:55:11 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "02:55:12 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: История[0m
+[36m[ "02:55:12 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:55:12 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "02:55:13 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Мои задачи[0m
+[36m[ "02:55:13 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:55:13 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "02:55:14 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Черновики[0m
+[36m[ "02:55:14 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:55:14 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "02:55:14 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: История[0m
+[36m[ "02:55:14 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:55:14 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "02:55:27 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: В начало[0m
+[36m[ "02:55:27 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:55:27 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:55:30 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню задач[0m
+[36m[ "02:55:30 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:55:30 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:55:31 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:55:31 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:55:31 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:55:31 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:55:32 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню задач[0m
+[36m[ "02:55:32 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:55:32 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:55:33 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:55:33 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:55:33 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:55:33 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:55:34 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню задач[0m
+[36m[ "02:55:34 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:55:34 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:55:35 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: В начало[0m
+[36m[ "02:55:35 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:55:35 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:55:36 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню задач[0m
+[36m[ "02:55:36 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:55:36 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:55:38 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Мои задачи[0m
+[36m[ "02:55:38 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "02:55:38 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "02:55:40 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Создать задачу[0m
+[36m[ "02:55:40 | 11.11.24" ] [ DEBUG ] : [Меню задач, Создать задачу] | Counter: 1[0m
+[36m[ "02:55:40 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Новая задача создана.[0m
+[36m[ "02:55:40 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:55:40 | 11.11.24" ] [ DEBUG ] : [Меню задач, Создать задачу] | Counter: 0[0m
+[36m[ "02:55:40 | 11.11.24" ] [ DEBUG ] : [Меню задач, Создать задачу] | Counter: 0[0m
+[36m[ "02:55:41 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "02:55:42 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "02:55:42 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:55:42 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "02:55:42 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "02:58:43 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:58:43 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:58:43 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:58:43 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:58:43 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "02:58:43 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "02:58:43 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:58:44 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:58:44 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "03:11:44 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "03:11:44 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "03:11:44 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "03:11:44 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "03:11:44 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "03:11:44 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "03:11:44 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "03:11:44 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "03:11:44 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "03:12:15 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "03:12:15 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:12:15 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:12:15 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аоаочоатат
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:12:19 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:12:19 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:12:19 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:12:22 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:12:22 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:12:22 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:12:22 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аоаочоатат
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:12:30 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:12:30 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 2[0m
+[36m[ "03:12:31 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:12:31 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:12:31 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 2[0m
+[36m[ "03:12:32 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:12:36 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:12:36 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 2[0m
+[36m[ "03:12:36 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:12:38 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:12:38 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 2[0m
+[36m[ "03:12:38 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:12:40 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:12:40 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 2[0m
+[36m[ "03:12:40 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:12:41 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[32m[ "03:12:41 | 11.11.24" ] [ INFO ] : Bio updated successfully. Rows affected: 1[0m
+[32m[ "03:12:41 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:12:41 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Информация о пользователе:
+<b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Изменить описание профиля
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:12:44 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:12:44 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 2[0m
+[36m[ "03:12:44 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 2[0m
+[36m[ "03:12:44 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:12:48 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:12:48 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 2[0m
+[36m[ "03:12:49 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:12:50 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:12:50 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 2[0m
+[36m[ "03:12:50 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:12:51 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:12:51 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 2[0m
+[36m[ "03:12:51 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:12:52 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:12:52 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 2[0m
+[36m[ "03:12:52 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:12:52 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:12:52 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 2[0m
+[36m[ "03:12:52 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:12:53 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:12:53 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 2[0m
+[36m[ "03:12:53 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:12:53 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:12:53 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 2[0m
+[36m[ "03:12:53 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:12:54 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:12:54 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 2[0m
+[36m[ "03:12:54 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:12:54 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:12:54 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 2[0m
+[36m[ "03:12:54 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:12:55 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:12:55 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 2[0m
+[36m[ "03:12:55 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:12:55 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:12:55 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 2[0m
+[36m[ "03:12:55 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:13:12 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: В начало[0m
+[32m[ "03:13:12 | 11.11.24" ] [ INFO ] : Bio updated successfully. Rows affected: 1[0m
+[32m[ "03:13:12 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:13:12 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Информация о пользователе:
+<b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+В начало
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:13:15 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "03:13:15 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:13:15 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 3[0m
+[36m[ "03:13:15 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+В начало
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:13:17 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:13:17 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:13:17 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:13:17 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "03:13:21 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "03:13:21 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:13:21 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:13:21 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+В начало
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:13:22 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:13:22 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:13:22 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:13:22 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "03:13:23 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "03:13:23 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:13:23 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:13:23 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+В начало
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:13:26 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:13:26 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:13:26 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:13:27 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:13:27 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:13:27 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:13:27 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+В начало
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:13:28 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:13:28 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:13:28 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:13:28 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:13:28 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+В начало
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:13:29 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:13:29 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:13:29 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:13:29 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:13:29 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+В начало
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:13:30 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:13:30 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:13:30 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:13:30 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:13:30 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+В начало
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:13:32 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:13:32 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:13:32 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:13:32 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:13:32 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+В начало
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:13:33 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:13:33 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:13:33 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:13:33 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:13:33 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+В начало
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:15:01 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "03:15:01 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "03:15:01 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "03:15:01 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "03:15:01 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "03:15:01 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "03:15:01 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "03:15:01 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "03:15:01 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "03:15:05 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: В начало[0m
+[36m[ "03:15:05 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:15:05 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "03:15:06 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "03:15:06 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:15:06 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:15:06 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+В начало
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:15:14 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:15:14 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:14 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:15:17 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Аваа[0m
+[32m[ "03:15:17 | 11.11.24" ] [ INFO ] : Bio updated successfully. Rows affected: 1[0m
+[32m[ "03:15:17 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:15:17 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Информация о пользователе:
+<b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:15:19 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:15:19 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:19 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:15:20 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:15:20 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:15:20 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:20 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:15:22 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:15:22 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:22 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:15:23 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:15:23 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:15:23 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:23 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:15:24 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:15:24 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:15:24 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:24 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:24 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:15:25 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:15:25 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:15:25 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:25 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:25 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:15:26 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:15:26 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:15:26 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:26 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:26 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:15:26 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:15:26 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:15:26 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:26 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:26 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:15:26 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:15:26 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:15:26 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:26 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:26 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:15:27 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:15:27 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:15:27 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:15:27 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:15:27 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:27 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:15:30 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:15:30 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:15:30 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:30 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:30 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:15:31 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:15:31 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:15:31 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:31 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:15:31 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:43:57 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "03:43:57 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "03:43:57 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "03:43:57 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "03:43:57 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "03:43:57 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "03:43:57 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "03:43:58 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "03:43:58 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "03:44:26 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: В начало[0m
+[36m[ "03:44:26 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:44:27 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "03:44:29 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "03:44:29 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:44:29 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:44:29 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:44:32 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:44:32 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:44:32 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:44:33 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:44:33 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:44:33 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 0[0m
+[36m[ "03:44:34 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:44:35 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:44:35 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 0[0m
+[36m[ "03:44:35 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:44:36 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:44:36 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:44:36 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "03:45:08 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "03:45:08 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "03:45:08 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "03:45:08 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "03:45:08 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "03:45:08 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "03:45:08 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "03:45:08 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "03:45:08 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "03:45:10 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "03:45:10 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:45:10 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:45:11 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:45:12 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:45:12 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:12 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:45:13 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:45:13 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:45:13 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:13 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:45:14 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:45:14 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:14 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:45:15 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:45:15 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:45:15 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:15 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:45:17 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:45:17 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:17 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:45:18 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:45:18 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:45:18 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:18 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:45:22 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:45:22 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:22 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:45:23 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:45:23 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:45:23 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:23 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:45:24 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:45:24 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:45:24 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:24 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:24 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:45:25 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:45:25 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:45:25 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:25 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:26 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:45:27 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:45:27 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:45:27 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:27 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:27 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:45:27 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:45:27 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:45:27 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:27 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:27 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:45:28 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:45:28 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:45:28 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:28 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:28 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:45:29 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:45:29 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:45:29 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:29 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:29 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:45:30 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:45:30 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:45:30 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:30 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:30 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:45:31 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:45:31 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:45:31 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:31 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:45:31 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:46:39 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "03:46:39 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "03:46:39 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "03:46:39 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "03:46:39 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "03:46:39 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "03:46:39 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "03:46:40 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "03:46:40 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "03:46:43 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: В начало[0m
+[36m[ "03:46:43 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:46:43 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "03:46:46 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "03:46:46 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:46:46 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:46:47 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:46:50 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:46:50 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:46:50 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:46:55 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:46:55 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:46:55 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:46:55 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:47:04 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:47:04 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:47:04 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:47:04 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:47:04 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:47:06 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:47:06 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:47:06 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:47:06 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:47:07 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:47:08 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:47:08 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:47:08 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:47:08 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:47:08 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:50:30 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "03:50:30 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "03:50:30 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "03:50:30 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "03:50:30 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "03:50:30 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "03:50:30 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "03:50:30 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "03:50:30 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "03:50:33 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: В начало[0m
+[36m[ "03:50:33 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:50:33 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "03:50:35 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "03:50:35 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:50:35 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:50:35 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:50:41 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:50:41 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:50:41 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:50:44 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:50:44 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:50:44 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:50:44 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:52:29 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "03:52:29 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "03:52:29 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "03:52:29 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "03:52:29 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "03:52:29 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "03:52:29 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "03:52:29 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "03:52:29 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "03:52:32 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: В начало[0m
+[36m[ "03:52:32 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:52:32 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "03:52:34 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "03:52:34 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:52:34 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:52:34 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:52:36 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:52:36 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:52:36 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:52:43 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:52:43 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:52:43 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 0[0m
+[36m[ "03:52:43 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аваа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:53:02 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:53:02 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 0[0m
+[36m[ "03:53:02 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:53:05 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[32m[ "03:53:05 | 11.11.24" ] [ INFO ] : Bio updated successfully. Rows affected: 1[0m
+[32m[ "03:53:05 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:53:05 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Информация о пользователе:
+<b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Изменить описание профиля
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:53:06 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:53:06 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 0[0m
+[36m[ "03:53:07 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:53:13 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[32m[ "03:53:13 | 11.11.24" ] [ INFO ] : Bio updated successfully. Rows affected: 1[0m
+[32m[ "03:53:13 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:53:13 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Информация о пользователе:
+<b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Изменить описание профиля
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:53:57 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "03:53:57 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "03:53:57 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "03:53:57 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "03:53:57 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "03:53:57 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "03:53:57 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "03:53:57 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "03:53:57 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "03:54:00 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: В начало[0m
+[36m[ "03:54:00 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:54:00 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "03:54:03 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "03:54:03 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:54:03 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:54:03 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Изменить описание профиля
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:54:06 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:54:06 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:54:06 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:54:08 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:54:08 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:54:08 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:54:08 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Изменить описание профиля
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:54:14 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:54:14 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:54:14 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:54:21 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:54:21 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:54:21 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:54:21 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Изменить описание профиля
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:54:25 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:54:25 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:54:25 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:54:26 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:54:26 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:54:26 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:54:26 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Изменить описание профиля
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:54:28 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:54:28 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:54:28 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:54:31 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Ннн[0m
+[32m[ "03:54:31 | 11.11.24" ] [ INFO ] : Bio updated successfully. Rows affected: 1[0m
+[32m[ "03:54:31 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:54:32 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Информация о пользователе:
+<b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Ннн
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:54:35 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:54:35 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:54:35 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:54:35 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:54:35 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Ннн
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:54:37 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:54:37 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:54:37 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:54:37 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "03:54:50 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "03:54:50 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:54:50 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:54:50 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Ннн
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:54:56 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:54:56 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:54:56 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:55:00 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:55:00 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:55:00 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:55:00 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Ннн
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:55:03 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:55:03 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:55:03 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:55:03 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "03:55:06 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "03:55:06 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:55:06 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:55:06 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Ннн
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:55:07 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:55:07 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:55:07 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:55:08 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:55:08 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:55:08 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:55:09 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Ннн
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:55:10 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:55:10 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:55:10 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:55:11 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:55:11 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:55:11 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:55:11 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Ннн
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:55:12 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:55:12 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:55:12 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:55:13 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:55:13 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:55:13 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:55:13 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Ннн
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:55:15 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:55:15 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:55:15 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:55:15 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "03:55:17 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "03:55:17 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:55:17 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:55:17 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Ннн
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:55:19 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:55:19 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:55:19 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:55:23 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Аттататаьстстс[0m
+[32m[ "03:55:23 | 11.11.24" ] [ INFO ] : Bio updated successfully. Rows affected: 1[0m
+[32m[ "03:55:23 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:55:23 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Информация о пользователе:
+<b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аттататаьстстс
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:55:30 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:55:30 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:55:30 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:55:30 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:55:30 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аттататаьстстс
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:55:35 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:55:35 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:55:35 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:55:35 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "03:57:23 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "03:57:23 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "03:57:23 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "03:57:23 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "03:57:23 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "03:57:23 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "03:57:24 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "03:57:24 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "03:57:24 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "03:57:27 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "03:57:27 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:57:27 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:57:28 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Аттататаьстстс
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:57:32 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:57:32 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:57:32 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:57:35 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Ннн[0m
+[32m[ "03:57:35 | 11.11.24" ] [ INFO ] : Bio updated successfully. Rows affected: 1[0m
+[32m[ "03:57:35 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:57:35 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Ннн
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:57:38 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:57:38 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:57:38 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:57:38 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "03:57:39 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "03:57:39 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:57:39 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:57:39 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Ннн
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:57:41 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:57:41 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:57:41 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:57:42 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:57:42 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:57:42 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:57:42 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Ннн
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:57:43 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:57:43 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:57:43 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:57:44 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:57:44 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:57:44 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:57:44 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Ннн
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:57:45 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:57:45 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "03:57:45 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:57:46 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "03:57:46 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:57:46 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "03:57:46 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Ннн
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:57:47 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:57:47 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:57:47 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:57:47 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "03:57:55 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню задач[0m
+[36m[ "03:57:55 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "03:57:55 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "03:57:56 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Создать задачу[0m
+[36m[ "03:57:56 | 11.11.24" ] [ DEBUG ] : [Меню задач, Создать задачу] | Counter: 1[0m
+[36m[ "03:57:56 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Новая задача создана.[0m
+[36m[ "03:57:57 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:57:57 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "03:57:57 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "03:57:57 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "03:57:59 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Создать задачу[0m
+[36m[ "03:57:59 | 11.11.24" ] [ DEBUG ] : [Меню задач, Создать задачу] | Counter: 1[0m
+[36m[ "03:57:59 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Новая задача создана.[0m
+[36m[ "03:58:00 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:58:00 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "03:58:00 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "03:58:00 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "03:58:00 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Создать задачу[0m
+[36m[ "03:58:00 | 11.11.24" ] [ DEBUG ] : [Меню задач, Создать задачу] | Counter: 1[0m
+[36m[ "03:58:00 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Новая задача создана.[0m
+[36m[ "03:58:01 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:58:01 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "03:58:01 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "03:58:01 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "03:58:02 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "03:58:02 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:58:02 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "03:58:02 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "04:05:59 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "04:05:59 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "04:05:59 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "04:05:59 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Ннн
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "04:06:01 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "04:06:01 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "04:06:01 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "04:06:03 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[32m[ "04:06:03 | 11.11.24" ] [ INFO ] : Bio updated successfully. Rows affected: 1[0m
+[32m[ "04:06:03 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "04:06:03 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Изменить описание профиля
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "04:06:05 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "04:06:05 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "04:06:05 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "04:06:05 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "04:06:07 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Информация[0m
+[36m[ "04:06:07 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "04:06:07 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Нажмите кнопку ниже для получения дополнительной информации:[0m
+[36m[ "04:06:08 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Информация[0m
+[36m[ "04:06:08 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "04:06:08 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Нажмите кнопку ниже для получения дополнительной информации:[0m
+[36m[ "04:06:11 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню задач[0m
+[36m[ "04:06:11 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "04:06:11 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "04:06:12 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Черновики[0m
+[36m[ "04:06:12 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "04:06:12 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "04:06:15 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Черновики[0m
+[36m[ "04:06:15 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "04:06:15 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "04:06:18 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "04:06:18 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "04:06:18 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "04:06:18 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "04:14:37 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Информация[0m
+[36m[ "04:14:37 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "04:14:37 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Нажмите кнопку ниже для получения дополнительной информации:[0m
+[36m[ "04:14:40 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню задач[0m
+[36m[ "04:14:40 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "04:14:41 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "04:14:54 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Мои задачи[0m
+[36m[ "04:14:54 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "04:14:54 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "04:14:56 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Черновики[0m
+[36m[ "04:14:56 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "04:14:56 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "04:14:58 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: История[0m
+[36m[ "04:14:58 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "04:14:58 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "04:14:59 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Мои задачи[0m
+[36m[ "04:14:59 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "04:14:59 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "04:15:00 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Черновики[0m
+[36m[ "04:15:00 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "04:15:00 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "04:15:00 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: История[0m
+[36m[ "04:15:00 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "04:15:00 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "04:15:03 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Мои задачи[0m
+[36m[ "04:15:03 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "04:15:03 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "04:15:03 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Черновики[0m
+[36m[ "04:15:03 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "04:15:03 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "04:15:04 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: История[0m
+[36m[ "04:15:04 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "04:15:04 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "04:15:06 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "04:15:06 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "04:15:06 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "04:15:07 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "04:15:08 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "04:15:08 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "04:15:08 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "04:15:08 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Изменить описание профиля
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "04:18:31 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "04:18:31 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "04:18:31 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "04:18:31 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "04:18:31 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "04:18:31 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "04:18:31 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "04:18:31 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "04:18:31 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "04:18:33 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: В начало[0m
+[36m[ "04:18:33 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "04:18:33 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "04:18:34 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "04:18:34 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "04:18:34 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "04:18:34 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Изменить описание профиля
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "04:18:36 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "04:18:36 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "04:18:36 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "04:18:37 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "04:18:37 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "04:18:37 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "04:18:37 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Изменить описание профиля
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "04:18:39 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "04:18:39 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "04:18:39 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "04:18:40 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "04:18:40 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "04:18:40 | 11.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "04:18:40 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Изменить описание профиля
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "04:18:43 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "04:18:43 | 11.11.24" ] [ DEBUG ] : [Меню пользователя, Изменить описание профиля] | Counter: 1[0m
+[36m[ "04:18:43 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "04:18:45 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Пааа[0m
+[32m[ "04:18:45 | 11.11.24" ] [ INFO ] : Bio updated successfully. Rows affected: 1[0m
+[32m[ "04:18:45 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "04:18:45 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Пааа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "04:18:48 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "04:18:48 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "04:18:48 | 11.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "04:18:48 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Вы вернулись на главную страницу.[0m
+[36m[ "04:39:43 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "04:39:43 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "04:39:43 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "04:39:43 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "04:39:43 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "04:39:43 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "04:39:43 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "04:39:44 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "04:39:44 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "04:39:50 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "04:39:50 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "04:39:51 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Пааа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "04:39:54 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "04:39:54 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "04:39:55 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[32m[ "04:39:55 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "04:39:55 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Пааа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "04:39:58 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "04:39:58 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "04:40:00 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Информация[0m
+[36m[ "04:40:00 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Нажмите кнопку ниже для получения дополнительной информации:[0m
+[36m[ "04:40:01 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню задач[0m
+[36m[ "04:40:01 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "04:40:10 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: История[0m
+[36m[ "04:40:10 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "04:40:10 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "04:40:16 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Мои задачи[0m
+[36m[ "04:40:16 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "04:40:16 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "04:40:17 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Черновики[0m
+[36m[ "04:40:17 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "04:40:17 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "04:40:22 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: В начало[0m
+[36m[ "04:40:22 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "04:40:23 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню задач[0m
+[36m[ "04:40:23 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "04:40:24 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "04:40:24 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "04:40:26 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню задач[0m
+[36m[ "04:40:27 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "04:40:27 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Создать задачу[0m
+[36m[ "04:40:27 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Новая задача создана.[0m
+[36m[ "04:40:34 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "04:40:34 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "04:40:41 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "04:40:41 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "11:47:48 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "11:47:48 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "11:47:48 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "11:47:48 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "11:47:48 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "11:47:48 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "11:47:49 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "11:48:04 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "11:48:04 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "11:48:08 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "11:48:08 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "11:48:08 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Пааа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "11:48:15 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "11:48:15 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "11:48:16 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "11:48:16 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "11:48:17 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Пааа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "11:48:27 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "11:48:27 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "11:48:28 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "11:48:28 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "11:48:29 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Пааа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "11:48:30 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "11:48:30 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "11:48:32 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[32m[ "11:48:32 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "11:48:32 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Пааа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "11:48:33 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "11:48:33 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "11:48:34 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню задач[0m
+[36m[ "11:48:34 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "11:48:44 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Мои задачи[0m
+[36m[ "11:48:44 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "11:48:44 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "11:48:45 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Черновики[0m
+[36m[ "11:48:45 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "11:48:45 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "11:48:46 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: История[0m
+[36m[ "11:48:46 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "11:48:46 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "11:48:48 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Создать задачу[0m
+[36m[ "11:48:48 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Новая задача создана.[0m
+[36m[ "11:48:50 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Отметить выполнено / не выролнено[0m
+[36m[ "11:48:50 | 11.11.24" ] [ DEBUG ] : [Меню задач, Создать задачу] | Counter: 1[0m
+[36m[ "11:48:50 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "11:48:51 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Снять задачу / Опубликовать[0m
+[36m[ "11:48:51 | 11.11.24" ] [ DEBUG ] : [Меню задач, Создать задачу] | Counter: 1[0m
+[36m[ "11:48:51 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "11:48:52 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Установить название[0m
+[36m[ "11:48:52 | 11.11.24" ] [ DEBUG ] : [Меню задач, Создать задачу] | Counter: 1[0m
+[36m[ "11:48:52 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "11:48:52 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Установить описание[0m
+[36m[ "11:48:52 | 11.11.24" ] [ DEBUG ] : [Меню задач, Создать задачу] | Counter: 1[0m
+[36m[ "11:48:53 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "11:48:53 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Установить дедлайн[0m
+[36m[ "11:48:53 | 11.11.24" ] [ DEBUG ] : [Меню задач, Создать задачу] | Counter: 1[0m
+[36m[ "11:48:53 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "11:48:54 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Указать категорию[0m
+[36m[ "11:48:54 | 11.11.24" ] [ DEBUG ] : [Меню задач, Создать задачу] | Counter: 1[0m
+[36m[ "11:48:54 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "11:49:00 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Установить вознаграждение[0m
+[36m[ "11:49:00 | 11.11.24" ] [ DEBUG ] : [Меню задач, Создать задачу] | Counter: 1[0m
+[36m[ "11:49:00 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "11:49:01 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Задать валюту[0m
+[36m[ "11:49:01 | 11.11.24" ] [ DEBUG ] : [Меню задач, Создать задачу] | Counter: 1[0m
+[36m[ "11:49:01 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "11:49:03 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "11:49:03 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "11:49:15 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "11:49:15 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "13:04:48 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "13:04:48 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "13:04:48 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "13:04:48 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "13:04:48 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "13:04:48 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "13:04:49 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[31m[ "13:04:58 | 11.11.24" ] [ ERROR ] : Failed to register bot: Error removing old webhook[0m
+[32m[ "13:04:58 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "13:04:58 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "13:05:18 | 11.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "13:05:18 | 11.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "13:05:18 | 11.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "13:05:18 | 11.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "13:05:18 | 11.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "13:05:18 | 11.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "13:05:21 | 11.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "13:05:22 | 11.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "13:05:22 | 11.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "13:05:23 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "13:05:23 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "13:05:23 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Пааа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "13:05:25 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "13:05:25 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "13:05:27 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[32m[ "13:05:27 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "13:05:27 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Пааа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "13:05:28 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "13:05:28 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "13:05:29 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[32m[ "13:05:29 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "13:05:29 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Пааа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "13:05:30 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "13:05:30 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "13:05:31 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[32m[ "13:05:31 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "13:05:31 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Пааа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "13:05:32 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "13:05:32 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "13:05:35 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню задач[0m
+[36m[ "13:05:36 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "13:05:37 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Создать задачу[0m
+[36m[ "13:05:37 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Новая задача создана.[0m
+[36m[ "13:05:39 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "13:05:39 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "13:05:41 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Мои задачи[0m
+[36m[ "13:05:41 | 11.11.24" ] [ DEBUG ] : [Меню задач] | Counter: 0[0m
+[36m[ "13:05:41 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "13:05:46 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Создать задачу[0m
+[36m[ "13:05:46 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Новая задача создана.[0m
+[36m[ "13:05:47 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "13:05:47 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "13:06:01 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "13:06:02 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "13:06:26 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "13:06:26 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "13:06:26 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Пааа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "13:06:28 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "13:06:28 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "13:23:41 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[32m[ "13:23:42 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "13:23:42 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Пааа
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "13:23:42 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "13:23:42 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "13:23:42 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "13:23:42 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "13:23:42 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "13:23:42 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "13:23:42 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "13:23:42 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "13:23:42 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: В начало[0m
+[36m[ "13:23:43 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "13:58:02 | 11.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "13:58:02 | 11.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "13:58:02 | 11.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Пааа
+
+<b>Дата создания:</b> 01.11.2024
+[0m

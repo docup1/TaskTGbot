@@ -1,0 +1,329 @@
+[36m[ "01:59:05 | 04.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "01:59:05 | 04.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "01:59:05 | 04.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "01:59:05 | 04.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "01:59:05 | 04.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[32m[ "01:59:06 | 04.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "01:59:06 | 04.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "01:59:06 | 04.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "02:10:11 | 04.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:10:11 | 04.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:10:11 | 04.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:10:11 | 04.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:10:11 | 04.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[32m[ "02:10:11 | 04.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:10:11 | 04.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:10:11 | 04.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "02:10:27 | 04.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "02:10:27 | 04.11.24" ] [ TRACE ] : Command name: SHOW_TASKS[0m
+[0m[ "02:10:27 | 04.11.24" ] [ TRACE ] : Command arguments: [][0m
+[33m[ "02:10:27 | 04.11.24" ] [ WARN ] : Error: User ID cannot be empty.[0m
+[32m[ "02:10:27 | 04.11.24" ] [ INFO ] : Executed command: SHOW_TASKS BAD_REQUEST[0m
+[32m[ "02:10:27 | 04.11.24" ] [ INFO ] : Command data: ID пользователя не может быть пустым[0m
+[36m[ "02:10:51 | 04.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:10:51 | 04.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:10:51 | 04.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:10:51 | 04.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:10:51 | 04.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[32m[ "02:10:51 | 04.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:10:52 | 04.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:10:52 | 04.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "02:11:00 | 04.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "02:11:00 | 04.11.24" ] [ TRACE ] : Command name: SHOW_TASKS[0m
+[0m[ "02:11:00 | 04.11.24" ] [ TRACE ] : Command arguments: [][0m
+[31m[ "02:11:00 | 04.11.24" ] [ ERROR ] : Unexpected Error: Index 0 out of bounds for length 0[0m
+[36m[ "02:11:00 | 04.11.24" ] [ DEBUG ] : IndexOutOfBoundsException[0m
+[32m[ "02:11:00 | 04.11.24" ] [ INFO ] : Executed command: SHOW_TASKS INTERNAL_SERVER_ERROR[0m
+[32m[ "02:11:00 | 04.11.24" ] [ INFO ] : Command data: Непредвиденная ошибка[0m
+[36m[ "02:13:05 | 04.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:13:05 | 04.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:13:05 | 04.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:13:05 | 04.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:13:05 | 04.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[32m[ "02:13:05 | 04.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:13:06 | 04.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:13:06 | 04.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "02:13:12 | 04.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "02:13:12 | 04.11.24" ] [ TRACE ] : Command name: SHOW_TASKS[0m
+[0m[ "02:13:12 | 04.11.24" ] [ TRACE ] : Command arguments: [][0m
+[31m[ "02:13:12 | 04.11.24" ] [ ERROR ] : SQL Error: ERROR: column users.id does not exist
+  Позиция: 172[0m
+[36m[ "02:13:12 | 04.11.24" ] [ DEBUG ] : PSQLException[0m
+[32m[ "02:13:12 | 04.11.24" ] [ INFO ] : Executed command: SHOW_TASKS INTERNAL_SERVER_ERROR[0m
+[32m[ "02:13:12 | 04.11.24" ] [ INFO ] : Command data: Ошибка при получении задач пользователя[0m
+[36m[ "02:13:33 | 04.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:13:33 | 04.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:13:33 | 04.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:13:33 | 04.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:13:33 | 04.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[32m[ "02:13:33 | 04.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:13:34 | 04.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:13:34 | 04.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "02:13:39 | 04.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "02:13:39 | 04.11.24" ] [ TRACE ] : Command name: SHOW_TASKS[0m
+[0m[ "02:13:39 | 04.11.24" ] [ TRACE ] : Command arguments: [][0m
+[31m[ "02:13:39 | 04.11.24" ] [ ERROR ] : SQL Error: ERROR: column users.name does not exist
+  Позиция: 102[0m
+[36m[ "02:13:39 | 04.11.24" ] [ DEBUG ] : PSQLException[0m
+[32m[ "02:13:39 | 04.11.24" ] [ INFO ] : Executed command: SHOW_TASKS INTERNAL_SERVER_ERROR[0m
+[32m[ "02:13:39 | 04.11.24" ] [ INFO ] : Command data: Ошибка при получении задач пользователя[0m
+[36m[ "02:14:00 | 04.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:14:00 | 04.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:14:00 | 04.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:14:00 | 04.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:14:00 | 04.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[32m[ "02:14:00 | 04.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:14:00 | 04.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:14:00 | 04.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "02:14:05 | 04.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "02:14:05 | 04.11.24" ] [ TRACE ] : Command name: SHOW_TASKS[0m
+[0m[ "02:14:05 | 04.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "02:14:05 | 04.11.24" ] [ INFO ] : Executed command: SHOW_TASKS NO_CONTENT[0m
+[32m[ "02:14:05 | 04.11.24" ] [ INFO ] : Command data: null[0m
+[36m[ "02:14:59 | 04.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:14:59 | 04.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:14:59 | 04.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:14:59 | 04.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:14:59 | 04.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[32m[ "02:14:59 | 04.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:15:00 | 04.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:15:00 | 04.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "02:15:05 | 04.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "02:15:05 | 04.11.24" ] [ TRACE ] : Command name: SHOW_TASKS[0m
+[0m[ "02:15:05 | 04.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "02:15:05 | 04.11.24" ] [ INFO ] : Executed command: SHOW_TASKS OK[0m
+[32m[ "02:15:05 | 04.11.24" ] [ INFO ] : Command data: <b>Список ваших задач</b>
+
+<b>1</b>
+
+<b>Автор задачи:</b> er
+<b>Название задачи:</b> [sdfsdf, sdfsdf, sdfsdf, sdf, 1, sdfsdf, sdfsdf, sdfsdf, sdf]
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 30.10.2024 23:59
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+<b>2</b>
+
+<b>Автор задачи:</b> er
+<b>Название задачи:</b> [dhsbdb, dhshhdhd]
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 01.11.2024 21:21
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+<b>3</b>
+
+<b>Автор задачи:</b> er
+<b>Название задачи:</b> [doc_up, сделать, какоето]
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 01.11.2024 21:36
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+<b>4</b>
+
+<b>Автор задачи:</b> doc_up
+<b>Название задачи:</b> [sfgsdfsdf]
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 02.11.2024 18:22
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+<b>5</b>
+
+<b>Автор задачи:</b> doc_up
+<b>Название задачи:</b> [sfgsdfsdf]
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 02.11.2024 18:24
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+<b>6</b>
+
+<b>Автор задачи:</b> doc_up
+<b>Название задачи:</b> [название, таски]
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 02.11.2024 19:19
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+<b>7</b>
+
+<b>Автор задачи:</b> doc_up
+<b>Название задачи:</b> говно 
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 03.11.2024 02:11
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+<b>8</b>
+
+<b>Автор задачи:</b> doc_up
+<b>Название задачи:</b> сделать лабу по проге 
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 03.11.2024 02:30
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+<b>9</b>
+
+<b>Автор задачи:</b> doc_up
+<b>Название задачи:</b> говно efve dfvev 
+<b>Описание:</b>
+Язык C# ра та та
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 03.11.2024 02:12
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+<b>10</b>
+
+<b>Автор задачи:</b> doc_up
+<b>Название задачи:</b> sd
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 03.11.2024 19:48
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+<b>11</b>
+
+<b>Автор задачи:</b> doc_up
+<b>Название задачи:</b> [, ddbd, dbdbdnd, Решить, матан, Решить, матан]
+<b>Описание:</b>
+adsasas
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 02.11.2024 16:38
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+<b>12</b>
+
+<b>Автор задачи:</b> doc_up
+<b>Название задачи:</b> [Решить, матан]
+<b>Описание:</b>
+adsa22
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 02.11.2024 16:42
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+<b>13</b>
+
+<b>Автор задачи:</b> doc_up
+<b>Название задачи:</b> [, ddbd, dbdbdnd]
+<b>Описание:</b>
+adsa2222sas
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 02.11.2024 16:36
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+<b>14</b>
+
+<b>Автор задачи:</b> doc_up
+<b>Название задачи:</b> [, ddbd, dbdbdnd, Решить, матан]
+<b>Описание:</b>
+/setdescr 2 adsa2222sas
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 02.11.2024 16:37
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+<b>15</b>
+
+<b>Автор задачи:</b> doc_up
+<b>Название задачи:</b> [Решить, матан]
+<b>Описание:</b>
+matan
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 02.11.2024 16:42
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+<b>16</b>
+
+<b>Автор задачи:</b> okokok_nonon
+<b>Название задачи:</b> олежа
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 03.11.2024 20:50
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "02:38:06 | 04.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:38:06 | 04.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:38:06 | 04.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[31m[ "02:38:06 | 04.11.24" ] [ ERROR ] : Error retrieving environment variables: Cannot invoke "java.lang.Long.longValue()" because the return value of "java.lang.Long.getLong(String)" is null[0m
+[32m[ "02:38:07 | 04.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:38:07 | 04.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:38:07 | 04.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "02:38:27 | 04.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "02:38:27 | 04.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "02:38:27 | 04.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "02:38:27 | 04.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:38:27 | 04.11.24" ] [ INFO ] : Executed command: START OK[0m
+[32m[ "02:38:27 | 04.11.24" ] [ INFO ] : Command data: null[0m
+[36m[ "02:40:31 | 04.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:40:31 | 04.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:40:31 | 04.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:40:31 | 04.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:40:31 | 04.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "02:40:31 | 04.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[32m[ "02:40:31 | 04.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:40:32 | 04.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:40:32 | 04.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "02:40:51 | 04.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:40:51 | 04.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:40:51 | 04.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:40:51 | 04.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:40:51 | 04.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "02:40:51 | 04.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "02:40:52 | 04.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:40:52 | 04.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:40:52 | 04.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "02:42:11 | 04.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:42:11 | 04.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:42:11 | 04.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "02:42:11 | 04.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "02:42:11 | 04.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[31m[ "02:42:11 | 04.11.24" ] [ ERROR ] : Error retrieving environment variables: For input string: "-1002489187215L"[0m
+[32m[ "02:42:11 | 04.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:42:12 | 04.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:42:12 | 04.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "02:43:20 | 04.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "02:43:20 | 04.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "02:43:20 | 04.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[31m[ "02:43:20 | 04.11.24" ] [ ERROR ] : Error retrieving environment variables: For input string: "-1002489187215L"[0m
+[32m[ "02:43:21 | 04.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "02:43:21 | 04.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "02:43:21 | 04.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "22:15:50 | 04.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "22:15:50 | 04.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "22:15:50 | 04.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "22:15:50 | 04.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "22:15:50 | 04.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "22:15:50 | 04.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "22:15:51 | 04.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "22:15:52 | 04.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "22:15:52 | 04.11.24" ] [ INFO ] : Console started successfully[0m

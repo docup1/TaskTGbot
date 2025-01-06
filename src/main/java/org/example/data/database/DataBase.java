@@ -14,12 +14,12 @@ import java.util.Properties;
 public class DataBase {
 
     // URL для подключения к базе данных
-    private String URL;
-    private String USER;
-    private String PASSWORD;
+    private static String URL;
+    private static String USER;
+    private static String PASSWORD;
     public static Connection connection = null;
 
-    public void init(String CONFIG) throws IOException {
+    public static void init(String CONFIG) {
         try {
             Properties props = new Properties();
             props.load(new FileInputStream(new File(CONFIG)));
@@ -28,9 +28,9 @@ public class DataBase {
             USER = props.getProperty("DB_USER");
             PASSWORD = props.getProperty("DB_PASSWORD");
 
-            Logger.put("DB_URL: " + URL, LogType.TRACE);
-            Logger.put("DB_USER: " + USER, LogType.TRACE);
-            Logger.put("DB_PASSWORD: " + PASSWORD, LogType.TRACE);
+            Logger.put("DB_URL: " + URL, LogType.DEBUG);
+            Logger.put("DB_USER: " + USER, LogType.DEBUG);
+            Logger.put("DB_PASSWORD: " + PASSWORD, LogType.DEBUG);
 
             if (URL == null || USER == null || PASSWORD == null) {
                 throw new IllegalStateException("Database environment variables are not set properly.");

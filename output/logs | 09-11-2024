@@ -1,0 +1,396 @@
+[32m[ "21:59:28 | 09.11.24" ] [ INFO ] : Executed command: CLEAR_LOGS NO_CONTENT[0m
+[32m[ "21:59:28 | 09.11.24" ] [ INFO ] : Command data: null[0m
+[0m[ "21:59:35 | 09.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:59:35 | 09.11.24" ] [ TRACE ] : Command name: PRINT_LOGS[0m
+[0m[ "21:59:35 | 09.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "21:59:35 | 09.11.24" ] [ INFO ] : Executed command: PRINT_LOGS OK[0m
+[32m[ "21:59:35 | 09.11.24" ] [ INFO ] : Command data: null[0m
+[0m[ "21:59:42 | 09.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "21:59:42 | 09.11.24" ] [ TRACE ] : No enum constant for command: dz[0m
+[33m[ "21:59:42 | 09.11.24" ] [ WARN ] : Command not found.[0m
+[0m[ "21:59:43 | 09.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "21:59:43 | 09.11.24" ] [ TRACE ] : No enum constant for command: zd[0m
+[33m[ "21:59:43 | 09.11.24" ] [ WARN ] : Command not found.[0m
+[0m[ "21:59:44 | 09.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "21:59:44 | 09.11.24" ] [ TRACE ] : No enum constant for command: zd[0m
+[33m[ "21:59:44 | 09.11.24" ] [ WARN ] : Command not found.[0m
+[0m[ "21:59:44 | 09.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "21:59:44 | 09.11.24" ] [ TRACE ] : No enum constant for command: zd[0m
+[33m[ "21:59:44 | 09.11.24" ] [ WARN ] : Command not found.[0m
+[0m[ "21:59:45 | 09.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "21:59:45 | 09.11.24" ] [ TRACE ] : No enum constant for command: zd[0m
+[33m[ "21:59:45 | 09.11.24" ] [ WARN ] : Command not found.[0m
+[0m[ "21:59:46 | 09.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "21:59:46 | 09.11.24" ] [ TRACE ] : No enum constant for command: zd[0m
+[33m[ "21:59:46 | 09.11.24" ] [ WARN ] : Command not found.[0m
+[0m[ "21:59:46 | 09.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "21:59:46 | 09.11.24" ] [ TRACE ] : No enum constant for command: zd[0m
+[33m[ "21:59:46 | 09.11.24" ] [ WARN ] : Command not found.[0m
+[0m[ "21:59:49 | 09.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "21:59:49 | 09.11.24" ] [ TRACE ] : No enum constant for command: 315702552[0m
+[33m[ "21:59:49 | 09.11.24" ] [ WARN ] : Command not found.[0m
+[0m[ "21:59:56 | 09.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:59:56 | 09.11.24" ] [ TRACE ] : Command name: PRINT_LOGS[0m
+[0m[ "21:59:56 | 09.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "21:59:56 | 09.11.24" ] [ INFO ] : Executed command: PRINT_LOGS OK[0m
+[32m[ "21:59:56 | 09.11.24" ] [ INFO ] : Command data: null[0m
+[36m[ "22:01:34 | 09.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "22:01:34 | 09.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "22:01:34 | 09.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "22:01:34 | 09.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "22:01:34 | 09.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "22:01:34 | 09.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "22:01:34 | 09.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "22:01:35 | 09.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "22:01:35 | 09.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "22:05:50 | 09.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "22:05:53 | 09.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "22:05:53 | 09.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "22:05:53 | 09.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "22:05:53 | 09.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "22:05:53 | 09.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "22:05:53 | 09.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "22:05:53 | 09.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "22:05:56 | 09.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "22:05:56 | 09.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "22:05:58 | 09.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "22:05:59 | 09.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "22:06:05 | 09.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "22:08:21 | 09.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "22:08:22 | 09.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[31m[ "22:08:22 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:08:24 | 09.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "22:08:25 | 09.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "22:25:23 | 09.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "22:25:23 | 09.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "22:25:23 | 09.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "22:25:23 | 09.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "22:25:23 | 09.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "22:25:23 | 09.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "22:25:23 | 09.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "22:25:24 | 09.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "22:25:24 | 09.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "22:25:31 | 09.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[31m[ "22:25:31 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:25:42 | 09.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[31m[ "22:25:42 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:26:39 | 09.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "22:26:39 | 09.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "22:26:39 | 09.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "22:26:39 | 09.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "22:26:39 | 09.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "22:26:39 | 09.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "22:26:39 | 09.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "22:26:43 | 09.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "22:26:43 | 09.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "22:26:46 | 09.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "22:26:47 | 09.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "22:26:47 | 09.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "22:26:56 | 09.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "22:48:49 | 09.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "22:48:49 | 09.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "22:48:49 | 09.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "22:48:49 | 09.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "22:48:49 | 09.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "22:48:49 | 09.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "22:48:49 | 09.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "22:48:50 | 09.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "22:48:50 | 09.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "22:49:08 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_upMessage Text: Меню пользователя[0m
+[36m[ "22:49:08 | 09.11.24" ] [ DEBUG ] : Welcome! Choose an option:[0m
+[36m[ "22:51:39 | 09.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "22:51:39 | 09.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "22:51:39 | 09.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "22:51:39 | 09.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "22:51:39 | 09.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "22:51:39 | 09.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "22:51:39 | 09.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "22:51:41 | 09.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "22:51:41 | 09.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "22:51:54 | 09.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "22:51:54 | 09.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "22:51:54 | 09.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "22:51:54 | 09.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "22:51:54 | 09.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "22:51:54 | 09.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "22:51:54 | 09.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "22:51:56 | 09.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "22:51:56 | 09.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "22:51:58 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_upMessage Text: Информация о пользователе[0m
+[32m[ "22:51:58 | 09.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "22:51:59 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ]<b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Информация о пользователе
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "22:51:59 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_upMessage Text: Информация о пользователе[0m
+[32m[ "22:51:59 | 09.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "22:51:59 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ]<b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Информация о пользователе
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "22:52:09 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_upMessage Text: Изменить описание профиля[0m
+[36m[ "22:52:09 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ]Напишите новое описание вашего профиля:[0m
+[36m[ "22:52:24 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_upMessage Text: Информация о пользователе[0m
+[32m[ "22:52:24 | 09.11.24" ] [ INFO ] : Bio updated successfully. Rows affected: 1[0m
+[36m[ "22:52:24 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ]Биография успешно обновлена[0m
+[36m[ "22:52:28 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_upMessage Text: Назад[0m
+[36m[ "22:52:28 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ]Главная страница[0m
+[36m[ "22:53:03 | 09.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "22:53:03 | 09.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "22:53:03 | 09.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "22:53:03 | 09.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "22:53:03 | 09.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "22:53:03 | 09.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "22:53:03 | 09.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "22:53:04 | 09.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "22:53:04 | 09.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "22:54:06 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 365085347User Name: null Message Text: /start[0m
+[36m[ "22:54:15 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 365085347User Name: null Message Text: /start[0m
+[36m[ "22:54:31 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: /mytasks[0m
+[31m[ "22:54:31 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:54:31 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:54:41 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: В начало[0m
+[36m[ "22:54:41 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] Главная страница[0m
+[36m[ "22:54:49 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Меню пользователя[0m
+[36m[ "22:54:49 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] Welcome! Choose an option:[0m
+[36m[ "22:54:53 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Информация о пользователе[0m
+[32m[ "22:54:53 | 09.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "22:54:53 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @Genaha80
+<b>Биография:</b>
+Отсутствует
+
+<b>Дата создания:</b> 09.11.2024
+[0m
+[36m[ "22:55:04 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Изменить описание профиля[0m
+[36m[ "22:55:04 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] Напишите новое описание вашего профиля:[0m
+[36m[ "22:55:09 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: В начало[0m
+[36m[ "22:55:09 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] Главная страница[0m
+[36m[ "22:55:12 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Меню задач[0m
+[36m[ "22:55:12 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] Welcome! Choose an option:[0m
+[36m[ "22:55:16 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Мои задачи[0m
+[31m[ "22:55:16 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:55:16 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:55:21 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Черновики[0m
+[31m[ "22:55:21 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:55:21 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:55:26 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: История[0m
+[31m[ "22:55:26 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:55:26 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:55:28 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Создать задачу[0m
+[36m[ "22:55:28 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] Задача создана[0m
+[36m[ "22:55:37 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить описание[0m
+[31m[ "22:55:37 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:55:37 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:55:50 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить описание[0m
+[31m[ "22:55:50 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:55:50 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:55:52 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить название[0m
+[31m[ "22:55:52 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:55:52 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:55:54 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Снять задачу / Опубликовать[0m
+[31m[ "22:55:54 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:55:54 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:55:56 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Отметить выполнено / не выролнено[0m
+[31m[ "22:55:56 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:55:56 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:55:57 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Указать категорию[0m
+[31m[ "22:55:57 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:55:57 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:55:58 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить дедлайн[0m
+[31m[ "22:55:58 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:55:58 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:55:59 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить вознаграждение[0m
+[31m[ "22:55:59 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:55:59 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:00 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить описание[0m
+[31m[ "22:56:00 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:00 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:00 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить дедлайн[0m
+[31m[ "22:56:00 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:00 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:01 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить вознаграждение[0m
+[31m[ "22:56:01 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:01 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:01 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить описание[0m
+[31m[ "22:56:01 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:01 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:01 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить дедлайн[0m
+[31m[ "22:56:01 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:01 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:01 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить вознаграждение[0m
+[31m[ "22:56:01 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:01 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:02 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить вознаграждение[0m
+[31m[ "22:56:02 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:02 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:02 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить дедлайн[0m
+[31m[ "22:56:02 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:02 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:02 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить вознаграждение[0m
+[31m[ "22:56:02 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:02 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:02 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Указать категорию[0m
+[31m[ "22:56:02 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:02 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:02 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить вознаграждение[0m
+[31m[ "22:56:02 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:02 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:02 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить дедлайн[0m
+[31m[ "22:56:02 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:02 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:02 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить описание[0m
+[31m[ "22:56:02 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:02 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:04 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Снять задачу / Опубликовать[0m
+[31m[ "22:56:04 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:04 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:04 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Снять задачу / Опубликовать[0m
+[31m[ "22:56:04 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:04 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:04 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить название[0m
+[31m[ "22:56:04 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:04 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:04 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить описание[0m
+[31m[ "22:56:04 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:04 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:04 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить название[0m
+[31m[ "22:56:04 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:04 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:04 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить вознаграждение[0m
+[31m[ "22:56:04 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:04 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:05 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Указать категорию[0m
+[31m[ "22:56:05 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:05 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:05 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Указать категорию[0m
+[31m[ "22:56:05 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:05 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:05 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Указать категорию[0m
+[31m[ "22:56:05 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:05 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:06 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить дедлайн[0m
+[31m[ "22:56:06 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:06 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:06 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Указать категорию[0m
+[31m[ "22:56:06 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:06 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:06 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить название[0m
+[31m[ "22:56:06 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:06 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:06 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить название[0m
+[31m[ "22:56:06 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:06 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:06 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить описание[0m
+[31m[ "22:56:06 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:06 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:06 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить название[0m
+[31m[ "22:56:06 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:06 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:09 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить описание[0m
+[31m[ "22:56:09 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:09 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:09 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Снять задачу / Опубликовать[0m
+[31m[ "22:56:09 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:09 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:09 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить описание[0m
+[31m[ "22:56:09 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:09 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:10 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить вознаграждение[0m
+[31m[ "22:56:10 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:10 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:10 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить название[0m
+[31m[ "22:56:10 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:10 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:10 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить вознаграждение[0m
+[31m[ "22:56:10 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:10 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:11 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить название[0m
+[31m[ "22:56:11 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:11 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:11 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить вознаграждение[0m
+[31m[ "22:56:11 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:11 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:11 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить название[0m
+[31m[ "22:56:11 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:11 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:11 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить вознаграждение[0m
+[31m[ "22:56:11 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:11 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:11 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить описание[0m
+[31m[ "22:56:11 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:11 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:11 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить дедлайн[0m
+[31m[ "22:56:11 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:11 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:11 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить описание[0m
+[31m[ "22:56:11 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:11 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:12 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить дедлайн[0m
+[31m[ "22:56:12 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:12 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:56:12 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 315702552User Name: Genaha80 Message Text: Установить описание[0m
+[31m[ "22:56:12 | 09.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "22:56:12 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 315702552 ] [0m
+[36m[ "22:59:55 | 09.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "22:59:55 | 09.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "22:59:55 | 09.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "22:59:55 | 09.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "22:59:55 | 09.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "22:59:55 | 09.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "22:59:55 | 09.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "22:59:56 | 09.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "22:59:56 | 09.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "23:14:30 | 09.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "23:14:30 | 09.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "23:14:30 | 09.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "23:14:30 | 09.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "23:14:30 | 09.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "23:14:30 | 09.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "23:14:30 | 09.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "23:14:34 | 09.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "23:14:34 | 09.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "23:14:36 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "23:14:37 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Welcome! Choose an option:[0m
+[36m[ "23:14:42 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "23:14:42 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "23:14:44 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "23:14:44 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Welcome! Choose an option:[0m
+[36m[ "23:14:46 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Информация о пользователе[0m
+[32m[ "23:14:46 | 09.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "23:14:47 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Информация о пользователе
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "23:14:51 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "23:14:52 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание вашего профиля:[0m
+[36m[ "23:14:55 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Рммио[0m
+[32m[ "23:14:55 | 09.11.24" ] [ INFO ] : Bio updated successfully. Rows affected: 1[0m
+[36m[ "23:14:55 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Биография успешно обновлена[0m
+[36m[ "23:14:59 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Информация о пользователе[0m
+[32m[ "23:14:59 | 09.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "23:14:59 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Рммио
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "23:15:56 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Назад[0m
+[36m[ "23:15:56 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "23:15:57 | 09.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064User Name: doc_up Message Text: Информация[0m
+[36m[ "23:15:57 | 09.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Нажмите кнопу чтобы посмотреть информацию:[0m

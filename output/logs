@@ -1,15 +1,13 @@
-[0m[ "02:31:16 | 01.11.24" ] [ TRACE ] : Command converted.[0m
-[0m[ "02:31:16 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
-[0m[ "02:31:16 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
-[32m[ "02:31:16 | 01.11.24" ] [ INFO ] : Console started successfully[0m
-[0m[ "02:39:52 | 01.11.24" ] [ TRACE ] : Command converted.[0m
-[0m[ "02:39:52 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
-[0m[ "02:39:52 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
-[32m[ "02:39:52 | 01.11.24" ] [ INFO ] : Console started successfully[0m
-[0m[ "02:39:57 | 01.11.24" ] [ TRACE ] : Command convertion field.[0m
-[0m[ "02:39:57 | 01.11.24" ] [ TRACE ] : No enum constant for command: sdf[0m
-[33m[ "02:39:57 | 01.11.24" ] [ WARN ] : Command not found.[0m
-[0m[ "02:39:59 | 01.11.24" ] [ TRACE ] : Command converted.[0m
-[0m[ "02:39:59 | 01.11.24" ] [ TRACE ] : Command name: EXIT[0m
-[0m[ "02:39:59 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
-[32m[ "02:39:59 | 01.11.24" ] [ INFO ] : Server stopping...[0m
+[31m[ 2024-11-02 20:30:30 ] [ ERROR ] : Error retrieving environment variables: database.ini (No such file or directory)[0m
+[32m[ 2024-11-02 20:30:30 ] [ INFO ] : Console started successfully[0m
+[0m[ 2024-11-02 20:30:42 ] [ TRACE ] : Command converted.[0m
+[0m[ 2024-11-02 20:30:42 ] [ TRACE ] : Command name: CONNECT[0m
+[0m[ 2024-11-02 20:30:42 ] [ TRACE ] : Command arguments: [][0m
+[31m[ 2024-11-02 20:30:42 ] [ ERROR ] : Connection failure.[0m
+[31m[ 2024-11-02 20:30:42 ] [ ERROR ] : The url cannot be null[0m
+[32m[ 2024-11-02 20:30:42 ] [ INFO ] : Executed command: CONNECT Response status: 200 - OK.[0m
+[32m[ 2024-11-02 20:30:42 ] [ INFO ] : Command data: null[0m
+[0m[ 2024-11-02 20:30:51 ] [ TRACE ] : Command converted.[0m
+[0m[ 2024-11-02 20:30:51 ] [ TRACE ] : Command name: EXIT[0m
+[0m[ 2024-11-02 20:30:51 ] [ TRACE ] : Command arguments: [][0m
+[32m[ 2024-11-02 20:30:51 ] [ INFO ] : Server stopping...[0m

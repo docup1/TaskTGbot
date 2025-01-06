@@ -63,7 +63,7 @@ public class Logger{
     }
 
     public static void put(String message, LogType type) {
-        put(message, type, false); // Вызывает метод с debug = false по умолчанию
+        put(message, type, DEBUG); // Вызывает метод с debug = false по умолчанию
     }
 
     public static void put(String message, LogType type, boolean debug) {
@@ -72,7 +72,8 @@ public class Logger{
         // Запись в файл
         try (FileWriter fileWriter = new FileWriter(LOG_FILE_PATH + getLogFileName(), true);
              PrintWriter printWriter = new PrintWriter(fileWriter)) {
-            printWriter.print(output);
+            if(type == LogType.DEBUG && DEBUG == false) printWriter.print("");
+            else printWriter.print(output);
         } catch (IOException e) {
             System.err.println("Ошибка при записи лога в файл: " + e.getMessage());
             System.exit(1);
@@ -85,25 +86,30 @@ public class Logger{
     }
 
     public static void printLogs() {
-        System.out.println("Все логи из файла:");
-        try (BufferedReader reader = new BufferedReader(new FileReader(LOG_FILE_PATH + getLogFileName()))) {
+        String logFileName = LOG_FILE_PATH + getLogFileName(); // Получаем имя файла с учетом DAILY_LOGS
+
+        System.out.println("Все логи из файла: " + logFileName);
+        try (BufferedReader reader = new BufferedReader(new FileReader(logFileName))) {
             String line;
             while ((line = reader.readLine()) != null) {
                 System.out.println(line);
             }
+        } catch (FileNotFoundException e) {
+            System.err.println("Файл логов не найден: " + e.getMessage());
         } catch (IOException e) {
             System.err.println("Ошибка при чтении логов из файла: " + e.getMessage());
         }
     }
 
     public static void clear() {
-        try (FileWriter fileWriter = new FileWriter(LOG_FILE_PATH + getLogFileName(), false)) {
+        String logFileName = LOG_FILE_PATH + getLogFileName(); // Получаем имя файла с учетом DAILY_LOGS
+
+        try (FileWriter fileWriter = new FileWriter(logFileName, false)) {
             // Пустое тело: открытие файла в этом режиме очищает его
         } catch (IOException e) {
             System.err.println("Ошибка при очистке файла логов: " + e.getMessage());
         }
     }
-
     public static List<String> searchByType(LogType type) {
         List<String> logsByType = new ArrayList<>();
         try (BufferedReader reader = new BufferedReader(new FileReader(LOG_FILE_PATH + getLogFileName()))) {
@@ -117,6 +123,15 @@ public class Logger{
             System.err.println("Ошибка при чтении логов из файла: " + e.getMessage());
         }
         return logsByType;
+    }
+
+    public static List<String> searchByTime(LocalDateTime logDate) {
+        // Определяем начало и конец дня для указанной даты
+        LocalDateTime startTime = logDate.toLocalDate().atStartOfDay();
+        LocalDateTime endTime = logDate.toLocalDate().atTime(23, 59, 59);
+
+        // Вызываем метод с временным диапазоном на день
+        return searchByTime(logDate, startTime, endTime);
     }
 
     public static List<String> searchByTime(LocalDateTime logDate, LocalDateTime startTime, LocalDateTime endTime) {

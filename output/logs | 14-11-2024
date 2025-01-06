@@ -1,0 +1,288 @@
+[36m[ "03:55:34 | 14.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "03:55:34 | 14.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "03:55:34 | 14.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "03:55:34 | 14.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "03:55:34 | 14.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "03:55:34 | 14.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "03:55:34 | 14.11.24" ] [ INFO ] : Connected to the database![0m
+[36m[ "03:55:58 | 14.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "03:55:58 | 14.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "03:55:58 | 14.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "03:55:58 | 14.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "03:55:58 | 14.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "03:55:58 | 14.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "03:55:59 | 14.11.24" ] [ INFO ] : Connected to the database![0m
+[36m[ "03:57:02 | 14.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "03:57:02 | 14.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "03:57:02 | 14.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "03:57:02 | 14.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "03:57:02 | 14.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "03:57:02 | 14.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "03:57:02 | 14.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "03:57:03 | 14.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "03:57:03 | 14.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "03:57:03 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: В начало[0m
+[36m[ "03:57:03 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "03:57:03 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "03:57:03 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "03:57:03 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:57:03 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:57:03 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Изменить описание профиля[0m
+[32m[ "03:57:03 | 14.11.24" ] [ INFO ] : Bio updated successfully. Rows affected: 1[0m
+[32m[ "03:57:03 | 14.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:57:03 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Изменить описание профиля
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:57:03 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "03:57:04 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "03:57:14 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "03:57:14 | 14.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:57:14 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Изменить описание профиля
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:57:16 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "03:57:16 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Напишите новое описание для вашего профиля:[0m
+[36m[ "03:57:19 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[32m[ "03:57:19 | 14.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "03:57:19 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Изменить описание профиля
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "03:57:21 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "03:57:21 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "03:57:38 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню задач[0m
+[36m[ "03:57:38 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "03:57:40 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Создать задачу[0m
+[36m[ "03:57:40 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Новая задача создана.[0m
+[36m[ "03:57:41 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "03:57:42 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Меню задач: Выберите действие с задачами.[0m
+[36m[ "03:57:47 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "03:57:47 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Главная страница[0m
+[36m[ "05:14:47 | 14.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "05:14:47 | 14.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "05:14:47 | 14.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "05:14:47 | 14.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "05:14:47 | 14.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "05:14:47 | 14.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "05:14:47 | 14.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "05:14:48 | 14.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "05:14:48 | 14.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "05:14:59 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "05:15:05 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "05:15:06 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню задач[0m
+[36m[ "05:15:06 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Информация[0m
+[36m[ "05:15:51 | 14.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "05:15:51 | 14.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "05:15:51 | 14.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "05:15:51 | 14.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "05:15:51 | 14.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "05:15:51 | 14.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "05:15:51 | 14.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "05:15:52 | 14.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "05:15:52 | 14.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "05:15:53 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "05:15:53 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:15:53 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:15:54 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню задач[0m
+[36m[ "05:15:54 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:15:54 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:15:55 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Информация[0m
+[36m[ "05:15:55 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:15:55 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:17:56 | 14.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "05:17:56 | 14.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "05:17:56 | 14.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "05:17:56 | 14.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "05:17:56 | 14.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "05:17:56 | 14.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "05:17:56 | 14.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "05:17:57 | 14.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "05:17:57 | 14.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "05:17:59 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "05:17:59 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:17:59 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:18:01 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "05:18:01 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:18:01 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:18:04 | 14.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "05:18:04 | 14.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "05:18:04 | 14.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "05:18:04 | 14.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "05:18:04 | 14.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "05:18:04 | 14.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "05:18:05 | 14.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "05:18:05 | 14.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "05:18:05 | 14.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "05:18:10 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "05:18:10 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:18:10 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:22:20 | 14.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "05:22:20 | 14.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "05:22:20 | 14.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "05:22:20 | 14.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "05:22:20 | 14.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "05:22:20 | 14.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "05:22:20 | 14.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "05:22:21 | 14.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "05:22:21 | 14.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "05:22:25 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "05:22:25 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:22:25 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:22:37 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "05:22:37 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:22:37 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:22:38 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "05:22:38 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:22:38 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:22:39 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "05:22:39 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:22:39 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:22:41 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню задач[0m
+[36m[ "05:22:41 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:22:41 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:22:42 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Информация[0m
+[36m[ "05:22:42 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:22:42 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:23:08 | 14.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "05:23:08 | 14.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "05:23:08 | 14.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "05:23:08 | 14.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "05:23:08 | 14.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "05:23:08 | 14.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "05:23:08 | 14.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "05:23:08 | 14.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "05:23:08 | 14.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "05:23:11 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "05:23:11 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:23:11 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:23:13 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "05:23:13 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:23:13 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:23:16 | 14.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "05:23:16 | 14.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "05:23:16 | 14.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "05:23:16 | 14.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "05:23:16 | 14.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "05:23:16 | 14.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "05:23:16 | 14.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "05:23:16 | 14.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "05:23:16 | 14.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "05:23:18 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "05:23:18 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:23:18 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:23:19 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "05:23:19 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:23:19 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:23:36 | 14.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "05:23:36 | 14.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "05:23:36 | 14.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "05:23:36 | 14.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "05:23:36 | 14.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "05:23:36 | 14.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "05:23:36 | 14.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "05:23:37 | 14.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "05:23:37 | 14.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "05:23:37 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "05:23:37 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:23:38 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:23:42 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "05:23:42 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:23:42 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:24:09 | 14.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "05:24:09 | 14.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "05:24:09 | 14.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "05:24:09 | 14.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "05:24:09 | 14.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "05:24:09 | 14.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "05:24:10 | 14.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "05:24:11 | 14.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "05:24:11 | 14.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "05:24:11 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[36m[ "05:25:04 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:25:15 | 14.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "05:25:15 | 14.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "05:25:15 | 14.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "05:25:16 | 14.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "05:25:16 | 14.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "05:25:16 | 14.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "05:25:16 | 14.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "05:25:16 | 14.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "05:25:16 | 14.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "05:25:16 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "05:25:16 | 14.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "05:25:16 | 14.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "05:25:16 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Изменить описание профиля
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "05:25:24 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "05:25:24 | 14.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "05:25:24 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:25:25 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "05:25:25 | 14.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "05:25:26 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:25:26 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "05:25:26 | 14.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "05:25:26 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:25:27 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: В начало[0m
+[36m[ "05:25:27 | 14.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "05:25:27 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:25:32 | 14.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "05:25:32 | 14.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "05:25:32 | 14.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "05:25:32 | 14.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "05:25:32 | 14.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "05:25:32 | 14.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "05:25:32 | 14.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "05:25:33 | 14.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "05:25:33 | 14.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "05:25:36 | 14.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "05:25:36 | 14.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "05:25:36 | 14.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "05:25:36 | 14.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "05:25:36 | 14.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "05:25:36 | 14.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "05:25:36 | 14.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "05:25:37 | 14.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "05:25:37 | 14.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "05:25:39 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Изменить описание профиля[0m
+[36m[ "05:25:39 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:25:39 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:25:40 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Назад[0m
+[36m[ "05:25:40 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:25:40 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:25:41 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: В начало[0m
+[36m[ "05:25:41 | 14.11.24" ] [ DEBUG ] : [] | Counter: -1[0m
+[36m[ "05:25:41 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] Неизвестная команда. Пожалуйста, выберите действие из меню.[0m
+[36m[ "05:25:51 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 615517064 User Name: doc_up Message Text: Меню пользователя[0m
+[32m[ "05:25:51 | 14.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "05:25:51 | 14.11.24" ] [ DEBUG ] : [Меню пользователя] | Counter: 0[0m
+[36m[ "05:25:51 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 615517064 ] <b>Информация о пользователе</b>
+
+<b>Имя пользователя:</b> @doc_up
+<b>Биография:</b>
+Изменить описание профиля
+
+<b>Дата создания:</b> 01.11.2024
+[0m
+[36m[ "08:07:23 | 14.11.24" ] [ DEBUG ] : [ Received message ] Chat ID: 5483979665 User Name: null Message Text: /start[0m
+[31m[ "08:07:23 | 14.11.24" ] [ ERROR ] : Failed to send message: ChatId parameter can't be empty[0m
+[36m[ "08:07:23 | 14.11.24" ] [ DEBUG ] : [ Send message to chat: 5483979665 ] Для использования бота необходимо задать имя пользователя в настройках телеграм.[0m

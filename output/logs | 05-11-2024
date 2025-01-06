@@ -1,0 +1,125 @@
+[36m[ "00:26:33 | 05.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "00:26:33 | 05.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "00:26:33 | 05.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "00:26:33 | 05.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "00:26:33 | 05.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "00:26:33 | 05.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "00:26:33 | 05.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "00:26:34 | 05.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "00:26:34 | 05.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "00:27:04 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:27:06 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:27:08 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:27:09 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:27:11 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:27:12 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:27:12 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:27:13 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:27:14 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:27:14 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:27:24 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:27:25 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:27:26 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:27:28 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:32 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:33 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:34 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:35 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:35 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:36 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:36 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:36 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:37 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:37 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:37 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:37 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:38 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:38 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:39 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:39 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:39 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:39 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:39 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:39 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:40 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:40 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:40 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:40 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:40 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:40 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:40 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:40 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:41 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:41 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:41 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:41 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:41 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:41 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:41 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:41 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:41 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:42 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:42 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:42 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:42 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:45 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:45 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:46 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:46 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:48 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:48 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:48 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:48 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:48 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:49 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:49 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:49 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:49 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:49 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:49 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:49 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:49 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:50 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:50 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:50 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:50 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:50 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:28:50 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:29:43 | 05.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "00:29:43 | 05.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "00:29:43 | 05.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "00:29:43 | 05.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "00:29:43 | 05.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "00:29:43 | 05.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "00:29:44 | 05.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "00:29:44 | 05.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "00:29:44 | 05.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "00:30:07 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:30:07 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:30:12 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:30:14 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:30:20 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "00:30:21 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "01:05:15 | 05.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "01:05:15 | 05.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "01:05:15 | 05.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "01:05:15 | 05.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "01:05:15 | 05.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "01:05:15 | 05.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "01:05:16 | 05.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "01:05:16 | 05.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "01:05:16 | 05.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "01:06:48 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "01:06:50 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "01:06:52 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "01:06:55 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "01:06:56 | 05.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[0m[ "16:59:45 | 05.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "16:59:45 | 05.11.24" ] [ TRACE ] : No enum constant for command: asd[0m
+[33m[ "16:59:45 | 05.11.24" ] [ WARN ] : Command not found.[0m
+[0m[ "16:59:46 | 05.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "16:59:46 | 05.11.24" ] [ TRACE ] : No enum constant for command: sdfg[0m
+[33m[ "16:59:46 | 05.11.24" ] [ WARN ] : Command not found.[0m
+[0m[ "16:59:51 | 05.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "16:59:51 | 05.11.24" ] [ TRACE ] : No enum constant for command: ls[0m
+[33m[ "16:59:51 | 05.11.24" ] [ WARN ] : Command not found.[0m

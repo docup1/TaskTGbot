@@ -1,17 +1,471 @@
-[0m[ "03:24:28 | 01.11.24" ] [ TRACE ] : Command converted.[0m
-[0m[ "03:24:28 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
-[0m[ "03:24:28 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
-[32m[ "03:24:28 | 01.11.24" ] [ INFO ] : Console started successfully[0m
-[0m[ "03:24:30 | 01.11.24" ] [ TRACE ] : Command convertion field.[0m
-[0m[ "03:24:30 | 01.11.24" ] [ TRACE ] : No enum constant for command: asef[0m
-[33m[ "03:24:30 | 01.11.24" ] [ WARN ] : Command not found.[0m
-[0m[ "03:24:31 | 01.11.24" ] [ TRACE ] : Command convertion field.[0m
-[0m[ "03:24:31 | 01.11.24" ] [ TRACE ] : No enum constant for command: asdf[0m
-[33m[ "03:24:31 | 01.11.24" ] [ WARN ] : Command not found.[0m
-[0m[ "03:24:32 | 01.11.24" ] [ TRACE ] : Command convertion field.[0m
-[0m[ "03:24:32 | 01.11.24" ] [ TRACE ] : No enum constant for command: asdf[0m
-[33m[ "03:24:32 | 01.11.24" ] [ WARN ] : Command not found.[0m
-[0m[ "03:24:34 | 01.11.24" ] [ TRACE ] : Command converted.[0m
-[0m[ "03:24:34 | 01.11.24" ] [ TRACE ] : Command name: EXIT[0m
-[0m[ "03:24:34 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
-[32m[ "03:24:34 | 01.11.24" ] [ INFO ] : Server stopping...[0m
+[0m[ "13:29:18 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "13:29:18 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "13:29:18 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "13:29:18 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "13:29:28 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "13:29:28 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "13:29:28 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "13:29:28 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "13:29:28 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "13:29:28 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "13:29:29 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "13:29:29 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "13:30:08 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "13:30:08 | 01.11.24" ] [ TRACE ] : Command name: EXIT[0m
+[0m[ "13:30:08 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "13:30:08 | 01.11.24" ] [ INFO ] : Closed connection.[0m
+[32m[ "13:30:08 | 01.11.24" ] [ INFO ] : Server stopping...[0m
+[0m[ "13:45:33 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "13:45:33 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "13:45:33 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "13:45:33 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "14:40:23 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "14:40:23 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "14:40:23 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "14:40:23 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "14:40:25 | 01.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "14:40:25 | 01.11.24" ] [ TRACE ] : No enum constant for command: drhg[0m
+[33m[ "14:40:25 | 01.11.24" ] [ WARN ] : Command not found.[0m
+[0m[ "14:40:25 | 01.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "14:40:25 | 01.11.24" ] [ TRACE ] : No enum constant for command: gsrfg[0m
+[33m[ "14:40:25 | 01.11.24" ] [ WARN ] : Command not found.[0m
+[0m[ "17:16:44 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:16:44 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "17:16:44 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "17:16:44 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "17:16:47 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:16:47 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "17:16:47 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "17:16:47 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "17:16:47 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "17:16:47 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "17:16:48 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "17:17:19 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "17:17:53 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:17:53 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "17:17:53 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "17:17:53 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "17:17:53 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "17:17:53 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "17:17:53 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[0m[ "17:18:05 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:18:05 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "17:18:05 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "17:18:05 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "17:18:08 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:18:08 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "17:18:08 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "17:18:08 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "17:18:08 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "17:18:08 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "17:18:08 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[0m[ "17:21:29 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:21:29 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "17:21:29 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "17:21:29 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "17:21:33 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:21:33 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "17:21:33 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "17:21:33 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "17:21:33 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "17:21:33 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "17:21:33 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "17:21:34 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "17:22:46 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:22:46 | 01.11.24" ] [ TRACE ] : Command name: PRINT_LOGS[0m
+[0m[ "17:22:46 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "17:22:46 | 01.11.24" ] [ INFO ] : Executed command: PRINT_LOGS Response status: 200 - OK.[0m
+[0m[ "17:26:15 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:26:15 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "17:26:15 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "17:26:15 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "17:26:18 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:26:18 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "17:26:18 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "17:26:18 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "17:26:18 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "17:26:18 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "17:26:18 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "17:26:20 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "17:27:53 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:27:53 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "17:27:53 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "17:27:53 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "17:27:58 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:27:58 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "17:27:58 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "17:27:58 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "17:27:58 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "17:27:58 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "17:27:58 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "17:27:58 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "17:28:09 | 01.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "17:28:09 | 01.11.24" ] [ TRACE ] : No enum constant for command: print[0m
+[33m[ "17:28:09 | 01.11.24" ] [ WARN ] : Command not found.[0m
+[0m[ "17:28:25 | 01.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "17:28:25 | 01.11.24" ] [ TRACE ] : No enum constant for command: print-logs[0m
+[33m[ "17:28:25 | 01.11.24" ] [ WARN ] : Command not found.[0m
+[0m[ "17:28:52 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:28:52 | 01.11.24" ] [ TRACE ] : Command name: PRINT_LOGS[0m
+[0m[ "17:28:52 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "17:28:52 | 01.11.24" ] [ INFO ] : Executed command: PRINT_LOGS Response status: 200 - OK.[0m
+[0m[ "17:29:37 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:29:37 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "17:29:37 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "17:29:37 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "17:29:39 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:29:39 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "17:29:39 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "17:29:39 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "17:29:39 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "17:29:39 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "17:29:39 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "17:29:40 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "17:31:01 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:31:01 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "17:31:01 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "17:31:01 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "17:31:07 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:31:07 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "17:31:07 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "17:31:07 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "17:31:07 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "17:31:07 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "17:31:07 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "17:31:07 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "17:32:02 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:32:02 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "17:32:02 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "17:32:02 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "17:32:05 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:32:05 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "17:32:05 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "17:32:05 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "17:32:05 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "17:32:05 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "17:32:05 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "17:32:06 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "17:33:19 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:33:19 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "17:33:19 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "17:33:19 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "17:33:23 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:33:23 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "17:33:23 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "17:33:23 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "17:33:23 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "17:33:23 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "17:33:23 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "17:33:24 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "17:36:59 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:36:59 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "17:36:59 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "17:36:59 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "17:37:01 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:37:01 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "17:37:01 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "17:37:01 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "17:37:01 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "17:37:01 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "17:37:01 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "17:37:02 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[31m[ "17:37:08 | 01.11.24" ] [ ERROR ] : Error: ERROR: INSERT has more target columns than expressions
+  Позиция: 30[0m
+[0m[ "17:37:08 | 01.11.24" ] [ TRACE ] : Response status: 200 - OK.[0m
+[0m[ "17:37:32 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:37:32 | 01.11.24" ] [ TRACE ] : Command name: EXIT[0m
+[0m[ "17:37:32 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "17:37:32 | 01.11.24" ] [ INFO ] : Closed connection.[0m
+[32m[ "17:37:32 | 01.11.24" ] [ INFO ] : Server stopping...[0m
+[0m[ "17:39:39 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:39:39 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "17:39:39 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "17:39:39 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "17:39:42 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:39:42 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "17:39:42 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "17:39:42 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "17:39:42 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "17:39:42 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "17:39:42 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "17:39:43 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[31m[ "17:39:46 | 01.11.24" ] [ ERROR ] : Error: ERROR: null value in column "username" of relation "users" violates not-null constraint
+  Подробности: Failing row contains (3, null, 2024-11-01 17:39:46.772631, null, 0.0).[0m
+[0m[ "17:39:46 | 01.11.24" ] [ TRACE ] : Response status: 200 - OK.[0m
+[31m[ "17:40:01 | 01.11.24" ] [ ERROR ] : Error: ERROR: null value in column "username" of relation "users" violates not-null constraint
+  Подробности: Failing row contains (4, null, 2024-11-01 17:40:01.543736, null, 0.0).[0m
+[0m[ "17:40:01 | 01.11.24" ] [ TRACE ] : Response status: 200 - OK.[0m
+[0m[ "17:41:51 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:41:51 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "17:41:51 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "17:41:51 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "17:41:55 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:41:55 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "17:41:55 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "17:41:55 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "17:41:55 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "17:41:55 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "17:41:56 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "17:41:56 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[31m[ "17:42:05 | 01.11.24" ] [ ERROR ] : Error: ERROR: null value in column "username" of relation "users" violates not-null constraint
+  Подробности: Failing row contains (5, null, 2024-11-01 17:42:05.577814, null, 0.0).[0m
+[0m[ "17:42:05 | 01.11.24" ] [ TRACE ] : Response status: 200 - OK.[0m
+[0m[ "17:44:07 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:44:07 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "17:44:07 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "17:44:07 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "17:44:10 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:44:10 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "17:44:10 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "17:44:10 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "17:44:10 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "17:44:10 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "17:44:10 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "17:44:10 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "17:44:16 | 01.11.24" ] [ TRACE ] : [null][0m
+[31m[ "17:44:16 | 01.11.24" ] [ ERROR ] : Error: ERROR: null value in column "username" of relation "users" violates not-null constraint
+  Подробности: Failing row contains (6, null, 2024-11-01 17:44:16.119174, null, 0.0).[0m
+[0m[ "17:44:16 | 01.11.24" ] [ TRACE ] : Response status: 200 - OK.[0m
+[0m[ "17:45:26 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:45:26 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "17:45:26 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "17:45:26 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "17:45:28 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:45:28 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "17:45:28 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "17:45:28 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "17:45:28 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "17:45:28 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "17:45:28 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "17:45:29 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "17:45:33 | 01.11.24" ] [ TRACE ] : null[0m
+[0m[ "17:45:33 | 01.11.24" ] [ TRACE ] : [null][0m
+[31m[ "17:45:33 | 01.11.24" ] [ ERROR ] : Error: ERROR: null value in column "username" of relation "users" violates not-null constraint
+  Подробности: Failing row contains (7, null, 2024-11-01 17:45:33.154012, null, 0.0).[0m
+[0m[ "17:45:33 | 01.11.24" ] [ TRACE ] : Response status: 200 - OK.[0m
+[0m[ "17:45:47 | 01.11.24" ] [ TRACE ] : null[0m
+[0m[ "17:45:47 | 01.11.24" ] [ TRACE ] : [null][0m
+[31m[ "17:45:47 | 01.11.24" ] [ ERROR ] : Error: ERROR: null value in column "username" of relation "users" violates not-null constraint
+  Подробности: Failing row contains (8, null, 2024-11-01 17:45:47.307414, null, 0.0).[0m
+[0m[ "17:45:47 | 01.11.24" ] [ TRACE ] : Response status: 200 - OK.[0m
+[0m[ "17:49:59 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:49:59 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "17:49:59 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "17:49:59 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "17:50:06 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "17:50:06 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "17:50:06 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "17:50:06 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "17:50:06 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "17:50:06 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "17:50:07 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "17:50:07 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "17:50:10 | 01.11.24" ] [ TRACE ] : [doc_up][0m
+[32m[ "17:50:10 | 01.11.24" ] [ INFO ] : User added successfully. Rows affected: 1[0m
+[0m[ "17:50:10 | 01.11.24" ] [ TRACE ] : Response status: 200 - OK.[0m
+[0m[ "18:12:13 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "18:12:13 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "18:12:13 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "18:12:13 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "18:12:16 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "18:12:16 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "18:12:16 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "18:12:16 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "18:12:16 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "18:12:16 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "18:12:16 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "18:12:17 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "18:12:36 | 01.11.24" ] [ TRACE ] : [doc_up][0m
+[31m[ "18:12:36 | 01.11.24" ] [ ERROR ] : Error: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Подробности: Key (username)=(doc_up) already exists.[0m
+[0m[ "18:12:36 | 01.11.24" ] [ TRACE ] : Response status: 200 - OK.[0m
+[0m[ "18:12:49 | 01.11.24" ] [ TRACE ] : [doc_up][0m
+[31m[ "18:12:49 | 01.11.24" ] [ ERROR ] : Error: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Подробности: Key (username)=(doc_up) already exists.[0m
+[0m[ "18:12:49 | 01.11.24" ] [ TRACE ] : Response status: 200 - OK.[0m
+[0m[ "18:13:25 | 01.11.24" ] [ TRACE ] : [okokok_nonon][0m
+[32m[ "18:13:25 | 01.11.24" ] [ INFO ] : User added successfully. Rows affected: 1[0m
+[0m[ "18:13:25 | 01.11.24" ] [ TRACE ] : Response status: 200 - OK.[0m
+[0m[ "19:22:25 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "19:22:25 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "19:22:25 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "19:22:25 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "19:22:30 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "19:22:30 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "19:22:30 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "19:22:30 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "19:22:30 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "19:22:30 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "19:22:30 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "19:22:30 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "19:24:05 | 01.11.24" ] [ TRACE ] : [doc_up][0m
+[31m[ "19:24:05 | 01.11.24" ] [ ERROR ] : Error: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Подробности: Key (username)=(doc_up) already exists.[0m
+[0m[ "19:24:05 | 01.11.24" ] [ TRACE ] : Response status: 200 - OK.[0m
+[0m[ "19:24:21 | 01.11.24" ] [ TRACE ] : [doc_up][0m
+[31m[ "19:24:21 | 01.11.24" ] [ ERROR ] : Error: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Подробности: Key (username)=(doc_up) already exists.[0m
+[0m[ "19:24:21 | 01.11.24" ] [ TRACE ] : Response status: 200 - OK.[0m
+[0m[ "20:44:04 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "20:44:04 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "20:44:04 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "20:44:04 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "20:44:17 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "20:44:17 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "20:44:17 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "20:44:17 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "20:44:17 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "20:44:17 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "20:44:17 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "20:44:17 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "20:44:46 | 01.11.24" ] [ TRACE ] : [doc_up][0m
+[31m[ "20:44:46 | 01.11.24" ] [ ERROR ] : Error: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Подробности: Key (username)=(doc_up) already exists.[0m
+[0m[ "20:44:46 | 01.11.24" ] [ TRACE ] : Response status: 200 - OK.[0m
+[0m[ "20:44:50 | 01.11.24" ] [ TRACE ] : [doc_up][0m
+[31m[ "20:44:50 | 01.11.24" ] [ ERROR ] : Error: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Подробности: Key (username)=(doc_up) already exists.[0m
+[0m[ "20:44:50 | 01.11.24" ] [ TRACE ] : Response status: 200 - OK.[0m
+[0m[ "20:44:55 | 01.11.24" ] [ TRACE ] : [doc_up][0m
+[31m[ "20:44:55 | 01.11.24" ] [ ERROR ] : Error: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Подробности: Key (username)=(doc_up) already exists.[0m
+[0m[ "20:44:55 | 01.11.24" ] [ TRACE ] : Response status: 200 - OK.[0m
+[0m[ "21:06:04 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:06:04 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "21:06:04 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "21:06:04 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "21:06:18 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:06:18 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "21:06:18 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "21:06:18 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "21:06:18 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "21:06:18 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "21:06:18 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "21:06:19 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "21:06:29 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:06:29 | 01.11.24" ] [ TRACE ] : Command name: /applytask@GeeksKingdomBot[0m
+[0m[ "21:06:29 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "21:06:32 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:06:32 | 01.11.24" ] [ TRACE ] : Command name: /applytask@GeeksKingdomBot[0m
+[0m[ "21:06:32 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "21:06:59 | 01.11.24" ] [ TRACE ] : [doc_up][0m
+[0m[ "21:06:59 | 01.11.24" ] [ TRACE ] : Response status: 200 - OK.[0m
+[0m[ "21:09:22 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:09:22 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "21:09:22 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "21:09:22 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "21:09:25 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:09:25 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "21:09:25 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "21:09:25 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "21:09:25 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "21:09:25 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "21:09:25 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "21:09:25 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "21:09:31 | 01.11.24" ] [ TRACE ] : [doc_up][0m
+[32m[ "21:09:31 | 01.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[0m[ "21:10:45 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:10:45 | 01.11.24" ] [ TRACE ] : Command name: /addtask[0m
+[0m[ "21:10:45 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "21:11:37 | 01.11.24" ] [ TRACE ] : [doc_up][0m
+[32m[ "21:11:37 | 01.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[0m[ "21:12:19 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:12:19 | 01.11.24" ] [ TRACE ] : Command name: /createtask[0m
+[0m[ "21:12:19 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "21:13:20 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:13:20 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "21:13:20 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "21:13:20 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "21:13:24 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:13:24 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "21:13:24 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "21:13:24 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "21:13:24 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "21:13:24 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "21:13:24 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "21:13:25 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "21:13:44 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:13:44 | 01.11.24" ] [ TRACE ] : Command name: /createtask[0m
+[0m[ "21:13:44 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "21:14:46 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:14:46 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "21:14:46 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "21:14:46 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "21:14:51 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:14:51 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "21:14:51 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "21:14:51 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "21:14:52 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:14:52 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "21:14:52 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "21:14:52 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "21:15:02 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:15:02 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "21:15:02 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "21:15:02 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "21:15:35 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:15:35 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "21:15:35 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "21:15:35 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "21:15:35 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "21:15:35 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "21:15:35 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "21:15:36 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "21:15:56 | 01.11.24" ] [ TRACE ] : [doc_up][0m
+[32m[ "21:16:03 | 01.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[0m[ "21:16:12 | 01.11.24" ] [ TRACE ] : [doc_up][0m
+[32m[ "21:16:12 | 01.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[0m[ "21:17:42 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:17:42 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "21:17:42 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "21:17:42 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "21:17:56 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:17:56 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "21:17:56 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "21:17:56 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "21:17:56 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "21:17:56 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "21:17:57 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "21:17:57 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "21:18:00 | 01.11.24" ] [ TRACE ] : [doc_up][0m
+[31m[ "21:18:00 | 01.11.24" ] [ ERROR ] : Error: ERROR: duplicate key value violates unique constraint "users_username_key"
+  Подробности: Key (username)=(doc_up) already exists.[0m
+[32m[ "21:18:00 | 01.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[0m[ "21:18:39 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:18:39 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "21:18:39 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "21:18:39 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "21:18:44 | 01.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "21:18:44 | 01.11.24" ] [ TRACE ] : No enum constant for command: /start[0m
+[33m[ "21:18:44 | 01.11.24" ] [ WARN ] : Command not found.[0m
+[0m[ "21:18:50 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:18:50 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "21:18:50 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "21:18:50 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "21:18:50 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "21:18:50 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "21:18:50 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "21:18:50 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "21:21:24 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:21:24 | 01.11.24" ] [ TRACE ] : Command name: /createtask[0m
+[0m[ "21:21:24 | 01.11.24" ] [ TRACE ] : Command arguments: [1, dhsbdb, dhshhdhd][0m
+[32m[ "21:21:24 | 01.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[0m[ "21:36:13 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:36:13 | 01.11.24" ] [ TRACE ] : Command name: START_CONS[0m
+[0m[ "21:36:13 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[32m[ "21:36:13 | 01.11.24" ] [ INFO ] : Console started successfully[0m
+[0m[ "21:36:27 | 01.11.24" ] [ TRACE ] : Command convertion field.[0m
+[0m[ "21:36:27 | 01.11.24" ] [ TRACE ] : No enum constant for command: ыефке[0m
+[33m[ "21:36:27 | 01.11.24" ] [ WARN ] : Command not found.[0m
+[0m[ "21:36:31 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:36:31 | 01.11.24" ] [ TRACE ] : Command name: START[0m
+[0m[ "21:36:31 | 01.11.24" ] [ TRACE ] : Command arguments: [][0m
+[0m[ "21:36:31 | 01.11.24" ] [ TRACE ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[0m[ "21:36:31 | 01.11.24" ] [ TRACE ] : DB_USER: docup[0m
+[0m[ "21:36:31 | 01.11.24" ] [ TRACE ] : DB_PASSWORD: docup2005[0m
+[32m[ "21:36:31 | 01.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "21:36:32 | 01.11.24" ] [ INFO ] : Executed command: START Response status: 200 - OK.[0m
+[0m[ "21:36:58 | 01.11.24" ] [ TRACE ] : Command converted.[0m
+[0m[ "21:36:58 | 01.11.24" ] [ TRACE ] : Command name: /createtask[0m
+[0m[ "21:36:58 | 01.11.24" ] [ TRACE ] : Command arguments: [сделать, какоето, говно][0m
+[32m[ "21:36:58 | 01.11.24" ] [ INFO ] : Response status: 200 - OK.[0m

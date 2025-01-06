@@ -1,0 +1,193 @@
+[36m[ "20:05:43 | 08.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "20:05:44 | 08.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "20:05:44 | 08.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "20:05:44 | 08.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "20:05:44 | 08.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "20:05:44 | 08.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "20:05:44 | 08.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "20:05:45 | 08.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "20:05:45 | 08.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "20:05:45 | 08.11.24" ] [ DEBUG ] : Chat ID: -1002351979701[0m
+[36m[ "20:06:13 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:06:17 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:06:18 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:06:20 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:06:20 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:06:24 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:06:26 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:06:31 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:10:27 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:10:35 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:10:36 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:19:49 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:19:49 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:19:50 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:19:50 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:19:51 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:19:51 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:19:51 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:19:51 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:19:51 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:19:51 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:19:51 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:19:51 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "20:19:51 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[36m[ "23:02:53 | 08.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "23:02:53 | 08.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "23:02:53 | 08.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "23:02:53 | 08.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "23:02:53 | 08.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "23:02:53 | 08.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "23:02:53 | 08.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "23:02:57 | 08.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "23:02:57 | 08.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "23:04:15 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[31m[ "23:04:15 | 08.11.24" ] [ ERROR ] : Text parameter can't be empty[0m
+[31m[ "23:04:15 | 08.11.24" ] [ ERROR ] : Text parameter can't be empty[0m
+[36m[ "23:04:15 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[31m[ "23:04:15 | 08.11.24" ] [ ERROR ] : Text parameter can't be empty[0m
+[31m[ "23:04:15 | 08.11.24" ] [ ERROR ] : Text parameter can't be empty[0m
+[36m[ "23:05:29 | 08.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "23:05:29 | 08.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "23:05:29 | 08.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "23:05:29 | 08.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "23:05:29 | 08.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "23:05:29 | 08.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "23:05:29 | 08.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "23:05:30 | 08.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "23:05:30 | 08.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "23:05:30 | 08.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "23:05:30 | 08.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "23:05:30 | 08.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "23:05:30 | 08.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "23:05:30 | 08.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "23:05:30 | 08.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "23:05:30 | 08.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "23:05:30 | 08.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "23:05:30 | 08.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "23:05:34 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[31m[ "23:05:34 | 08.11.24" ] [ ERROR ] : Text parameter can't be empty[0m
+[31m[ "23:05:34 | 08.11.24" ] [ ERROR ] : Text parameter can't be empty[0m
+[36m[ "23:05:35 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[31m[ "23:05:35 | 08.11.24" ] [ ERROR ] : Text parameter can't be empty[0m
+[31m[ "23:05:35 | 08.11.24" ] [ ERROR ] : Text parameter can't be empty[0m
+[36m[ "23:05:36 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[31m[ "23:05:36 | 08.11.24" ] [ ERROR ] : Text parameter can't be empty[0m
+[31m[ "23:05:36 | 08.11.24" ] [ ERROR ] : Text parameter can't be empty[0m
+[36m[ "23:05:37 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[31m[ "23:05:37 | 08.11.24" ] [ ERROR ] : Text parameter can't be empty[0m
+[31m[ "23:05:37 | 08.11.24" ] [ ERROR ] : Text parameter can't be empty[0m
+[36m[ "23:05:38 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[31m[ "23:05:38 | 08.11.24" ] [ ERROR ] : Text parameter can't be empty[0m
+[31m[ "23:05:38 | 08.11.24" ] [ ERROR ] : Text parameter can't be empty[0m
+[36m[ "23:06:38 | 08.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "23:06:38 | 08.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "23:06:38 | 08.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "23:06:38 | 08.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "23:06:38 | 08.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "23:06:38 | 08.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "23:06:38 | 08.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "23:06:39 | 08.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "23:06:39 | 08.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "23:06:45 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[31m[ "23:06:45 | 08.11.24" ] [ ERROR ] : Text parameter can't be empty[0m
+[31m[ "23:06:45 | 08.11.24" ] [ ERROR ] : Text parameter can't be empty[0m
+[36m[ "23:06:46 | 08.11.24" ] [ DEBUG ] : Chat ID: 615517064[0m
+[31m[ "23:06:46 | 08.11.24" ] [ ERROR ] : Text parameter can't be empty[0m
+[31m[ "23:06:46 | 08.11.24" ] [ ERROR ] : Text parameter can't be empty[0m
+[36m[ "23:08:23 | 08.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "23:08:23 | 08.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "23:08:23 | 08.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "23:08:23 | 08.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "23:08:23 | 08.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "23:08:23 | 08.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "23:08:23 | 08.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "23:08:24 | 08.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "23:08:24 | 08.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "23:08:32 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:33 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:34 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:37 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:38 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:39 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:41 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:42 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:43 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:43 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:44 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:45 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:45 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:46 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:47 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:47 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:48 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:48 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:48 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:49 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:50 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:51 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:51 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:51 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:52 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:52 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:53 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:53 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:53 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:54 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:54 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:54 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:08:55 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:12:15 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:39:00 | 08.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "23:39:00 | 08.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "23:39:00 | 08.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "23:39:00 | 08.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "23:39:00 | 08.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "23:39:00 | 08.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "23:39:00 | 08.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "23:39:03 | 08.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "23:39:03 | 08.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "23:39:05 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:39:08 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:47:16 | 08.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "23:47:16 | 08.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "23:47:16 | 08.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "23:47:16 | 08.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "23:47:16 | 08.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "23:47:16 | 08.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "23:47:16 | 08.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "23:47:18 | 08.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "23:47:18 | 08.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "23:55:42 | 08.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "23:55:42 | 08.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "23:55:42 | 08.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "23:55:42 | 08.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "23:55:42 | 08.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "23:55:42 | 08.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "23:55:42 | 08.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "23:55:44 | 08.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "23:55:44 | 08.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "23:56:04 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[31m[ "23:56:04 | 08.11.24" ] [ ERROR ] : Error: User already exists.[0m
+[36m[ "23:56:04 | 08.11.24" ] [ DEBUG ] : PSQLException[0m
+[36m[ "23:56:08 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:56:09 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[31m[ "23:56:09 | 08.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "23:56:12 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[31m[ "23:56:12 | 08.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "23:56:34 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[31m[ "23:56:34 | 08.11.24" ] [ ERROR ] : Failed to send message: Text parameter can't be empty[0m
+[36m[ "23:57:58 | 08.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "23:57:58 | 08.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "23:57:58 | 08.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "23:57:58 | 08.11.24" ] [ DEBUG ] : BOT_USER_NAME: @GeeksKingdomBot[0m
+[36m[ "23:57:58 | 08.11.24" ] [ DEBUG ] : BOT_API_TOKEN: 1133203115:AAFVAIMojgNIllfNiTnTphTydQdZMm63R1g[0m
+[36m[ "23:57:58 | 08.11.24" ] [ DEBUG ] : TASK_OUTPUT_CHAT_ID: -1002489187215L[0m
+[32m[ "23:57:58 | 08.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "23:58:00 | 08.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "23:58:00 | 08.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "23:58:01 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:58:05 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:58:06 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:58:08 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m
+[36m[ "23:58:10 | 08.11.24" ] [ DEBUG ] : Received message from Chat ID: 615517064[0m

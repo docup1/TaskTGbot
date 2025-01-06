@@ -1,0 +1,2878 @@
+[36m[ "00:37:10 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "00:37:10 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "00:37:10 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "00:37:10 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "00:37:10 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "00:37:11 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "00:37:11 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "00:37:41 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "00:37:41 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "00:37:41 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "00:37:42 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 1[0m
+[32m[ "00:37:42 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "00:37:44 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 1[0m
+[32m[ "00:37:44 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "00:37:46 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDESCR_draft 1[0m
+[32m[ "00:37:46 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 1 of user ID: 1 with status: draft[0m
+[32m[ "00:37:46 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "00:37:50 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDESCR_draft 1[0m
+[32m[ "00:37:50 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 1 of user ID: 1 with status: draft[0m
+[32m[ "00:37:50 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "00:39:51 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 1[0m
+[36m[ "00:39:51 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 1}[0m
+[36m[ "00:39:52 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT[0m
+[36m[ "00:39:52 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 1}[0m
+[36m[ "00:42:44 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "00:42:44 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "00:42:44 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "00:42:44 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "00:42:44 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "00:42:45 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "00:42:45 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "00:42:53 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "00:42:53 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "00:42:53 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "00:42:55 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 1[0m
+[32m[ "00:42:55 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "00:42:56 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 1[0m
+[32m[ "00:42:56 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "00:42:59 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDESCR_draft 1[0m
+[36m[ "00:42:59 | 27.11.24" ] [ DEBUG ] : {615517064=SETDESCR-WAITING_draft 1}[0m
+[36m[ "00:43:06 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Новое описание[0m
+[36m[ "00:43:06 | 27.11.24" ] [ DEBUG ] : {615517064=SETDESCR-WAITING_draft 1}[0m
+[36m[ "00:43:06 | 27.11.24" ] [ DEBUG ] : SETDESCR-WAITING_draft 1[0m
+[32m[ "00:43:06 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 1 of user ID: 1 with status: draft[0m
+[32m[ "00:43:06 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Новое описание
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "00:44:55 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 1[0m
+[36m[ "00:44:55 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "00:44:57 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT[0m
+[36m[ "00:44:57 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "01:45:11 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "01:45:11 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "01:45:11 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "01:48:44 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "01:48:44 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "01:48:44 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "01:48:44 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "01:48:44 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "01:48:44 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "01:48:44 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "01:48:45 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 1[0m
+[31m[ "01:48:45 | 27.11.24" ] [ ERROR ] : Failed to answer callback: Error answering callback query: [400] Bad Request: query is too old and response timeout expired or query ID is invalid[0m
+[32m[ "01:48:45 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Новое описание
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "01:48:45 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 2[0m
+[31m[ "01:48:45 | 27.11.24" ] [ ERROR ] : Failed to answer callback: Error answering callback query: [400] Bad Request: query is too old and response timeout expired or query ID is invalid[0m
+[32m[ "01:48:45 | 27.11.24" ] [ INFO ] : <b>2</b>
+
+<b>Название задачи:</b> Новая задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 25.11.2024 01:11
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "01:48:45 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 2[0m
+[31m[ "01:48:45 | 27.11.24" ] [ ERROR ] : Failed to answer callback: Error answering callback query: [400] Bad Request: query is too old and response timeout expired or query ID is invalid[0m
+[32m[ "01:48:45 | 27.11.24" ] [ INFO ] : <b>2</b>
+
+<b>Название задачи:</b> Новая задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 25.11.2024 01:11
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "01:48:45 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "01:48:45 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "01:48:45 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "01:55:32 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "01:55:32 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "01:55:32 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "01:55:32 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "01:55:33 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "01:55:33 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "01:55:33 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "01:55:33 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: /start[0m
+[36m[ "01:55:33 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "01:55:33 | 27.11.24" ] [ INFO ] : User added successfully. Rows affected: 1[0m
+[36m[ "01:55:33 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: /newtask[0m
+[36m[ "01:55:33 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "01:55:51 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: Посмотреть профиль пользователя[0m
+[36m[ "01:55:51 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "01:55:56 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: Новая задача[0m
+[36m[ "01:55:56 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "01:55:56 | 27.11.24" ] [ DEBUG ] : {806115559=SET-TASK-TITLE-WAITING}[0m
+[36m[ "01:56:11 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: сделать дз по композе[0m
+[36m[ "01:56:11 | 27.11.24" ] [ DEBUG ] : {806115559=SET-TASK-TITLE-WAITING}[0m
+[36m[ "01:56:11 | 27.11.24" ] [ DEBUG ] : SET-TASK-TITLE-WAITING[0m
+[32m[ "01:56:11 | 27.11.24" ] [ INFO ] : Task added successfully. Rows affected: 1[0m
+[32m[ "01:56:11 | 27.11.24" ] [ INFO ] : Executed command: CREATE_TASK Response status: 202 - Accepted.[0m
+[36m[ "01:56:18 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: Черновики[0m
+[36m[ "01:56:18 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "01:56:18 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 2[0m
+[36m[ "01:56:24 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 806115559, User: okokok_nonon, Data: TASK-TO-SHOW_draft 1[0m
+[32m[ "01:56:24 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> сделать дз по композе
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 01:56
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "01:56:27 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 806115559, User: okokok_nonon, Data: EDIT_draft 1[0m
+[32m[ "01:56:27 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> сделать дз по композе
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 01:56
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "01:56:38 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 806115559, User: okokok_nonon, Data: SETDESCR_draft 1[0m
+[36m[ "01:56:39 | 27.11.24" ] [ DEBUG ] : {806115559=SETDESCR-WAITING_draft 1}[0m
+[36m[ "01:56:56 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: дз пок омпозе ахахалвлышышоатадазт pdpxpxndksodnheisj /929₽3₽:9:@₽$\*$|*+|£+\$!| djsi[0m
+[36m[ "01:56:56 | 27.11.24" ] [ DEBUG ] : {806115559=SETDESCR-WAITING_draft 1}[0m
+[36m[ "01:56:56 | 27.11.24" ] [ DEBUG ] : SETDESCR-WAITING_draft 1[0m
+[32m[ "01:56:56 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 1 of user ID: 2 with status: draft[0m
+[32m[ "01:56:56 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> сделать дз по композе
+<b>Описание:</b>
+дз пок омпозе ахахалвлышышоатадазт pdpxpxndksodnheisj /929₽3₽:9:@₽$\*$|*+|£+\$!| djsi
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 01:56
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "01:57:06 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 806115559, User: okokok_nonon, Data: PUBLIC_draft 1[0m
+[32m[ "01:57:06 | 27.11.24" ] [ INFO ] : Starting Public.generate for user: okokok_nonon with args: draft 1[0m
+[36m[ "01:57:06 | 27.11.24" ] [ DEBUG ] : Fetching user ID for username: okokok_nonon[0m
+[36m[ "01:57:06 | 27.11.24" ] [ DEBUG ] : GET_USER command result: org.example.data.response.Response@28a9234f[0m
+[32m[ "01:57:06 | 27.11.24" ] [ INFO ] : User ID retrieved: 2[0m
+[36m[ "01:57:06 | 27.11.24" ] [ DEBUG ] : Fetching task ID for userId: 2 with args: [draft, 1][0m
+[32m[ "01:57:06 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 1 of user ID: 2 with status: draft[0m
+[36m[ "01:57:06 | 27.11.24" ] [ DEBUG ] : GET_TASK command result: org.example.data.response.Response@48f29d2[0m
+[32m[ "01:57:06 | 27.11.24" ] [ INFO ] : Task ID retrieved: 15[0m
+[36m[ "01:57:06 | 27.11.24" ] [ DEBUG ] : Setting task status to 'open' for taskId: 15[0m
+[36m[ "01:57:06 | 27.11.24" ] [ DEBUG ] : open[0m
+[36m[ "01:57:06 | 27.11.24" ] [ DEBUG ] : SET_STATUS command result: Task status updated successfully. Rows affected: 1[0m
+[36m[ "01:57:06 | 27.11.24" ] [ DEBUG ] : Fetching task data for taskId: 15[0m
+[32m[ "01:57:06 | 27.11.24" ] [ INFO ] : Task retrieved successfully for task ID: 15[0m
+[36m[ "01:57:06 | 27.11.24" ] [ DEBUG ] : GET_TASK_BY_ID command result: org.example.data.response.Response@5e89e0d2[0m
+[32m[ "01:57:06 | 27.11.24" ] [ INFO ] : Task data retrieved for taskId: 15[0m
+[36m[ "01:57:06 | 27.11.24" ] [ DEBUG ] : Generated message text: <b>Название задачи:</b> сделать дз по композе
+<b>Описание:</b>
+дз пок омпозе ахахалвлышышоатадазт pdpxpxndksodnheisj /929₽3₽:9:@₽$\*$|*+|£+\$!| djsi
+<b>Статус:</b> <i>open</i>
+<b>Автор:</b> @okokok_nonon
+<b>Дата создания:</b> 27.11.2024 01:56
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+[0m
+[36m[ "01:57:06 | 27.11.24" ] [ DEBUG ] : Publishing task to Telegram channel for taskId: 15[0m
+[32m[ "01:57:06 | 27.11.24" ] [ INFO ] : Task published. Telegram message ID: 54[0m
+[36m[ "01:57:06 | 27.11.24" ] [ DEBUG ] : Setting Telegram message ID for taskId: 15[0m
+[36m[ "01:57:06 | 27.11.24" ] [ DEBUG ] : SET_MSG_ID command result: Task message ID updated successfully. Rows affected: 1[0m
+[32m[ "01:57:06 | 27.11.24" ] [ INFO ] : Public.generate execution completed for user: okokok_nonon[0m
+[36m[ "01:57:20 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: Мои задачи[0m
+[36m[ "01:57:20 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "01:57:20 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 2[0m
+[36m[ "01:57:23 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 806115559, User: okokok_nonon, Data: TASK-TO-SHOW_open 1[0m
+[32m[ "01:57:23 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> сделать дз по композе
+<b>Описание:</b>
+дз пок омпозе ахахалвлышышоатадазт pdpxpxndksodnheisj /929₽3₽:9:@₽$\*$|*+|£+\$!| djsi
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 27.11.2024 01:56
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "01:57:42 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 806115559, User: okokok_nonon, Data: FINISH_open 1[0m
+[32m[ "01:57:42 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 1 of user ID: 2 with status: open[0m
+[36m[ "01:57:42 | 27.11.24" ] [ DEBUG ] : completed[0m
+[32m[ "01:57:42 | 27.11.24" ] [ INFO ] : Task retrieved successfully for task ID: 15[0m
+[36m[ "01:57:49 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: История[0m
+[36m[ "01:57:49 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "01:57:49 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 2[0m
+[36m[ "01:57:53 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: Черновики[0m
+[36m[ "01:57:53 | 27.11.24" ] [ DEBUG ] : {}[0m
+[33m[ "01:57:53 | 27.11.24" ] [ WARN ] : No tasks found for the specified user.[0m
+[36m[ "01:58:15 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: Новая задача[0m
+[36m[ "01:58:15 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "01:58:15 | 27.11.24" ] [ DEBUG ] : {806115559=SET-TASK-TITLE-WAITING}[0m
+[36m[ "01:58:15 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: Новая задача[0m
+[36m[ "01:58:15 | 27.11.24" ] [ DEBUG ] : {806115559=SET-TASK-TITLE-WAITING}[0m
+[36m[ "01:58:15 | 27.11.24" ] [ DEBUG ] : SET-TASK-TITLE-WAITING[0m
+[32m[ "01:58:15 | 27.11.24" ] [ INFO ] : Task added successfully. Rows affected: 1[0m
+[32m[ "01:58:15 | 27.11.24" ] [ INFO ] : Executed command: CREATE_TASK Response status: 202 - Accepted.[0m
+[36m[ "01:58:38 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: Черновики[0m
+[36m[ "01:58:38 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "01:58:38 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 2[0m
+[36m[ "01:58:41 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 806115559, User: okokok_nonon, Data: TASK-TO-SHOW_draft 1[0m
+[32m[ "01:58:41 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Новая задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 01:58
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "01:58:46 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 806115559, User: okokok_nonon, Data: REMOVE_draft 1[0m
+[36m[ "01:58:49 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 806115559, User: okokok_nonon, Data: REMOVE_draft 1[0m
+[36m[ "01:58:56 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 806115559, User: okokok_nonon, Data: PUBLIC_draft 1[0m
+[32m[ "01:58:57 | 27.11.24" ] [ INFO ] : Starting Public.generate for user: okokok_nonon with args: draft 1[0m
+[36m[ "01:58:57 | 27.11.24" ] [ DEBUG ] : Fetching user ID for username: okokok_nonon[0m
+[36m[ "01:58:57 | 27.11.24" ] [ DEBUG ] : GET_USER command result: org.example.data.response.Response@4f4435b9[0m
+[32m[ "01:58:57 | 27.11.24" ] [ INFO ] : User ID retrieved: 2[0m
+[36m[ "01:58:57 | 27.11.24" ] [ DEBUG ] : Fetching task ID for userId: 2 with args: [draft, 1][0m
+[32m[ "01:58:57 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 1 of user ID: 2 with status: draft[0m
+[36m[ "01:58:57 | 27.11.24" ] [ DEBUG ] : GET_TASK command result: org.example.data.response.Response@23bf02f9[0m
+[32m[ "01:58:57 | 27.11.24" ] [ INFO ] : Task ID retrieved: 16[0m
+[36m[ "01:58:57 | 27.11.24" ] [ DEBUG ] : Setting task status to 'open' for taskId: 16[0m
+[36m[ "01:58:57 | 27.11.24" ] [ DEBUG ] : open[0m
+[36m[ "01:58:57 | 27.11.24" ] [ DEBUG ] : SET_STATUS command result: Task status updated successfully. Rows affected: 1[0m
+[36m[ "01:58:57 | 27.11.24" ] [ DEBUG ] : Fetching task data for taskId: 16[0m
+[32m[ "01:58:57 | 27.11.24" ] [ INFO ] : Task retrieved successfully for task ID: 16[0m
+[36m[ "01:58:57 | 27.11.24" ] [ DEBUG ] : GET_TASK_BY_ID command result: org.example.data.response.Response@2d6492c5[0m
+[32m[ "01:58:57 | 27.11.24" ] [ INFO ] : Task data retrieved for taskId: 16[0m
+[36m[ "01:58:57 | 27.11.24" ] [ DEBUG ] : Generated message text: <b>Название задачи:</b> Новая задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>open</i>
+<b>Автор:</b> @okokok_nonon
+<b>Дата создания:</b> 27.11.2024 01:58
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+[0m
+[36m[ "01:58:57 | 27.11.24" ] [ DEBUG ] : Publishing task to Telegram channel for taskId: 16[0m
+[32m[ "01:58:57 | 27.11.24" ] [ INFO ] : Task published. Telegram message ID: 55[0m
+[36m[ "01:58:57 | 27.11.24" ] [ DEBUG ] : Setting Telegram message ID for taskId: 16[0m
+[36m[ "01:58:57 | 27.11.24" ] [ DEBUG ] : SET_MSG_ID command result: Task message ID updated successfully. Rows affected: 1[0m
+[32m[ "01:58:57 | 27.11.24" ] [ INFO ] : Public.generate execution completed for user: okokok_nonon[0m
+[36m[ "01:59:01 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: Меню пользователя[0m
+[36m[ "01:59:01 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "01:59:01 | 27.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "01:59:06 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 806115559, User: okokok_nonon, Data: CHANGE-BIO[0m
+[36m[ "01:59:06 | 27.11.24" ] [ DEBUG ] : {806115559=SETBIO-WAITING}[0m
+[36m[ "01:59:16 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: ❤️🎀🎀❤️🎀🎀🎀❤️🎀🎀🎀[0m
+[36m[ "01:59:16 | 27.11.24" ] [ DEBUG ] : {806115559=SETBIO-WAITING}[0m
+[36m[ "01:59:16 | 27.11.24" ] [ DEBUG ] : SETBIO-WAITING[0m
+[32m[ "01:59:16 | 27.11.24" ] [ INFO ] : Bio updated successfully. Rows affected: 1[0m
+[32m[ "01:59:16 | 27.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "01:59:26 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: Информация[0m
+[36m[ "01:59:26 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "01:59:37 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: Мои задачи[0m
+[36m[ "01:59:37 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "01:59:37 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 2[0m
+[36m[ "01:59:38 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: История[0m
+[36m[ "01:59:38 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "01:59:38 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 2[0m
+[36m[ "01:59:44 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: Черновики[0m
+[36m[ "01:59:44 | 27.11.24" ] [ DEBUG ] : {}[0m
+[33m[ "01:59:44 | 27.11.24" ] [ WARN ] : No tasks found for the specified user.[0m
+[36m[ "01:59:53 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: Новая задача[0m
+[36m[ "01:59:53 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "01:59:53 | 27.11.24" ] [ DEBUG ] : {806115559=SET-TASK-TITLE-WAITING}[0m
+[36m[ "01:59:59 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: jkdisnd[0m
+[36m[ "01:59:59 | 27.11.24" ] [ DEBUG ] : {806115559=SET-TASK-TITLE-WAITING}[0m
+[36m[ "01:59:59 | 27.11.24" ] [ DEBUG ] : SET-TASK-TITLE-WAITING[0m
+[32m[ "01:59:59 | 27.11.24" ] [ INFO ] : Task added successfully. Rows affected: 1[0m
+[32m[ "01:59:59 | 27.11.24" ] [ INFO ] : Executed command: CREATE_TASK Response status: 202 - Accepted.[0m
+[36m[ "02:00:09 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 806115559, User: okokok_nonon, Text: Черновики[0m
+[36m[ "02:00:09 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "02:00:09 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 2[0m
+[36m[ "02:02:54 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 806115559, User: okokok_nonon, Data: TASK-TO-SHOW_draft 1[0m
+[32m[ "02:02:54 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> jkdisnd
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 01:59
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "11:14:35 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "11:14:35 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "11:14:35 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "11:14:35 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "11:14:35 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "11:14:36 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "11:14:36 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "11:14:36 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 1278430902, User: MichaelGraphics, Text: /start[0m
+[36m[ "11:14:36 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "11:14:36 | 27.11.24" ] [ INFO ] : User added successfully. Rows affected: 1[0m
+[36m[ "11:16:09 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 1278430902, User: MichaelGraphics, Text: /newtask[0m
+[36m[ "11:16:09 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "11:16:51 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 1278430902, User: MichaelGraphics, Text: Новая задача[0m
+[36m[ "11:16:51 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "11:16:51 | 27.11.24" ] [ DEBUG ] : {1278430902=SET-TASK-TITLE-WAITING}[0m
+[36m[ "11:17:26 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 1278430902, User: MichaelGraphics, Text: Математическая модель по принципу дельта t[0m
+[36m[ "11:17:26 | 27.11.24" ] [ DEBUG ] : {1278430902=SET-TASK-TITLE-WAITING}[0m
+[36m[ "11:17:26 | 27.11.24" ] [ DEBUG ] : SET-TASK-TITLE-WAITING[0m
+[32m[ "11:17:26 | 27.11.24" ] [ INFO ] : Task added successfully. Rows affected: 1[0m
+[32m[ "11:17:26 | 27.11.24" ] [ INFO ] : Executed command: CREATE_TASK Response status: 202 - Accepted.[0m
+[36m[ "11:17:32 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 1278430902, User: MichaelGraphics, Text: Черновики[0m
+[36m[ "11:17:32 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "11:17:32 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 3[0m
+[36m[ "11:17:37 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 1278430902, User: MichaelGraphics, Text: Посмотреть профиль пользователя[0m
+[36m[ "11:17:37 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "11:17:41 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 1278430902, User: MichaelGraphics, Text: Меню пользователя[0m
+[36m[ "11:17:41 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "11:17:41 | 27.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "11:18:25 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 1278430902, User: MichaelGraphics, Data: CHANGE-BIO[0m
+[36m[ "11:18:25 | 27.11.24" ] [ DEBUG ] : {1278430902=SETBIO-WAITING}[0m
+[36m[ "11:18:41 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 1278430902, User: MichaelGraphics, Text: Пиво на дизайне[0m
+[36m[ "11:18:41 | 27.11.24" ] [ DEBUG ] : {1278430902=SETBIO-WAITING}[0m
+[36m[ "11:18:41 | 27.11.24" ] [ DEBUG ] : SETBIO-WAITING[0m
+[32m[ "11:18:41 | 27.11.24" ] [ INFO ] : Bio updated successfully. Rows affected: 1[0m
+[32m[ "11:18:41 | 27.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "11:19:32 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 1278430902, User: MichaelGraphics, Text: Мои задачи[0m
+[36m[ "11:19:32 | 27.11.24" ] [ DEBUG ] : {}[0m
+[33m[ "11:19:32 | 27.11.24" ] [ WARN ] : No tasks found for the specified user.[0m
+[36m[ "11:19:35 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 1278430902, User: MichaelGraphics, Text: Новая задача[0m
+[36m[ "11:19:35 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "11:19:35 | 27.11.24" ] [ DEBUG ] : {1278430902=SET-TASK-TITLE-WAITING}[0m
+[36m[ "11:19:37 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 1278430902, User: MichaelGraphics, Data: EXIT[0m
+[36m[ "11:19:37 | 27.11.24" ] [ DEBUG ] : {1278430902=SET-TASK-TITLE-WAITING}[0m
+[36m[ "11:19:39 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 1278430902, User: MichaelGraphics, Text: Черновики[0m
+[36m[ "11:19:39 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "11:19:39 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 3[0m
+[36m[ "11:19:40 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 1278430902, User: MichaelGraphics, Data: TASK-TO-SHOW_draft 1[0m
+[32m[ "11:19:40 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Математическая модель по принципу дельта t
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 11:17
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "11:19:44 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 1278430902, User: MichaelGraphics, Data: PUBLIC_draft 1[0m
+[32m[ "11:19:44 | 27.11.24" ] [ INFO ] : Starting Public.generate for user: MichaelGraphics with args: draft 1[0m
+[36m[ "11:19:44 | 27.11.24" ] [ DEBUG ] : Fetching user ID for username: MichaelGraphics[0m
+[36m[ "11:19:44 | 27.11.24" ] [ DEBUG ] : GET_USER command result: org.example.data.response.Response@660292f4[0m
+[32m[ "11:19:44 | 27.11.24" ] [ INFO ] : User ID retrieved: 3[0m
+[36m[ "11:19:44 | 27.11.24" ] [ DEBUG ] : Fetching task ID for userId: 3 with args: [draft, 1][0m
+[32m[ "11:19:44 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 1 of user ID: 3 with status: draft[0m
+[36m[ "11:19:44 | 27.11.24" ] [ DEBUG ] : GET_TASK command result: org.example.data.response.Response@5113ebe9[0m
+[32m[ "11:19:44 | 27.11.24" ] [ INFO ] : Task ID retrieved: 18[0m
+[36m[ "11:19:44 | 27.11.24" ] [ DEBUG ] : Setting task status to 'open' for taskId: 18[0m
+[36m[ "11:19:44 | 27.11.24" ] [ DEBUG ] : open[0m
+[36m[ "11:19:44 | 27.11.24" ] [ DEBUG ] : SET_STATUS command result: Task status updated successfully. Rows affected: 1[0m
+[36m[ "11:19:44 | 27.11.24" ] [ DEBUG ] : Fetching task data for taskId: 18[0m
+[32m[ "11:19:44 | 27.11.24" ] [ INFO ] : Task retrieved successfully for task ID: 18[0m
+[36m[ "11:19:44 | 27.11.24" ] [ DEBUG ] : GET_TASK_BY_ID command result: org.example.data.response.Response@3bb27c84[0m
+[32m[ "11:19:44 | 27.11.24" ] [ INFO ] : Task data retrieved for taskId: 18[0m
+[36m[ "11:19:44 | 27.11.24" ] [ DEBUG ] : Generated message text: <b>Название задачи:</b> Математическая модель по принципу дельта t
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>open</i>
+<b>Автор:</b> @MichaelGraphics
+<b>Дата создания:</b> 27.11.2024 11:17
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+[0m
+[36m[ "11:19:44 | 27.11.24" ] [ DEBUG ] : Publishing task to Telegram channel for taskId: 18[0m
+[32m[ "11:19:44 | 27.11.24" ] [ INFO ] : Task published. Telegram message ID: 57[0m
+[36m[ "11:19:44 | 27.11.24" ] [ DEBUG ] : Setting Telegram message ID for taskId: 18[0m
+[36m[ "11:19:44 | 27.11.24" ] [ DEBUG ] : SET_MSG_ID command result: Task message ID updated successfully. Rows affected: 1[0m
+[32m[ "11:19:44 | 27.11.24" ] [ INFO ] : Public.generate execution completed for user: MichaelGraphics[0m
+[36m[ "12:28:43 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "12:28:43 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "12:28:43 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "12:28:44 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "12:28:44 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "12:28:44 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "12:28:44 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "12:28:55 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Новая задача[0m
+[36m[ "12:28:55 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "12:28:55 | 27.11.24" ] [ DEBUG ] : {615517064=SET-TASK-TITLE-WAITING}[0m
+[36m[ "12:29:00 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Название[0m
+[36m[ "12:29:00 | 27.11.24" ] [ DEBUG ] : {615517064=SET-TASK-TITLE-WAITING}[0m
+[36m[ "12:29:00 | 27.11.24" ] [ DEBUG ] : SET-TASK-TITLE-WAITING[0m
+[32m[ "12:29:01 | 27.11.24" ] [ INFO ] : Task added successfully. Rows affected: 1[0m
+[32m[ "12:29:01 | 27.11.24" ] [ INFO ] : Executed command: CREATE_TASK Response status: 202 - Accepted.[0m
+[31m[ "12:29:01 | 27.11.24" ] [ ERROR ] : SQL Error: ERROR: operator does not exist: task_status = character varying
+  Подсказка: No operator matches the given name and argument types. You might need to add explicit type casts.
+  Позиция: 75[0m
+[36m[ "12:29:01 | 27.11.24" ] [ DEBUG ] : PSQLException[0m
+[36m[ "12:29:59 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "12:29:59 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "12:29:59 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "12:29:59 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "12:29:59 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "12:30:00 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "12:30:00 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "12:30:03 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Новая задача[0m
+[36m[ "12:30:03 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "12:30:03 | 27.11.24" ] [ DEBUG ] : {615517064=SET-TASK-TITLE-WAITING}[0m
+[36m[ "12:30:11 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Название задачи[0m
+[36m[ "12:30:11 | 27.11.24" ] [ DEBUG ] : {615517064=SET-TASK-TITLE-WAITING}[0m
+[36m[ "12:30:11 | 27.11.24" ] [ DEBUG ] : SET-TASK-TITLE-WAITING[0m
+[32m[ "12:30:11 | 27.11.24" ] [ INFO ] : Task added successfully. Rows affected: 1[0m
+[32m[ "12:30:11 | 27.11.24" ] [ INFO ] : Executed command: CREATE_TASK Response status: 202 - Accepted.[0m
+[31m[ "12:30:11 | 27.11.24" ] [ ERROR ] : SQL Error: ERROR: operator does not exist: task_status = character varying
+  Подсказка: No operator matches the given name and argument types. You might need to add explicit type casts.
+  Позиция: 75[0m
+[36m[ "12:30:11 | 27.11.24" ] [ DEBUG ] : PSQLException[0m
+[36m[ "12:30:42 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "12:30:42 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "12:30:42 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "12:30:44 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 4[0m
+[32m[ "12:30:44 | 27.11.24" ] [ INFO ] : <b>4</b>
+
+<b>Название задачи:</b> Название задачи
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:30
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "12:30:53 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 4[0m
+[32m[ "12:30:53 | 27.11.24" ] [ INFO ] : <b>4</b>
+
+<b>Название задачи:</b> Название задачи
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:30
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "12:32:03 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "12:32:03 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "12:32:03 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "12:32:03 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "12:32:03 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "12:32:04 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "12:32:04 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "12:32:07 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Новая задача[0m
+[36m[ "12:32:07 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "12:32:07 | 27.11.24" ] [ DEBUG ] : {615517064=SET-TASK-TITLE-WAITING}[0m
+[36m[ "12:32:10 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Да[0m
+[36m[ "12:32:10 | 27.11.24" ] [ DEBUG ] : {615517064=SET-TASK-TITLE-WAITING}[0m
+[36m[ "12:32:10 | 27.11.24" ] [ DEBUG ] : SET-TASK-TITLE-WAITING[0m
+[32m[ "12:32:10 | 27.11.24" ] [ INFO ] : Task added successfully. Rows affected: 1[0m
+[32m[ "12:32:10 | 27.11.24" ] [ INFO ] : Executed command: CREATE_TASK Response status: 202 - Accepted.[0m
+[31m[ "12:32:10 | 27.11.24" ] [ ERROR ] : SQL Error: ERROR: operator does not exist: task_status = character varying
+  Подсказка: No operator matches the given name and argument types. You might need to add explicit type casts.
+  Позиция: 75[0m
+[36m[ "12:32:10 | 27.11.24" ] [ DEBUG ] : PSQLException[0m
+[36m[ "12:32:10 | 27.11.24" ] [ DEBUG ] : Ошибка при подсчете задач пользователя[0m
+[36m[ "12:39:30 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "12:39:30 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "12:39:30 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "12:39:30 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "12:39:30 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "12:39:30 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "12:39:30 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "12:39:35 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Новая задача[0m
+[36m[ "12:39:35 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "12:39:35 | 27.11.24" ] [ DEBUG ] : {615517064=SET-TASK-TITLE-WAITING}[0m
+[36m[ "12:39:40 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Задача[0m
+[36m[ "12:39:40 | 27.11.24" ] [ DEBUG ] : {615517064=SET-TASK-TITLE-WAITING}[0m
+[36m[ "12:39:40 | 27.11.24" ] [ DEBUG ] : SET-TASK-TITLE-WAITING[0m
+[32m[ "12:39:40 | 27.11.24" ] [ INFO ] : Task added successfully. Rows affected: 1[0m
+[32m[ "12:39:40 | 27.11.24" ] [ INFO ] : Executed command: CREATE_TASK Response status: 202 - Accepted.[0m
+[32m[ "12:39:40 | 27.11.24" ] [ INFO ] : 6[0m
+[36m[ "12:39:40 | 27.11.24" ] [ DEBUG ] : 6[0m
+[32m[ "12:39:40 | 27.11.24" ] [ INFO ] : <b>6</b>
+
+<b>Название задачи:</b> Задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:39
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "12:39:45 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 6 Задача[0m
+[36m[ "12:39:45 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 6 Задача}[0m
+[36m[ "12:39:47 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT[0m
+[36m[ "12:39:47 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 6 Задача}[0m
+[36m[ "12:39:49 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Новая задача[0m
+[36m[ "12:39:49 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "12:39:49 | 27.11.24" ] [ DEBUG ] : {615517064=SET-TASK-TITLE-WAITING}[0m
+[36m[ "12:39:50 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT[0m
+[36m[ "12:39:50 | 27.11.24" ] [ DEBUG ] : {615517064=SET-TASK-TITLE-WAITING}[0m
+[36m[ "12:49:13 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "12:49:13 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "12:49:13 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "12:49:13 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "12:49:13 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "12:49:14 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "12:49:14 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "12:49:18 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "12:49:18 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "12:49:18 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "12:49:20 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 3[0m
+[32m[ "12:49:20 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "12:49:21 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 3[0m
+[32m[ "12:49:21 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "12:49:24 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 3[0m
+[36m[ "12:49:24 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3}[0m
+[36m[ "12:49:25 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_USERMENU draft 3[0m
+[36m[ "12:49:25 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3}[0m
+[36m[ "12:50:31 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "12:50:31 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "12:50:31 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "12:50:31 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "12:50:31 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "12:50:32 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "12:50:32 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "12:50:35 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_USERMENU draft 3[0m
+[36m[ "12:50:35 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "12:50:37 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "12:50:37 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "12:50:38 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "12:50:38 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 4[0m
+[32m[ "12:50:39 | 27.11.24" ] [ INFO ] : <b>4</b>
+
+<b>Название задачи:</b> Название задачи
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:30
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "12:50:40 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 4[0m
+[32m[ "12:50:40 | 27.11.24" ] [ INFO ] : <b>4</b>
+
+<b>Название задачи:</b> Название задачи
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:30
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "12:50:41 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 4[0m
+[36m[ "12:50:41 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 4}[0m
+[36m[ "12:50:42 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 4[0m
+[36m[ "12:50:42 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 4}[0m
+[36m[ "12:51:13 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "12:51:13 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "12:51:13 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "12:53:20 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "12:53:20 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "12:53:20 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "12:53:20 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "12:53:20 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "12:53:20 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "12:53:20 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "12:53:25 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 3[0m
+[32m[ "12:53:25 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "12:53:27 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 3[0m
+[32m[ "12:53:27 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "12:53:29 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 3[0m
+[36m[ "12:53:29 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3}[0m
+[36m[ "12:53:30 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 3[0m
+[36m[ "12:53:31 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3}[0m
+[36m[ "12:53:31 | 27.11.24" ] [ DEBUG ] : EDIT_DIT draft 3[0m
+[36m[ "12:54:41 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "12:54:41 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "12:54:41 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "12:54:41 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "12:54:41 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "12:54:42 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "12:54:42 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "12:54:44 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 3[0m
+[36m[ "12:54:44 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "12:54:44 | 27.11.24" ] [ DEBUG ] : EDIT_draft 3[0m
+[32m[ "12:54:44 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "12:54:46 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 3 draft 3[0m
+[36m[ "12:54:46 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3 draft 3}[0m
+[36m[ "12:54:47 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 3 draft 3[0m
+[36m[ "12:54:47 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3 draft 3}[0m
+[36m[ "12:54:47 | 27.11.24" ] [ DEBUG ] : EDIT_draft 3 draft 3[0m
+[32m[ "12:54:47 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "12:54:55 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 3 draft 3 draft 3 draft 3[0m
+[36m[ "12:54:55 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3 draft 3 draft 3 draft 3}[0m
+[36m[ "12:54:56 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 3 draft 3 draft 3 draft 3[0m
+[36m[ "12:54:56 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3 draft 3 draft 3 draft 3}[0m
+[36m[ "12:54:56 | 27.11.24" ] [ DEBUG ] : EDIT_draft 3 draft 3 draft 3 draft 3[0m
+[32m[ "12:54:56 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[31m[ "12:54:56 | 27.11.24" ] [ ERROR ] : Failed to send message: Error sending message: [400] Bad Request: BUTTON_DATA_INVALID[0m
+[36m[ "12:55:01 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 3 draft 3 draft 3 draft 3[0m
+[36m[ "12:55:01 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3 draft 3 draft 3 draft 3}[0m
+[36m[ "12:55:02 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 3 draft 3 draft 3 draft 3[0m
+[36m[ "12:55:02 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3 draft 3 draft 3 draft 3}[0m
+[36m[ "12:55:02 | 27.11.24" ] [ DEBUG ] : EDIT_draft 3 draft 3 draft 3 draft 3[0m
+[32m[ "12:55:02 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[31m[ "12:55:03 | 27.11.24" ] [ ERROR ] : Failed to send message: Error sending message: [400] Bad Request: BUTTON_DATA_INVALID[0m
+[36m[ "12:55:19 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "12:55:19 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "12:55:19 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "12:55:20 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 3[0m
+[32m[ "12:55:20 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "12:55:22 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 3[0m
+[32m[ "12:55:22 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "12:55:23 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 3[0m
+[36m[ "12:55:23 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3}[0m
+[36m[ "12:55:24 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 3[0m
+[36m[ "12:55:24 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3}[0m
+[36m[ "12:55:24 | 27.11.24" ] [ DEBUG ] : EDIT_draft 3[0m
+[32m[ "12:55:24 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "12:55:37 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "12:55:37 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "12:55:37 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "12:55:38 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 1[0m
+[32m[ "12:55:39 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Новое описание
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "12:55:42 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 1[0m
+[32m[ "12:55:42 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Новое описание
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "12:55:43 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 1[0m
+[36m[ "12:55:43 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 1}[0m
+[36m[ "12:55:44 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 1[0m
+[36m[ "12:55:44 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 1}[0m
+[36m[ "12:55:44 | 27.11.24" ] [ DEBUG ] : EDIT_draft 1[0m
+[32m[ "12:55:44 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Новое описание
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:01:14 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "13:01:14 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "13:01:14 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "13:01:14 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "13:01:14 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "13:01:15 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "13:01:15 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "13:01:40 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "13:01:40 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "13:01:40 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "13:01:41 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 5[0m
+[32m[ "13:01:41 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Да
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:01:45 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 5[0m
+[32m[ "13:01:45 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Да
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:01:46 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 5[0m
+[36m[ "13:01:46 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 5}[0m
+[36m[ "13:01:47 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 5[0m
+[36m[ "13:01:47 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 5}[0m
+[36m[ "13:01:47 | 27.11.24" ] [ DEBUG ] : EDIT_draft 5[0m
+[32m[ "13:01:47 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Да
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:01:49 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 5 draft 5[0m
+[36m[ "13:01:49 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 5 draft 5}[0m
+[36m[ "13:01:50 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 5 draft 5[0m
+[36m[ "13:01:50 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 5 draft 5}[0m
+[36m[ "13:01:50 | 27.11.24" ] [ DEBUG ] : EDIT_draft 5 draft 5[0m
+[32m[ "13:01:50 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Да
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:01:51 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 5 draft 5 draft 5 draft 5[0m
+[36m[ "13:01:51 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 5 draft 5 draft 5 draft 5}[0m
+[36m[ "13:01:52 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 5 draft 5 draft 5 draft 5[0m
+[36m[ "13:01:53 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 5 draft 5 draft 5 draft 5}[0m
+[36m[ "13:01:53 | 27.11.24" ] [ DEBUG ] : EDIT_draft 5 draft 5 draft 5 draft 5[0m
+[32m[ "13:01:53 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Да
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[31m[ "13:01:53 | 27.11.24" ] [ ERROR ] : Failed to send message: Error sending message: [400] Bad Request: BUTTON_DATA_INVALID[0m
+[36m[ "13:01:55 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 5 draft 5 draft 5 draft 5[0m
+[36m[ "13:01:55 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "13:01:55 | 27.11.24" ] [ DEBUG ] : EDIT_draft 5 draft 5 draft 5 draft 5[0m
+[32m[ "13:01:55 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Да
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[31m[ "13:01:55 | 27.11.24" ] [ ERROR ] : Failed to send message: Error sending message: [400] Bad Request: BUTTON_DATA_INVALID[0m
+[36m[ "13:01:59 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 5 draft 5 draft 5 draft 5[0m
+[36m[ "13:01:59 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "13:01:59 | 27.11.24" ] [ DEBUG ] : EDIT_draft 5 draft 5 draft 5 draft 5[0m
+[32m[ "13:01:59 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Да
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[31m[ "13:02:00 | 27.11.24" ] [ ERROR ] : Failed to send message: Error sending message: [400] Bad Request: BUTTON_DATA_INVALID[0m
+[36m[ "13:02:00 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 5 draft 5 draft 5 draft 5[0m
+[36m[ "13:02:00 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "13:02:00 | 27.11.24" ] [ DEBUG ] : EDIT_draft 5 draft 5 draft 5 draft 5[0m
+[32m[ "13:02:00 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Да
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[31m[ "13:02:00 | 27.11.24" ] [ ERROR ] : Failed to send message: Error sending message: [400] Bad Request: BUTTON_DATA_INVALID[0m
+[36m[ "13:02:02 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 5 draft 5 draft 5 draft 5[0m
+[36m[ "13:02:02 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "13:02:02 | 27.11.24" ] [ DEBUG ] : EDIT_draft 5 draft 5 draft 5 draft 5[0m
+[32m[ "13:02:02 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Да
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[31m[ "13:02:03 | 27.11.24" ] [ ERROR ] : Failed to send message: Error sending message: [400] Bad Request: BUTTON_DATA_INVALID[0m
+[36m[ "13:11:16 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "13:11:16 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "13:11:16 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "13:11:16 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "13:11:16 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "13:11:17 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "13:11:17 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "13:11:24 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 5 draft 5 draft 5 draft 5[0m
+[36m[ "13:11:24 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "13:11:24 | 27.11.24" ] [ DEBUG ] : EDIT_draft 5 draft 5 draft 5 draft 5[0m
+[32m[ "13:11:24 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Да
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[31m[ "13:11:24 | 27.11.24" ] [ ERROR ] : Failed to send message: Error sending message: [400] Bad Request: BUTTON_DATA_INVALID[0m
+[36m[ "13:11:30 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "13:11:30 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "13:11:30 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "13:11:31 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 4[0m
+[32m[ "13:11:31 | 27.11.24" ] [ INFO ] : <b>4</b>
+
+<b>Название задачи:</b> Название задачи
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:30
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:11:33 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 4[0m
+[32m[ "13:11:33 | 27.11.24" ] [ INFO ] : <b>4</b>
+
+<b>Название задачи:</b> Название задачи
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:30
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:11:34 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 4[0m
+[36m[ "13:11:35 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 4}[0m
+[36m[ "13:11:36 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT[0m
+[36m[ "13:11:36 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 4}[0m
+[36m[ "13:11:36 | 27.11.24" ] [ DEBUG ] : EDIT_[0m
+[36m[ "13:11:39 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT[0m
+[36m[ "13:11:39 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "13:11:39 | 27.11.24" ] [ DEBUG ] : EDIT_[0m
+[36m[ "13:11:40 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT[0m
+[36m[ "13:11:41 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "13:11:41 | 27.11.24" ] [ DEBUG ] : EDIT_[0m
+[36m[ "13:11:45 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT[0m
+[36m[ "13:11:45 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "13:11:45 | 27.11.24" ] [ DEBUG ] : EDIT_[0m
+[36m[ "13:11:46 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT[0m
+[36m[ "13:11:46 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "13:11:46 | 27.11.24" ] [ DEBUG ] : EDIT_[0m
+[36m[ "13:11:47 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT[0m
+[36m[ "13:11:47 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "13:11:47 | 27.11.24" ] [ DEBUG ] : EDIT_[0m
+[36m[ "13:11:48 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT[0m
+[36m[ "13:11:48 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "13:11:48 | 27.11.24" ] [ DEBUG ] : EDIT_[0m
+[36m[ "13:11:49 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT[0m
+[36m[ "13:11:49 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "13:11:49 | 27.11.24" ] [ DEBUG ] : EDIT_[0m
+[36m[ "13:11:50 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT[0m
+[36m[ "13:11:50 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "13:11:50 | 27.11.24" ] [ DEBUG ] : EDIT_[0m
+[36m[ "13:12:08 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "13:12:08 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "13:12:08 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "13:12:08 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "13:12:08 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "13:12:09 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "13:12:09 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "13:12:10 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT[0m
+[36m[ "13:12:10 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "13:12:10 | 27.11.24" ] [ DEBUG ] : EDIT_[0m
+[36m[ "13:12:12 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT[0m
+[36m[ "13:12:13 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "13:12:13 | 27.11.24" ] [ DEBUG ] : EDIT_[0m
+[36m[ "13:12:14 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "13:12:14 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "13:12:14 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "13:12:15 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 3[0m
+[32m[ "13:12:15 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:12:16 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 3[0m
+[32m[ "13:12:17 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:12:18 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 3[0m
+[36m[ "13:12:18 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3}[0m
+[36m[ "13:12:20 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 3[0m
+[36m[ "13:12:20 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3}[0m
+[36m[ "13:12:20 | 27.11.24" ] [ DEBUG ] : EDIT_draft 3[0m
+[32m[ "13:12:20 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:12:23 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 3 draft 3[0m
+[36m[ "13:12:23 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3 draft 3}[0m
+[36m[ "13:12:32 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 3 draft 3[0m
+[36m[ "13:12:32 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3 draft 3}[0m
+[36m[ "13:12:32 | 27.11.24" ] [ DEBUG ] : EDIT_draft 3 draft 3[0m
+[32m[ "13:12:32 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:12:49 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 3 draft 3 draft 3 draft 3[0m
+[36m[ "13:12:49 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3 draft 3 draft 3 draft 3}[0m
+[36m[ "13:12:53 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 3 draft 3 draft 3 draft 3[0m
+[36m[ "13:12:53 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3 draft 3 draft 3 draft 3}[0m
+[36m[ "13:12:53 | 27.11.24" ] [ DEBUG ] : EDIT_draft 3 draft 3 draft 3 draft 3[0m
+[32m[ "13:12:53 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[31m[ "13:12:53 | 27.11.24" ] [ ERROR ] : Failed to send message: Error sending message: [400] Bad Request: BUTTON_DATA_INVALID[0m
+[36m[ "13:14:32 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "13:14:32 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "13:14:32 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "13:14:32 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "13:14:32 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "13:14:33 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "13:14:33 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "13:14:34 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "13:14:34 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "13:14:34 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "13:14:35 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 6[0m
+[32m[ "13:14:36 | 27.11.24" ] [ INFO ] : <b>6</b>
+
+<b>Название задачи:</b> Задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:39
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:14:37 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 6[0m
+[32m[ "13:14:37 | 27.11.24" ] [ INFO ] : <b>6</b>
+
+<b>Название задачи:</b> Задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:39
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:14:50 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 6[0m
+[36m[ "13:14:50 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 6}[0m
+[36m[ "13:14:55 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 6[0m
+[36m[ "13:14:55 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 6}[0m
+[36m[ "13:14:55 | 27.11.24" ] [ DEBUG ] : EDIT_draft 6[0m
+[32m[ "13:14:55 | 27.11.24" ] [ INFO ] : <b>6</b>
+
+<b>Название задачи:</b> Задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:39
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:15:03 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 6 draft 6[0m
+[36m[ "13:15:03 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 6 draft 6}[0m
+[36m[ "13:16:28 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "13:16:28 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "13:16:28 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "13:16:28 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "13:16:28 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "13:16:28 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "13:16:28 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "13:16:32 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "13:16:32 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "13:16:32 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "13:16:34 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 3[0m
+[32m[ "13:16:34 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:16:36 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 3[0m
+[36m[ "13:16:36 | 27.11.24" ] [ DEBUG ] : [Ljava.lang.String;@1758529e[0m
+[32m[ "13:16:36 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:16:53 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "13:16:53 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "13:16:53 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "13:16:53 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "13:16:53 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "13:16:53 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "13:16:53 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "13:16:54 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "13:16:54 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "13:16:54 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "13:16:55 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 2[0m
+[32m[ "13:16:55 | 27.11.24" ] [ INFO ] : <b>2</b>
+
+<b>Название задачи:</b> Новая задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 25.11.2024 01:11
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:16:57 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 2[0m
+[36m[ "13:16:57 | 27.11.24" ] [ DEBUG ] : draft 2[0m
+[32m[ "13:16:57 | 27.11.24" ] [ INFO ] : <b>2</b>
+
+<b>Название задачи:</b> Новая задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 25.11.2024 01:11
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:17:02 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 2[0m
+[36m[ "13:17:03 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 2}[0m
+[36m[ "13:17:04 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 2[0m
+[36m[ "13:17:04 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 2}[0m
+[36m[ "13:17:04 | 27.11.24" ] [ DEBUG ] : EDIT_draft 2[0m
+[36m[ "13:17:04 | 27.11.24" ] [ DEBUG ] : draft 2 draft 2[0m
+[32m[ "13:17:04 | 27.11.24" ] [ INFO ] : <b>2</b>
+
+<b>Название задачи:</b> Новая задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 25.11.2024 01:11
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "13:17:24 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 2 draft 2[0m
+[36m[ "13:17:24 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 2 draft 2}[0m
+[36m[ "13:17:37 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 2 draft 2[0m
+[36m[ "13:17:37 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 2 draft 2}[0m
+[36m[ "13:17:37 | 27.11.24" ] [ DEBUG ] : EDIT_draft 2 draft 2[0m
+[36m[ "13:17:37 | 27.11.24" ] [ DEBUG ] : draft 2 draft 2 draft 2 draft 2[0m
+[32m[ "13:17:37 | 27.11.24" ] [ INFO ] : <b>2</b>
+
+<b>Название задачи:</b> Новая задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 25.11.2024 01:11
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "15:06:31 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "15:06:31 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "15:06:31 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "15:06:31 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "15:06:31 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "15:06:31 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "15:06:31 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "15:06:40 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "15:06:40 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:06:40 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "15:06:42 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 2[0m
+[32m[ "15:06:42 | 27.11.24" ] [ INFO ] : <b>2</b>
+
+<b>Название задачи:</b> Новая задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 25.11.2024 01:11
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "15:06:45 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 2[0m
+[36m[ "15:06:45 | 27.11.24" ] [ DEBUG ] : draft 2[0m
+[32m[ "15:06:45 | 27.11.24" ] [ INFO ] : <b>2</b>
+
+<b>Название задачи:</b> Новая задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 25.11.2024 01:11
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "15:06:46 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 2[0m
+[36m[ "15:06:47 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 2}[0m
+[36m[ "15:06:49 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 2[0m
+[36m[ "15:06:49 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 2}[0m
+[36m[ "15:06:49 | 27.11.24" ] [ DEBUG ] : EDIT draft 2[0m
+[36m[ "15:06:49 | 27.11.24" ] [ DEBUG ] : draft 2[0m
+[32m[ "15:06:49 | 27.11.24" ] [ INFO ] : <b>2</b>
+
+<b>Название задачи:</b> Новая задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 25.11.2024 01:11
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "15:06:50 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 2[0m
+[36m[ "15:06:50 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 2}[0m
+[36m[ "15:06:54 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 2[0m
+[36m[ "15:06:54 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 2}[0m
+[36m[ "15:06:54 | 27.11.24" ] [ DEBUG ] : EDIT draft 2[0m
+[36m[ "15:06:54 | 27.11.24" ] [ DEBUG ] : draft 2[0m
+[32m[ "15:06:54 | 27.11.24" ] [ INFO ] : <b>2</b>
+
+<b>Название задачи:</b> Новая задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 25.11.2024 01:11
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "15:06:55 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 2[0m
+[36m[ "15:06:56 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 2}[0m
+[36m[ "15:06:57 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 2[0m
+[36m[ "15:06:57 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 2}[0m
+[36m[ "15:06:57 | 27.11.24" ] [ DEBUG ] : EDIT draft 2[0m
+[36m[ "15:06:57 | 27.11.24" ] [ DEBUG ] : draft 2[0m
+[32m[ "15:06:57 | 27.11.24" ] [ INFO ] : <b>2</b>
+
+<b>Название задачи:</b> Новая задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 25.11.2024 01:11
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "15:07:04 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDESCR_draft 2[0m
+[36m[ "15:07:04 | 27.11.24" ] [ DEBUG ] : {615517064=SETDESCR-WAITING_draft 2}[0m
+[36m[ "15:07:05 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT[0m
+[36m[ "15:07:05 | 27.11.24" ] [ DEBUG ] : {615517064=SETDESCR-WAITING_draft 2}[0m
+[36m[ "15:08:30 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "15:08:30 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "15:08:30 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "15:08:30 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "15:08:31 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "15:08:31 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "15:08:31 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "15:08:31 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Меню пользователя[0m
+[36m[ "15:08:31 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:08:31 | 27.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "15:08:33 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: CHANGE-BIO[0m
+[36m[ "15:08:33 | 27.11.24" ] [ DEBUG ] : {615517064=SETBIO-WAITING}[0m
+[36m[ "15:08:35 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_USERMENU [0m
+[36m[ "15:08:35 | 27.11.24" ] [ DEBUG ] : {615517064=SETBIO-WAITING}[0m
+[36m[ "15:08:35 | 27.11.24" ] [ DEBUG ] : USERMENU [0m
+[36m[ "15:10:10 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "15:10:10 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "15:10:10 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "15:10:10 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "15:10:10 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "15:10:11 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "15:10:11 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "15:10:22 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: /start[0m
+[36m[ "15:10:22 | 27.11.24" ] [ DEBUG ] : {}[0m
+[31m[ "15:10:22 | 27.11.24" ] [ ERROR ] : Error: User already exists.[0m
+[36m[ "15:10:22 | 27.11.24" ] [ DEBUG ] : PSQLException[0m
+[36m[ "15:10:25 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Меню[0m
+[36m[ "15:10:25 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:10:25 | 27.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "15:10:26 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: CHANGE-BIO[0m
+[36m[ "15:10:27 | 27.11.24" ] [ DEBUG ] : {615517064=SETBIO-WAITING}[0m
+[36m[ "15:10:28 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_USERMENU [0m
+[36m[ "15:10:28 | 27.11.24" ] [ DEBUG ] : {615517064=SETBIO-WAITING}[0m
+[36m[ "15:10:28 | 27.11.24" ] [ DEBUG ] : USERMENU [0m
+[36m[ "15:10:44 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "15:10:44 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "15:10:44 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "15:10:44 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "15:10:44 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "15:10:45 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "15:10:45 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "15:10:46 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_USERMENU [0m
+[36m[ "15:10:46 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:10:46 | 27.11.24" ] [ DEBUG ] : USERMENU [0m
+[36m[ "15:10:47 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Меню[0m
+[36m[ "15:10:47 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:10:48 | 27.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "15:10:49 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: CHANGE-BIO[0m
+[36m[ "15:10:49 | 27.11.24" ] [ DEBUG ] : {615517064=SETBIO-WAITING}[0m
+[36m[ "15:10:50 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_Меню [0m
+[36m[ "15:10:50 | 27.11.24" ] [ DEBUG ] : {615517064=SETBIO-WAITING}[0m
+[36m[ "15:10:50 | 27.11.24" ] [ DEBUG ] : Меню [0m
+[32m[ "15:10:50 | 27.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "15:10:52 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: CHANGE-BIO[0m
+[36m[ "15:10:52 | 27.11.24" ] [ DEBUG ] : {615517064=SETBIO-WAITING}[0m
+[36m[ "15:10:53 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_Меню [0m
+[36m[ "15:10:53 | 27.11.24" ] [ DEBUG ] : {615517064=SETBIO-WAITING}[0m
+[36m[ "15:10:53 | 27.11.24" ] [ DEBUG ] : Меню [0m
+[32m[ "15:10:53 | 27.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "15:10:59 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:10:59 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:01 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:01 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:02 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:02 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:02 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:02 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:03 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:03 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:04 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:04 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:04 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:04 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:04 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:04 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:04 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:04 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:04 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:04 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:05 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:05 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:05 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:05 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:05 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:05 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:05 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:05 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:05 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:05 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:06 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:06 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:06 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:06 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:06 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:06 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:06 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:06 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:06 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:06 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:06 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:06 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:06 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:06 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:06 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:06 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:07 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:07 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:07 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:07 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:07 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:07 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:07 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:07 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:07 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:07 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:08 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:08 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:08 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:08 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:08 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:08 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:08 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:08 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:08 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:08 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:09 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:09 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:09 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:09 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:09 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:09 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:09 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:09 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:09 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "15:11:09 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:11:09 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:11:10 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:11:10 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:11:10 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:11:10 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "15:11:10 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:11:10 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "15:11:11 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:11 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:11 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "15:11:11 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:11:11 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "15:11:11 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:11 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:11 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "15:11:11 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:11:11 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "15:11:11 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:11 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:11 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "15:11:11 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:11:11 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "15:11:11 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Посмотреть профиль пользователя[0m
+[36m[ "15:11:11 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:11 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "15:11:11 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:11:11 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "15:11:11 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Информация[0m
+[36m[ "15:11:11 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:11:12 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "15:11:12 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:11:12 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "15:11:14 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 5[0m
+[32m[ "15:11:15 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Да
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "15:11:17 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 5[0m
+[36m[ "15:11:17 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "15:11:17 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Да
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "15:11:20 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 5[0m
+[36m[ "15:11:20 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 5}[0m
+[36m[ "15:11:48 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Лабораторная работа по Веб программированию[0m
+[36m[ "15:11:48 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 5}[0m
+[36m[ "15:11:48 | 27.11.24" ] [ DEBUG ] : SETTITLE-WAITING_draft 5[0m
+[32m[ "15:11:48 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "15:11:48 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "15:11:48 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Лабораторная работа по Веб программированию
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "15:11:54 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDESCR_draft 5[0m
+[36m[ "15:11:54 | 27.11.24" ] [ DEBUG ] : {615517064=SETDESCR-WAITING_draft 5}[0m
+[36m[ "15:13:08 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111[0m
+[36m[ "15:13:08 | 27.11.24" ] [ DEBUG ] : {615517064=SETDESCR-WAITING_draft 5}[0m
+[36m[ "15:13:08 | 27.11.24" ] [ DEBUG ] : SETDESCR-WAITING_draft 5[0m
+[32m[ "15:13:08 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "15:13:08 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "15:13:08 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Лабораторная работа по Веб программированию
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "15:13:17 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: PUBLIC_draft 5[0m
+[32m[ "15:13:17 | 27.11.24" ] [ INFO ] : Starting Public.generate for user: doc_up with args: draft 5[0m
+[36m[ "15:13:17 | 27.11.24" ] [ DEBUG ] : Fetching user ID for username: doc_up[0m
+[36m[ "15:13:17 | 27.11.24" ] [ DEBUG ] : GET_USER command result: org.example.data.response.Response@59d07a53[0m
+[32m[ "15:13:17 | 27.11.24" ] [ INFO ] : User ID retrieved: 1[0m
+[36m[ "15:13:17 | 27.11.24" ] [ DEBUG ] : Fetching task ID for userId: 1 with args: [draft, 5][0m
+[32m[ "15:13:17 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "15:13:17 | 27.11.24" ] [ DEBUG ] : GET_TASK command result: org.example.data.response.Response@1716590c[0m
+[32m[ "15:13:17 | 27.11.24" ] [ INFO ] : Task ID retrieved: 21[0m
+[36m[ "15:13:17 | 27.11.24" ] [ DEBUG ] : Setting task status to 'open' for taskId: 21[0m
+[36m[ "15:13:17 | 27.11.24" ] [ DEBUG ] : open[0m
+[36m[ "15:13:17 | 27.11.24" ] [ DEBUG ] : SET_STATUS command result: Task status updated successfully. Rows affected: 1[0m
+[36m[ "15:13:17 | 27.11.24" ] [ DEBUG ] : Fetching task data for taskId: 21[0m
+[32m[ "15:13:17 | 27.11.24" ] [ INFO ] : Task retrieved successfully for task ID: 21[0m
+[36m[ "15:13:17 | 27.11.24" ] [ DEBUG ] : GET_TASK_BY_ID command result: org.example.data.response.Response@3ccfa0b1[0m
+[32m[ "15:13:17 | 27.11.24" ] [ INFO ] : Task data retrieved for taskId: 21[0m
+[36m[ "15:13:17 | 27.11.24" ] [ DEBUG ] : Generated message text: <b>Название задачи:</b> Лабораторная работа по Веб программированию
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>open</i>
+<b>Автор:</b> @doc_up
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+[0m
+[36m[ "15:13:17 | 27.11.24" ] [ DEBUG ] : Publishing task to Telegram channel for taskId: 21[0m
+[32m[ "15:13:18 | 27.11.24" ] [ INFO ] : Task published. Telegram message ID: 58[0m
+[36m[ "15:13:18 | 27.11.24" ] [ DEBUG ] : Setting Telegram message ID for taskId: 21[0m
+[36m[ "15:13:18 | 27.11.24" ] [ DEBUG ] : SET_MSG_ID command result: Task message ID updated successfully. Rows affected: 1[0m
+[32m[ "15:13:18 | 27.11.24" ] [ INFO ] : Public.generate execution completed for user: doc_up[0m
+[36m[ "15:37:13 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "15:37:13 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "15:37:13 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "15:37:13 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "15:37:13 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "15:37:14 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "15:37:14 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "15:37:41 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Мои задачи[0m
+[36m[ "15:37:41 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:37:41 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "15:37:45 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_open 2[0m
+[32m[ "15:37:45 | 27.11.24" ] [ INFO ] : <b>2</b>
+
+<b>Название задачи:</b> Лабораторная работа по Веб программированию
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "15:37:47 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: UNPUBLIC_open 2[0m
+[32m[ "15:37:47 | 27.11.24" ] [ INFO ] : Starting Unpublic.generate for user: doc_up with args: open 2[0m
+[36m[ "15:37:47 | 27.11.24" ] [ DEBUG ] : Fetching user ID for username: doc_up[0m
+[36m[ "15:37:47 | 27.11.24" ] [ DEBUG ] : GET_USER command result: org.example.data.response.Response@4089a7b1[0m
+[32m[ "15:37:47 | 27.11.24" ] [ INFO ] : User ID retrieved: 1[0m
+[36m[ "15:37:47 | 27.11.24" ] [ DEBUG ] : Fetching task ID for userId: 1 with args: [open, 2][0m
+[32m[ "15:37:47 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 2 of user ID: 1 with status: open[0m
+[36m[ "15:37:47 | 27.11.24" ] [ DEBUG ] : GET_TASK command result: org.example.data.response.Response@cccafc0[0m
+[32m[ "15:37:47 | 27.11.24" ] [ INFO ] : Task ID retrieved: 21[0m
+[36m[ "15:37:47 | 27.11.24" ] [ DEBUG ] : Setting task status to 'draft' for taskId: 21[0m
+[36m[ "15:37:47 | 27.11.24" ] [ DEBUG ] : draft[0m
+[36m[ "15:37:47 | 27.11.24" ] [ DEBUG ] : SET_STATUS command result: Task status updated successfully. Rows affected: 1[0m
+[36m[ "15:37:47 | 27.11.24" ] [ DEBUG ] : Fetching message ID for taskId: 21[0m
+[36m[ "15:37:47 | 27.11.24" ] [ DEBUG ] : GET_MSG_ID command result: org.example.data.response.Response@3910afcb[0m
+[36m[ "15:37:47 | 27.11.24" ] [ DEBUG ] : Deleting message from Telegram channel. Message ID: 58[0m
+[32m[ "15:37:48 | 27.11.24" ] [ INFO ] : Task unpublished successfully for taskId: 21[0m
+[32m[ "15:37:48 | 27.11.24" ] [ INFO ] : Unpublic.generate execution completed for user: doc_up[0m
+[36m[ "15:37:49 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "15:37:49 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:37:49 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "15:37:58 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 5[0m
+[32m[ "15:37:58 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Лабораторная работа по Веб программированию
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "15:38:13 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 5[0m
+[36m[ "15:38:13 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "15:38:13 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Лабораторная работа по Веб программированию
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "15:38:15 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETREW_draft 5[0m
+[36m[ "15:38:15 | 27.11.24" ] [ DEBUG ] : {615517064=SETREW-WAITING_draft 5}[0m
+[36m[ "15:38:21 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 555[0m
+[36m[ "15:38:21 | 27.11.24" ] [ DEBUG ] : {615517064=SETREW-WAITING_draft 5}[0m
+[36m[ "15:38:21 | 27.11.24" ] [ DEBUG ] : SETREW-WAITING_draft 5[0m
+[32m[ "15:38:21 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "15:38:21 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "15:38:21 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Лабораторная работа по Веб программированию
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "15:38:25 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: PUBLIC_draft 5[0m
+[32m[ "15:38:25 | 27.11.24" ] [ INFO ] : Starting Public.generate for user: doc_up with args: draft 5[0m
+[36m[ "15:38:25 | 27.11.24" ] [ DEBUG ] : Fetching user ID for username: doc_up[0m
+[36m[ "15:38:25 | 27.11.24" ] [ DEBUG ] : GET_USER command result: org.example.data.response.Response@7098e769[0m
+[32m[ "15:38:25 | 27.11.24" ] [ INFO ] : User ID retrieved: 1[0m
+[36m[ "15:38:25 | 27.11.24" ] [ DEBUG ] : Fetching task ID for userId: 1 with args: [draft, 5][0m
+[32m[ "15:38:25 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "15:38:25 | 27.11.24" ] [ DEBUG ] : GET_TASK command result: org.example.data.response.Response@6bcd2545[0m
+[32m[ "15:38:25 | 27.11.24" ] [ INFO ] : Task ID retrieved: 21[0m
+[36m[ "15:38:25 | 27.11.24" ] [ DEBUG ] : Setting task status to 'open' for taskId: 21[0m
+[36m[ "15:38:25 | 27.11.24" ] [ DEBUG ] : open[0m
+[36m[ "15:38:25 | 27.11.24" ] [ DEBUG ] : SET_STATUS command result: Task status updated successfully. Rows affected: 1[0m
+[36m[ "15:38:25 | 27.11.24" ] [ DEBUG ] : Fetching task data for taskId: 21[0m
+[32m[ "15:38:25 | 27.11.24" ] [ INFO ] : Task retrieved successfully for task ID: 21[0m
+[36m[ "15:38:25 | 27.11.24" ] [ DEBUG ] : GET_TASK_BY_ID command result: org.example.data.response.Response@78c62274[0m
+[32m[ "15:38:25 | 27.11.24" ] [ INFO ] : Task data retrieved for taskId: 21[0m
+[36m[ "15:38:25 | 27.11.24" ] [ DEBUG ] : Generated message text: <b>Название задачи:</b> Лабораторная работа по Веб программированию
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>open</i>
+<b>Автор:</b> @doc_up
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 555.0 руб.
+[0m
+[36m[ "15:38:25 | 27.11.24" ] [ DEBUG ] : Publishing task to Telegram channel for taskId: 21[0m
+[32m[ "15:38:25 | 27.11.24" ] [ INFO ] : Task published. Telegram message ID: 59[0m
+[36m[ "15:38:25 | 27.11.24" ] [ DEBUG ] : Setting Telegram message ID for taskId: 21[0m
+[36m[ "15:38:25 | 27.11.24" ] [ DEBUG ] : SET_MSG_ID command result: Task message ID updated successfully. Rows affected: 1[0m
+[32m[ "15:38:25 | 27.11.24" ] [ INFO ] : Public.generate execution completed for user: doc_up[0m
+[36m[ "15:52:08 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "15:52:08 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "15:52:08 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "15:52:08 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "15:52:08 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "15:52:09 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "15:52:09 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "15:52:24 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Новая задача[0m
+[36m[ "15:52:24 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "15:52:24 | 27.11.24" ] [ DEBUG ] : {615517064=SET-TASK-TITLE-WAITING}[0m
+[36m[ "15:52:26 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT[0m
+[36m[ "15:52:26 | 27.11.24" ] [ DEBUG ] : {615517064=SET-TASK-TITLE-WAITING}[0m
+[36m[ "15:52:28 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Меню[0m
+[36m[ "15:52:28 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:52:28 | 27.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "15:52:30 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Мои задачи[0m
+[36m[ "15:52:30 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:52:30 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "15:52:31 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_open 2[0m
+[32m[ "15:52:31 | 27.11.24" ] [ INFO ] : <b>2</b>
+
+<b>Название задачи:</b> Лабораторная работа по Веб программированию
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "15:52:34 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: UNPUBLIC_open 2[0m
+[32m[ "15:52:34 | 27.11.24" ] [ INFO ] : Starting Unpublic.generate for user: doc_up with args: open 2[0m
+[36m[ "15:52:34 | 27.11.24" ] [ DEBUG ] : Fetching user ID for username: doc_up[0m
+[36m[ "15:52:34 | 27.11.24" ] [ DEBUG ] : GET_USER command result: org.example.data.response.Response@7236348b[0m
+[32m[ "15:52:34 | 27.11.24" ] [ INFO ] : User ID retrieved: 1[0m
+[36m[ "15:52:34 | 27.11.24" ] [ DEBUG ] : Fetching task ID for userId: 1 with args: [open, 2][0m
+[32m[ "15:52:34 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 2 of user ID: 1 with status: open[0m
+[36m[ "15:52:34 | 27.11.24" ] [ DEBUG ] : GET_TASK command result: org.example.data.response.Response@5c0fe789[0m
+[32m[ "15:52:34 | 27.11.24" ] [ INFO ] : Task ID retrieved: 21[0m
+[36m[ "15:52:34 | 27.11.24" ] [ DEBUG ] : Setting task status to 'draft' for taskId: 21[0m
+[36m[ "15:52:34 | 27.11.24" ] [ DEBUG ] : draft[0m
+[36m[ "15:52:34 | 27.11.24" ] [ DEBUG ] : SET_STATUS command result: Task status updated successfully. Rows affected: 1[0m
+[36m[ "15:52:34 | 27.11.24" ] [ DEBUG ] : Fetching message ID for taskId: 21[0m
+[36m[ "15:52:34 | 27.11.24" ] [ DEBUG ] : GET_MSG_ID command result: org.example.data.response.Response@63f3e668[0m
+[36m[ "15:52:34 | 27.11.24" ] [ DEBUG ] : Deleting message from Telegram channel. Message ID: 59[0m
+[32m[ "15:52:34 | 27.11.24" ] [ INFO ] : Task unpublished successfully for taskId: 21[0m
+[32m[ "15:52:34 | 27.11.24" ] [ INFO ] : Unpublic.generate execution completed for user: doc_up[0m
+[36m[ "15:52:36 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "15:52:36 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "15:52:36 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "15:52:39 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 5[0m
+[32m[ "15:52:39 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Лабораторная работа по Веб программированию
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "15:52:49 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 5[0m
+[36m[ "15:52:49 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "15:52:49 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Лабораторная работа по Веб программированию
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "15:52:51 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 5[0m
+[36m[ "15:52:51 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "15:53:06 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 15.12.2024[0m
+[36m[ "15:53:06 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "15:53:06 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 5[0m
+[32m[ "15:53:06 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "15:53:06 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "15:53:06 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Лабораторная работа по Веб программированию
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "15:54:50 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 5[0m
+[36m[ "15:54:51 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "15:55:11 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 01.12.2024 12:32[0m
+[36m[ "15:55:11 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "15:55:11 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 5[0m
+[32m[ "15:55:11 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "15:55:11 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "15:55:11 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Лабораторная работа по Веб программированию
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "15:56:53 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "15:56:53 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "15:56:53 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "15:56:53 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "15:56:53 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "15:56:53 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "15:56:53 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "15:59:26 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "15:59:26 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "15:59:26 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "15:59:26 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "15:59:26 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "15:59:27 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "15:59:27 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "15:59:54 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 5[0m
+[36m[ "15:59:54 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:00:00 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 01.12.2024 12:32[0m
+[36m[ "16:00:00 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:00:00 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 5[0m
+[32m[ "16:00:00 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "16:00:00 | 27.11.24" ] [ DEBUG ] : Error: Deadline must be in format YYYY-MM-DD.[0m
+[36m[ "16:00:00 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "16:00:00 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Лабораторная работа по Веб программированию
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "16:06:17 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "16:06:17 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "16:06:17 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "16:06:17 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "16:06:17 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "16:06:18 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "16:06:18 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "16:06:25 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 5[0m
+[36m[ "16:06:25 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:06:32 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 27.11.2024 12:32[0m
+[36m[ "16:06:32 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:06:32 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 5[0m
+[32m[ "16:06:33 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "16:06:33 | 27.11.24" ] [ DEBUG ] : Database error: ERROR: column "deadline" of relation "tasks" does not exist
+  Позиция: 18[0m
+[36m[ "16:06:33 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "16:06:33 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Лабораторная работа по Веб программированию
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "16:06:40 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 5[0m
+[36m[ "16:06:40 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 5}[0m
+[36m[ "16:06:46 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 27.11.2024[0m
+[36m[ "16:06:46 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 5}[0m
+[36m[ "16:06:46 | 27.11.24" ] [ DEBUG ] : SETTITLE-WAITING_draft 5[0m
+[32m[ "16:06:46 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "16:06:46 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "16:06:46 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> 27.11.2024
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "16:08:05 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "16:08:05 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "16:08:05 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "16:08:05 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "16:08:06 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "16:08:06 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "16:08:06 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "16:08:27 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 5[0m
+[36m[ "16:08:27 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:08:37 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 12.12.2024[0m
+[36m[ "16:08:37 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:08:37 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 5[0m
+[32m[ "16:08:37 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "16:08:37 | 27.11.24" ] [ DEBUG ] : Error: Unable to parse deadline. Supported formats: YYYY-MM-DD, DD/MM/YYYY, MM-DD-YYYY, and optionally with time.[0m
+[36m[ "16:08:37 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "16:08:37 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> 27.11.2024
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "16:09:38 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 5[0m
+[36m[ "16:09:39 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:09:41 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 27.11.2024 12:32[0m
+[36m[ "16:09:41 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:09:41 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 5[0m
+[32m[ "16:09:41 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "16:09:42 | 27.11.24" ] [ DEBUG ] : Task deadline updated successfully. Rows affected: 1[0m
+[36m[ "16:09:42 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "16:09:42 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> 27.11.2024
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> 27.11.2024 12:32
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "16:11:17 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 5[0m
+[36m[ "16:11:18 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:11:29 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 27.11.2024[0m
+[36m[ "16:11:29 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:11:29 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 5[0m
+[32m[ "16:11:29 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "16:11:29 | 27.11.24" ] [ DEBUG ] : Error: Unable to parse deadline. Supported formats: YYYY-MM-DD, DD/MM/YYYY, MM-DD-YYYY, and optionally with time.[0m
+[36m[ "16:11:29 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "16:11:29 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> 27.11.2024
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> 27.11.2024 12:32
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "16:22:26 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "16:22:27 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "16:22:27 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "16:22:27 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "16:22:27 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "16:22:27 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "16:22:27 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "16:22:52 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 5[0m
+[36m[ "16:22:52 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:23:05 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 27.11.2024[0m
+[36m[ "16:23:05 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:23:05 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 5[0m
+[32m[ "16:23:05 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "16:23:05 | 27.11.24" ] [ DEBUG ] : Error: Unable to parse deadline. Supported formats: YYYY-MM-DD, DD/MM/YYYY, MM-DD-YYYY, and optionally with time.[0m
+[36m[ "16:23:05 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "16:23:05 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> 27.11.2024
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> 27.11.2024 12:32
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "16:25:20 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "16:25:20 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "16:25:20 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "16:25:20 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "16:25:20 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "16:25:21 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "16:25:21 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "16:25:27 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 5[0m
+[36m[ "16:25:27 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:25:34 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 27.11.2024[0m
+[36m[ "16:25:34 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:25:34 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 5[0m
+[32m[ "16:25:34 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "16:25:34 | 27.11.24" ] [ DEBUG ] : Error: Unable to parse deadline. Supported formats: YYYY-MM-DD, DD/MM/YYYY, MM-DD-YYYY, and optionally with time.[0m
+[36m[ "16:25:34 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "16:25:34 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> 27.11.2024
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> 27.11.2024 12:32
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "16:26:09 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 12.12.2024[0m
+[36m[ "16:26:09 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "16:26:53 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 5[0m
+[36m[ "16:26:53 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 5}[0m
+[36m[ "16:26:55 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 5[0m
+[36m[ "16:26:55 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:27:04 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 12.12.2024[0m
+[36m[ "16:27:04 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:27:04 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 5[0m
+[32m[ "16:27:04 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "16:27:04 | 27.11.24" ] [ DEBUG ] : Error: Unable to parse deadline. Supported formats: YYYY-MM-DD, DD/MM/YYYY, MM-DD-YYYY, and optionally with time.[0m
+[36m[ "16:27:04 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "16:27:04 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> 27.11.2024
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> 27.11.2024 12:32
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "16:27:12 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 5[0m
+[36m[ "16:27:13 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 5}[0m
+[36m[ "16:27:41 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Лабараторная работа[0m
+[36m[ "16:27:41 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 5}[0m
+[36m[ "16:27:41 | 27.11.24" ] [ DEBUG ] : SETTITLE-WAITING_draft 5[0m
+[32m[ "16:27:41 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "16:27:41 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "16:27:41 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Лабараторная работа
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> 27.11.2024 12:32
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "16:31:21 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 5[0m
+[36m[ "16:31:22 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:31:30 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 27.11.2024[0m
+[36m[ "16:31:30 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:31:30 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 5[0m
+[32m[ "16:31:30 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "16:31:30 | 27.11.24" ] [ DEBUG ] : Error: Unable to parse deadline. Supported formats: YYYY-MM-DD, DD/MM/YYYY, MM-DD-YYYY, and optionally with time.[0m
+[36m[ "16:31:30 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "16:31:30 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Лабараторная работа
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> 27.11.2024 12:32
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "16:31:42 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 5[0m
+[36m[ "16:31:43 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:32:08 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 12/12/2024 12.00[0m
+[36m[ "16:32:08 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 5}[0m
+[36m[ "16:32:08 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 5[0m
+[32m[ "16:32:08 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "16:32:08 | 27.11.24" ] [ DEBUG ] : Error: Unable to parse deadline. Supported formats: YYYY-MM-DD, DD/MM/YYYY, MM-DD-YYYY, and optionally with time.[0m
+[36m[ "16:32:08 | 27.11.24" ] [ DEBUG ] : draft 5[0m
+[32m[ "16:32:08 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Лабараторная работа
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> 27.11.2024 12:32
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "16:32:23 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 12.12.2024 12.00[0m
+[36m[ "16:32:23 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "16:37:07 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "16:37:07 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "16:37:07 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "16:37:07 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "16:37:07 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "16:37:07 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "16:37:07 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "17:45:34 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Меню[0m
+[36m[ "17:45:34 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "17:45:34 | 27.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "17:45:37 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: CHANGE-BIO[0m
+[36m[ "17:45:37 | 27.11.24" ] [ DEBUG ] : {615517064=SETBIO-WAITING}[0m
+[36m[ "17:45:38 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_Меню [0m
+[36m[ "17:45:38 | 27.11.24" ] [ DEBUG ] : {615517064=SETBIO-WAITING}[0m
+[36m[ "17:45:38 | 27.11.24" ] [ DEBUG ] : Меню [0m
+[32m[ "17:45:38 | 27.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "17:45:51 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Новая задача[0m
+[36m[ "17:45:51 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "17:45:51 | 27.11.24" ] [ DEBUG ] : {615517064=SET-TASK-TITLE-WAITING}[0m
+[36m[ "17:45:51 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT[0m
+[36m[ "17:45:52 | 27.11.24" ] [ DEBUG ] : {615517064=SET-TASK-TITLE-WAITING}[0m
+[36m[ "17:46:06 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "17:46:06 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "17:46:06 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "17:46:09 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 6[0m
+[32m[ "17:46:09 | 27.11.24" ] [ INFO ] : <b>6</b>
+
+<b>Название задачи:</b> Задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:39
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "17:46:11 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: REMOVE_draft 6[0m
+[36m[ "17:46:14 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 6[0m
+[36m[ "17:46:14 | 27.11.24" ] [ DEBUG ] : draft 6[0m
+[32m[ "17:46:14 | 27.11.24" ] [ INFO ] : <b>6</b>
+
+<b>Название задачи:</b> Задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:39
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "17:46:17 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 6[0m
+[36m[ "17:46:17 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 6}[0m
+[36m[ "17:46:28 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Какая-нибудь хуета[0m
+[36m[ "17:46:28 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 6}[0m
+[36m[ "17:46:28 | 27.11.24" ] [ DEBUG ] : SETTITLE-WAITING_draft 6[0m
+[32m[ "17:46:28 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 6 of user ID: 1 with status: draft[0m
+[36m[ "17:46:28 | 27.11.24" ] [ DEBUG ] : draft 6[0m
+[32m[ "17:46:28 | 27.11.24" ] [ INFO ] : <b>6</b>
+
+<b>Название задачи:</b> Какая-нибудь хуета
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:39
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "17:46:31 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDESCR_draft 6[0m
+[36m[ "17:46:31 | 27.11.24" ] [ DEBUG ] : {615517064=SETDESCR-WAITING_draft 6}[0m
+[36m[ "17:46:41 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Послать всех нахуй[0m
+[36m[ "17:46:41 | 27.11.24" ] [ DEBUG ] : {615517064=SETDESCR-WAITING_draft 6}[0m
+[36m[ "17:46:41 | 27.11.24" ] [ DEBUG ] : SETDESCR-WAITING_draft 6[0m
+[32m[ "17:46:41 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 6 of user ID: 1 with status: draft[0m
+[36m[ "17:46:41 | 27.11.24" ] [ DEBUG ] : draft 6[0m
+[32m[ "17:46:41 | 27.11.24" ] [ INFO ] : <b>6</b>
+
+<b>Название задачи:</b> Какая-нибудь хуета
+<b>Описание:</b>
+Послать всех нахуй
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:39
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "17:46:46 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETREW_draft 6[0m
+[36m[ "17:46:46 | 27.11.24" ] [ DEBUG ] : {615517064=SETREW-WAITING_draft 6}[0m
+[36m[ "17:46:52 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: -10000[0m
+[36m[ "17:46:52 | 27.11.24" ] [ DEBUG ] : {615517064=SETREW-WAITING_draft 6}[0m
+[36m[ "17:46:52 | 27.11.24" ] [ DEBUG ] : SETREW-WAITING_draft 6[0m
+[32m[ "17:46:52 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 6 of user ID: 1 with status: draft[0m
+[36m[ "17:46:52 | 27.11.24" ] [ DEBUG ] : draft 6[0m
+[32m[ "17:46:52 | 27.11.24" ] [ INFO ] : <b>6</b>
+
+<b>Название задачи:</b> Какая-нибудь хуета
+<b>Описание:</b>
+Послать всех нахуй
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:39
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> -10000.0 руб.
+
+[0m
+[36m[ "17:46:58 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 6[0m
+[36m[ "17:46:58 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 6}[0m
+[36m[ "17:47:19 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 30.11.2024 23:59[0m
+[36m[ "17:47:19 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 6}[0m
+[36m[ "17:47:19 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 6[0m
+[32m[ "17:47:19 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 6 of user ID: 1 with status: draft[0m
+[36m[ "17:47:19 | 27.11.24" ] [ DEBUG ] : Database error: ERROR: column "deadline" of relation "tasks" does not exist
+  Позиция: 18[0m
+[36m[ "17:47:19 | 27.11.24" ] [ DEBUG ] : draft 6[0m
+[32m[ "17:47:19 | 27.11.24" ] [ INFO ] : <b>6</b>
+
+<b>Название задачи:</b> Какая-нибудь хуета
+<b>Описание:</b>
+Послать всех нахуй
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:39
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> -10000.0 руб.
+
+[0m
+[36m[ "17:47:24 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: PUBLIC_draft 6[0m
+[32m[ "17:47:24 | 27.11.24" ] [ INFO ] : Starting Public.generate for user: doc_up with args: draft 6[0m
+[36m[ "17:47:24 | 27.11.24" ] [ DEBUG ] : Fetching user ID for username: doc_up[0m
+[36m[ "17:47:24 | 27.11.24" ] [ DEBUG ] : GET_USER command result: org.example.data.response.Response@6ea6e2d1[0m
+[32m[ "17:47:24 | 27.11.24" ] [ INFO ] : User ID retrieved: 1[0m
+[36m[ "17:47:24 | 27.11.24" ] [ DEBUG ] : Fetching task ID for userId: 1 with args: [draft, 6][0m
+[32m[ "17:47:24 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 6 of user ID: 1 with status: draft[0m
+[36m[ "17:47:24 | 27.11.24" ] [ DEBUG ] : GET_TASK command result: org.example.data.response.Response@eed3d62[0m
+[32m[ "17:47:24 | 27.11.24" ] [ INFO ] : Task ID retrieved: 22[0m
+[36m[ "17:47:24 | 27.11.24" ] [ DEBUG ] : Setting task status to 'open' for taskId: 22[0m
+[36m[ "17:47:24 | 27.11.24" ] [ DEBUG ] : open[0m
+[36m[ "17:47:24 | 27.11.24" ] [ DEBUG ] : SET_STATUS command result: Task status updated successfully. Rows affected: 1[0m
+[36m[ "17:47:24 | 27.11.24" ] [ DEBUG ] : Fetching task data for taskId: 22[0m
+[32m[ "17:47:24 | 27.11.24" ] [ INFO ] : Task retrieved successfully for task ID: 22[0m
+[36m[ "17:47:24 | 27.11.24" ] [ DEBUG ] : GET_TASK_BY_ID command result: org.example.data.response.Response@719a88bf[0m
+[32m[ "17:47:24 | 27.11.24" ] [ INFO ] : Task data retrieved for taskId: 22[0m
+[36m[ "17:47:24 | 27.11.24" ] [ DEBUG ] : Generated message text: <b>Название задачи:</b> Какая-нибудь хуета
+<b>Описание:</b>
+Послать всех нахуй
+<b>Статус:</b> <i>open</i>
+<b>Автор:</b> @doc_up
+<b>Дата создания:</b> 27.11.2024 12:39
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> -10000.0 руб.
+[0m
+[36m[ "17:47:24 | 27.11.24" ] [ DEBUG ] : Publishing task to Telegram channel for taskId: 22[0m
+[32m[ "17:47:24 | 27.11.24" ] [ INFO ] : Task published. Telegram message ID: 60[0m
+[36m[ "17:47:24 | 27.11.24" ] [ DEBUG ] : Setting Telegram message ID for taskId: 22[0m
+[36m[ "17:47:24 | 27.11.24" ] [ DEBUG ] : SET_MSG_ID command result: Task message ID updated successfully. Rows affected: 1[0m
+[32m[ "17:47:24 | 27.11.24" ] [ INFO ] : Public.generate execution completed for user: doc_up[0m
+[36m[ "17:47:42 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: История[0m
+[36m[ "17:47:42 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "17:47:42 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "17:47:44 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Мои задачи[0m
+[36m[ "17:47:44 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "17:47:44 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "17:47:46 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "17:47:46 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "17:47:46 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "17:47:48 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 5[0m
+[32m[ "17:47:49 | 27.11.24" ] [ INFO ] : <b>5</b>
+
+<b>Название задачи:</b> Лабараторная работа
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> 27.11.2024 12:32
+<b>Вознаграждение:</b> 555.0 руб.
+
+[0m
+[36m[ "17:47:51 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: PUBLIC_draft 5[0m
+[32m[ "17:47:51 | 27.11.24" ] [ INFO ] : Starting Public.generate for user: doc_up with args: draft 5[0m
+[36m[ "17:47:51 | 27.11.24" ] [ DEBUG ] : Fetching user ID for username: doc_up[0m
+[36m[ "17:47:51 | 27.11.24" ] [ DEBUG ] : GET_USER command result: org.example.data.response.Response@7eba683f[0m
+[32m[ "17:47:51 | 27.11.24" ] [ INFO ] : User ID retrieved: 1[0m
+[36m[ "17:47:51 | 27.11.24" ] [ DEBUG ] : Fetching task ID for userId: 1 with args: [draft, 5][0m
+[32m[ "17:47:51 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 5 of user ID: 1 with status: draft[0m
+[36m[ "17:47:51 | 27.11.24" ] [ DEBUG ] : GET_TASK command result: org.example.data.response.Response@7cc1196c[0m
+[32m[ "17:47:51 | 27.11.24" ] [ INFO ] : Task ID retrieved: 21[0m
+[36m[ "17:47:51 | 27.11.24" ] [ DEBUG ] : Setting task status to 'open' for taskId: 21[0m
+[36m[ "17:47:51 | 27.11.24" ] [ DEBUG ] : open[0m
+[36m[ "17:47:51 | 27.11.24" ] [ DEBUG ] : SET_STATUS command result: Task status updated successfully. Rows affected: 1[0m
+[36m[ "17:47:51 | 27.11.24" ] [ DEBUG ] : Fetching task data for taskId: 21[0m
+[32m[ "17:47:51 | 27.11.24" ] [ INFO ] : Task retrieved successfully for task ID: 21[0m
+[36m[ "17:47:51 | 27.11.24" ] [ DEBUG ] : GET_TASK_BY_ID command result: org.example.data.response.Response@10610fbd[0m
+[32m[ "17:47:51 | 27.11.24" ] [ INFO ] : Task data retrieved for taskId: 21[0m
+[36m[ "17:47:51 | 27.11.24" ] [ DEBUG ] : Generated message text: <b>Название задачи:</b> Лабараторная работа
+<b>Описание:</b>
+Лабараторная работа 1 с сайта se.ifmo.ru вариант 21111
+<b>Статус:</b> <i>open</i>
+<b>Автор:</b> @doc_up
+<b>Дата создания:</b> 27.11.2024 12:32
+<b>Дедлайн:</b> 27.11.2024 12:32
+<b>Вознаграждение:</b> 555.0 руб.
+[0m
+[36m[ "17:47:51 | 27.11.24" ] [ DEBUG ] : Publishing task to Telegram channel for taskId: 21[0m
+[32m[ "17:47:51 | 27.11.24" ] [ INFO ] : Task published. Telegram message ID: 61[0m
+[36m[ "17:47:51 | 27.11.24" ] [ DEBUG ] : Setting Telegram message ID for taskId: 21[0m
+[36m[ "17:47:51 | 27.11.24" ] [ DEBUG ] : SET_MSG_ID command result: Task message ID updated successfully. Rows affected: 1[0m
+[32m[ "17:47:51 | 27.11.24" ] [ INFO ] : Public.generate execution completed for user: doc_up[0m
+[36m[ "20:43:49 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Мои задачи[0m
+[36m[ "20:43:49 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "20:43:49 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "20:43:53 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_open 1[0m
+[32m[ "20:43:53 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>open</i>
+<b>Дата создания:</b> 24.11.2024 14:15
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "20:43:55 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: FINISH_open 1[0m
+[32m[ "20:43:55 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 1 of user ID: 1 with status: open[0m
+[36m[ "20:43:55 | 27.11.24" ] [ DEBUG ] : completed[0m
+[32m[ "20:43:55 | 27.11.24" ] [ INFO ] : Task retrieved successfully for task ID: 11[0m
+[36m[ "22:07:15 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Меню[0m
+[36m[ "22:07:15 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "22:07:15 | 27.11.24" ] [ INFO ] : User information retrieved successfully.[0m
+[36m[ "22:07:18 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "22:07:18 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "22:07:18 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "22:07:20 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 2[0m
+[32m[ "22:07:20 | 27.11.24" ] [ INFO ] : <b>2</b>
+
+<b>Название задачи:</b> Новая задача
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 25.11.2024 01:11
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:37:19 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "23:37:19 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "23:37:19 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "23:37:19 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "23:37:19 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "23:37:20 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "23:37:20 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "23:37:43 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "23:37:43 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "23:37:43 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "23:37:47 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 1[0m
+[32m[ "23:37:47 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Новое описание
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:37:48 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 1[0m
+[36m[ "23:37:48 | 27.11.24" ] [ DEBUG ] : draft 1[0m
+[32m[ "23:37:48 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Новое описание
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:37:50 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 1[0m
+[36m[ "23:37:51 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:37:51 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 1[0m
+[36m[ "23:37:51 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:37:53 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 1[0m
+[36m[ "23:37:53 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:37:53 | 27.11.24" ] [ DEBUG ] : EDIT draft 1[0m
+[36m[ "23:37:53 | 27.11.24" ] [ DEBUG ] : draft 1[0m
+[32m[ "23:37:53 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Новое описание
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:37:56 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 1[0m
+[36m[ "23:37:56 | 27.11.24" ] [ DEBUG ] : {}[0m
+[36m[ "23:37:56 | 27.11.24" ] [ DEBUG ] : EDIT draft 1[0m
+[36m[ "23:37:56 | 27.11.24" ] [ DEBUG ] : draft 1[0m
+[32m[ "23:37:56 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Новое описание
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:37:58 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 1[0m
+[36m[ "23:37:58 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:38:24 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 12.12.2025[0m
+[36m[ "23:38:24 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:38:24 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 1[0m
+[32m[ "23:38:24 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 1 of user ID: 1 with status: draft[0m
+[36m[ "23:38:24 | 27.11.24" ] [ DEBUG ] : Database error: ERROR: column "deadline" of relation "tasks" does not exist
+  Позиция: 18[0m
+[36m[ "23:38:24 | 27.11.24" ] [ DEBUG ] : draft 1[0m
+[32m[ "23:38:24 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Новое описание
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:38:56 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "23:38:56 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "23:38:56 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "23:38:56 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "23:38:56 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "23:38:57 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "23:38:57 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "23:38:58 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 1[0m
+[36m[ "23:38:59 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:39:08 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 11.11.1111[0m
+[36m[ "23:39:08 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:39:08 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 1[0m
+[32m[ "23:39:08 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 1 of user ID: 1 with status: draft[0m
+[36m[ "23:39:08 | 27.11.24" ] [ DEBUG ] : Task deadline updated successfully. Rows affected: 1[0m
+[36m[ "23:39:08 | 27.11.24" ] [ DEBUG ] : draft 1[0m
+[32m[ "23:39:08 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Новое описание
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> 11.11.1111 00:00
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:39:17 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 1[0m
+[36m[ "23:39:17 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:39:34 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 12.12.2012 12:45[0m
+[36m[ "23:39:34 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:39:34 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 1[0m
+[32m[ "23:39:34 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 1 of user ID: 1 with status: draft[0m
+[36m[ "23:39:34 | 27.11.24" ] [ DEBUG ] : Task deadline updated successfully. Rows affected: 1[0m
+[36m[ "23:39:34 | 27.11.24" ] [ DEBUG ] : draft 1[0m
+[32m[ "23:39:34 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Новое описание
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> 12.12.2012 00:00
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:41:12 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "23:41:12 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "23:41:12 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "23:41:12 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "23:41:12 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "23:41:13 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "23:41:13 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "23:41:30 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 1[0m
+[36m[ "23:41:30 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:41:40 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 11.11.2011[0m
+[36m[ "23:41:40 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:41:40 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 1[0m
+[32m[ "23:41:40 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 1 of user ID: 1 with status: draft[0m
+[36m[ "23:41:40 | 27.11.24" ] [ DEBUG ] : Task deadline updated successfully. Rows affected: 1[0m
+[36m[ "23:41:40 | 27.11.24" ] [ DEBUG ] : draft 1[0m
+[32m[ "23:41:40 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Новое описание
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> 11.11.2011 00:00
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:41:44 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 1[0m
+[36m[ "23:41:44 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:41:58 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 11.12.2023 12.35[0m
+[36m[ "23:41:58 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:41:58 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 1[0m
+[32m[ "23:41:58 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 1 of user ID: 1 with status: draft[0m
+[36m[ "23:41:58 | 27.11.24" ] [ DEBUG ] : Error: Unable to parse deadline. Supported formats: YYYY-MM-DD, DD/MM/YYYY, MM-DD-YYYY, optionally with time.[0m
+[36m[ "23:41:58 | 27.11.24" ] [ DEBUG ] : draft 1[0m
+[32m[ "23:41:58 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Новое описание
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> 11.11.2011 00:00
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:44:59 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "23:44:59 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "23:44:59 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "23:44:59 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "23:44:59 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "23:45:00 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "23:45:00 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "23:45:07 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 1[0m
+[36m[ "23:45:07 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:45:11 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 11.12.2023 12.35[0m
+[36m[ "23:45:11 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:45:11 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 1[0m
+[32m[ "23:45:11 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 1 of user ID: 1 with status: draft[0m
+[36m[ "23:45:11 | 27.11.24" ] [ DEBUG ] : Error: Unable to parse deadline. Supported formats: YYYY-MM-DD, DD/MM/YYYY, MM-DD-YYYY, optionally with time.[0m
+[36m[ "23:45:11 | 27.11.24" ] [ DEBUG ] : draft 1[0m
+[32m[ "23:45:11 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Новое описание
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> 11.11.2011 00:00
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:45:53 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 1[0m
+[36m[ "23:45:53 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:46:29 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 1[0m
+[36m[ "23:46:29 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:46:29 | 27.11.24" ] [ DEBUG ] : EDIT draft 1[0m
+[36m[ "23:46:29 | 27.11.24" ] [ DEBUG ] : draft 1[0m
+[32m[ "23:46:29 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Новое описание
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> 11.11.2011 00:00
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:46:31 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 1[0m
+[36m[ "23:46:31 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:46:40 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 11.12.2023 12:35[0m
+[36m[ "23:46:40 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:46:40 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 1[0m
+[32m[ "23:46:40 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 1 of user ID: 1 with status: draft[0m
+[36m[ "23:46:40 | 27.11.24" ] [ DEBUG ] : Task deadline updated successfully. Rows affected: 1[0m
+[36m[ "23:46:40 | 27.11.24" ] [ DEBUG ] : draft 1[0m
+[32m[ "23:46:40 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Новое описание
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> 11.12.2023 00:00
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:46:48 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 1[0m
+[36m[ "23:46:49 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:47:01 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 21.12.2023 12.35[0m
+[36m[ "23:47:01 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 1}[0m
+[36m[ "23:47:01 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 1[0m
+[32m[ "23:47:01 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 1 of user ID: 1 with status: draft[0m
+[36m[ "23:47:01 | 27.11.24" ] [ DEBUG ] : Error: Unable to parse deadline. Supported formats: YYYY-MM-DD, DD/MM/YYYY, MM-DD-YYYY, optionally with time.[0m
+[36m[ "23:47:01 | 27.11.24" ] [ DEBUG ] : draft 1[0m
+[32m[ "23:47:01 | 27.11.24" ] [ INFO ] : <b>1</b>
+
+<b>Название задачи:</b> Да да
+<b>Описание:</b>
+Новое описание
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 24.11.2024 17:50
+<b>Дедлайн:</b> 11.12.2023 00:00
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:47:38 | 27.11.24" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "23:47:38 | 27.11.24" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "23:47:38 | 27.11.24" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "23:47:38 | 27.11.24" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "23:47:38 | 27.11.24" ] [ INFO ] : Connected to the database![0m
+[32m[ "23:47:38 | 27.11.24" ] [ INFO ] : Response status: 200 - OK.[0m
+[32m[ "23:47:38 | 27.11.24" ] [ INFO ] : Console started successfully[0m
+[36m[ "23:47:42 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: Черновики[0m
+[36m[ "23:47:42 | 27.11.24" ] [ DEBUG ] : {}[0m
+[32m[ "23:47:42 | 27.11.24" ] [ INFO ] : Tasks retrieved successfully for user ID: 1[0m
+[36m[ "23:47:43 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: TASK-TO-SHOW_draft 3[0m
+[32m[ "23:47:43 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:47:45 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EDIT_draft 3[0m
+[36m[ "23:47:45 | 27.11.24" ] [ DEBUG ] : draft 3[0m
+[32m[ "23:47:45 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:48:17 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETTITLE_draft 3[0m
+[36m[ "23:48:17 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3}[0m
+[36m[ "23:48:19 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: EXIT_EDIT draft 3[0m
+[36m[ "23:48:19 | 27.11.24" ] [ DEBUG ] : {615517064=SETTITLE-WAITING_draft 3}[0m
+[36m[ "23:48:19 | 27.11.24" ] [ DEBUG ] : EDIT draft 3[0m
+[36m[ "23:48:19 | 27.11.24" ] [ DEBUG ] : draft 3[0m
+[32m[ "23:48:19 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> Неизвестно
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:48:20 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 3[0m
+[36m[ "23:48:20 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 3}[0m
+[36m[ "23:48:57 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 13.02.1221 12.45[0m
+[36m[ "23:48:57 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 3}[0m
+[36m[ "23:48:57 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 3[0m
+[32m[ "23:48:57 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 3 of user ID: 1 with status: draft[0m
+[36m[ "23:48:57 | 27.11.24" ] [ DEBUG ] : Task deadline updated successfully. Rows affected: 1[0m
+[36m[ "23:48:57 | 27.11.24" ] [ DEBUG ] : draft 3[0m
+[32m[ "23:48:57 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> 13.02.1221 00:00
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:49:16 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 3[0m
+[36m[ "23:49:16 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 3}[0m
+[36m[ "23:49:28 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 13.02.1221 12:45[0m
+[36m[ "23:49:28 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 3}[0m
+[36m[ "23:49:28 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 3[0m
+[32m[ "23:49:28 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 3 of user ID: 1 with status: draft[0m
+[36m[ "23:49:28 | 27.11.24" ] [ DEBUG ] : Task deadline updated successfully. Rows affected: 1[0m
+[36m[ "23:49:28 | 27.11.24" ] [ DEBUG ] : draft 3[0m
+[32m[ "23:49:28 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> 13.02.1221 00:00
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:57:32 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 3[0m
+[36m[ "23:57:32 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 3}[0m
+[36m[ "23:57:52 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 12.12.1245 11.12[0m
+[36m[ "23:57:52 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 3}[0m
+[36m[ "23:57:52 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 3[0m
+[32m[ "23:57:52 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 3 of user ID: 1 with status: draft[0m
+[36m[ "23:57:52 | 27.11.24" ] [ DEBUG ] : Task deadline updated successfully. Rows affected: 1[0m
+[36m[ "23:57:52 | 27.11.24" ] [ DEBUG ] : draft 3[0m
+[32m[ "23:57:52 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> 12.12.1245 00:00
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:57:58 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 3[0m
+[36m[ "23:57:58 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 3}[0m
+[36m[ "23:58:11 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 12.12.1245 12:12[0m
+[36m[ "23:58:11 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 3}[0m
+[36m[ "23:58:11 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 3[0m
+[32m[ "23:58:11 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 3 of user ID: 1 with status: draft[0m
+[36m[ "23:58:11 | 27.11.24" ] [ DEBUG ] : Task deadline updated successfully. Rows affected: 1[0m
+[36m[ "23:58:11 | 27.11.24" ] [ DEBUG ] : draft 3[0m
+[32m[ "23:58:11 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> 12.12.1245 00:00
+<b>Вознаграждение:</b> 0.0 руб.
+
+[0m
+[36m[ "23:58:31 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETREW_draft 3[0m
+[36m[ "23:58:31 | 27.11.24" ] [ DEBUG ] : {615517064=SETREW-WAITING_draft 3}[0m
+[36m[ "23:58:34 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 42[0m
+[36m[ "23:58:34 | 27.11.24" ] [ DEBUG ] : {615517064=SETREW-WAITING_draft 3}[0m
+[36m[ "23:58:34 | 27.11.24" ] [ DEBUG ] : SETREW-WAITING_draft 3[0m
+[32m[ "23:58:34 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 3 of user ID: 1 with status: draft[0m
+[36m[ "23:58:34 | 27.11.24" ] [ DEBUG ] : draft 3[0m
+[32m[ "23:58:34 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> 12.12.1245 00:00
+<b>Вознаграждение:</b> 42.0 руб.
+
+[0m
+[36m[ "23:59:24 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 3[0m
+[36m[ "23:59:25 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 3}[0m
+[36m[ "23:59:38 | 27.11.24" ] [ DEBUG ] : [Message] ChatID: 615517064, User: doc_up, Text: 12:30 20.12.2025[0m
+[36m[ "23:59:38 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 3}[0m
+[36m[ "23:59:38 | 27.11.24" ] [ DEBUG ] : SETDEADLINE-WAITING_draft 3[0m
+[32m[ "23:59:38 | 27.11.24" ] [ INFO ] : Task ID retrieved successfully for task number 3 of user ID: 1 with status: draft[0m
+[36m[ "23:59:38 | 27.11.24" ] [ DEBUG ] : Error: Unable to parse deadline. Supported formats: YYYY-MM-DD, DD/MM/YYYY, MM-DD-YYYY, optionally with time.[0m
+[36m[ "23:59:38 | 27.11.24" ] [ DEBUG ] : draft 3[0m
+[32m[ "23:59:38 | 27.11.24" ] [ INFO ] : <b>3</b>
+
+<b>Название задачи:</b> Название
+<b>Описание:</b>
+Нет описания
+<b>Статус:</b> <i>draft</i>
+<b>Дата создания:</b> 27.11.2024 12:29
+<b>Дедлайн:</b> 12.12.1245 00:00
+<b>Вознаграждение:</b> 42.0 руб.
+
+[0m
+[36m[ "23:59:44 | 27.11.24" ] [ DEBUG ] : [Callback] ChatID: 615517064, User: doc_up, Data: SETDEADLINE_draft 3[0m
+[36m[ "23:59:44 | 27.11.24" ] [ DEBUG ] : {615517064=SETDEADLINE-WAITING_draft 3}[0m

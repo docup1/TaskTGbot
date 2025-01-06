@@ -24,16 +24,8 @@ CREATE TABLE Tasks (
     status task_status NOT NULL DEFAULT 'open',       -- Статус задачи
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,   -- Дата создания задачи
     due_date TIMESTAMP,                               -- Срок выполнения задачи
-    reward NUMERIC(10, 2) DEFAULT 0                   -- Вознаграждение за выполнение задачи
-);
-
--- Таблица TaskApplications хранит заявки на выполнение задач от исполнителей.
-CREATE TABLE TaskApplications (
-    application_id SERIAL PRIMARY KEY,                -- Уникальный идентификатор заявки
-    task_id INT REFERENCES Tasks(task_id) ON DELETE CASCADE,      -- Идентификатор задачи, связанный с Tasks
-    applicant_id INT REFERENCES Users(user_id) ON DELETE CASCADE, -- Идентификатор исполнителя, связанный с Users
-    status application_status NOT NULL DEFAULT 'pending',         -- Статус заявки
-    applied_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP     -- Дата подачи заявки
+    reward NUMERIC(10, 2) DEFAULT 0,                  -- Вознаграждение за выполнение задачи
+    msg_id VARCHAR                                     -- ID сообщения в чате с опубликованными задачами
 );
 
 -- Таблица TaskReviews хранит отзывы от пользователей.
@@ -47,16 +39,6 @@ CREATE TABLE TaskReviews (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP    -- Дата и время создания отзыва
 );
 
--- Таблица TaskHistory хранит историю изменений статусов задач.
-CREATE TABLE TaskHistory (
-    history_id SERIAL PRIMARY KEY,                    -- Уникальный идентификатор записи истории
-    task_id INT REFERENCES Tasks(task_id) ON DELETE CASCADE,      -- Идентификатор задачи, связанный с Tasks
-    changed_by INT REFERENCES Users(user_id) ON DELETE SET NULL,  -- Идентификатор пользователя, изменившего статус
-    old_status task_status,                           -- Старый статус задачи
-    new_status task_status,                           -- Новый статус задачи
-    changed_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP    -- Дата и время изменения статуса
-);
-```
 
 ### Документация и комментарии к основным функциям и запросам
 
