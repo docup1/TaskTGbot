@@ -16,24 +16,11 @@
 
     <build>
         <plugins>
-            <!-- Maven Jar Plugin for packaging JAR -->
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-jar-plugin</artifactId>
-                <configuration>
-                    <archive>
-                        <manifest>
-                            <mainClass>org.example.Main</mainClass> <!-- Ensure this is the correct main class -->
-                        </manifest>
-                    </archive>
-                </configuration>
-            </plugin>
-
             <!-- Maven Shade Plugin for creating a fat/uber jar with all dependencies -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-shade-plugin</artifactId>
-                <version>3.2.4</version>
+                <version>3.4.0</version>
                 <executions>
                     <execution>
                         <phase>package</phase> <!-- Run during the package phase -->
@@ -42,8 +29,11 @@
                         </goals>
                         <configuration>
                             <createDependencyReducedPom>false</createDependencyReducedPom>
-                            <shadedArtifactAttached>true</shadedArtifactAttached>
-                            <finalName>${project.artifactId}-${project.version}</finalName> <!-- Optional: Defines final JAR name -->
+                            <transformers>
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                    <mainClass>org.example.Main</mainClass> <!-- Убедитесь, что указан ваш Main-класс -->
+                                </transformer>
+                            </transformers>
                         </configuration>
                     </execution>
                 </executions>
@@ -62,8 +52,7 @@
         <dependency>
             <groupId>org.telegram</groupId>
             <artifactId>telegrambots</artifactId>
-            <version>6.5.0</version> <!-- Убедитесь, что версия актуальная -->
+            <version>6.5.0</version>
         </dependency>
-
     </dependencies>
 </project>
