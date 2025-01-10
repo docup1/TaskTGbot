@@ -1994,3 +1994,8 @@
 <u>Вознаграждение:</u> <i>0.0 руб.</i>
 
 [0m
+[36m[ "05:36:45 | 10.01.25" ] [ DEBUG ] : DB_URL: jdbc:postgresql://localhost:5432/postgres[0m
+[36m[ "05:36:45 | 10.01.25" ] [ DEBUG ] : DB_USER: docup[0m
+[36m[ "05:36:45 | 10.01.25" ] [ DEBUG ] : DB_PASSWORD: docup2005[0m
+[36m[ "05:36:45 | 10.01.25" ] [ DEBUG ] : Configuration loaded successfully[0m
+[32m[ "05:36:45 | 10.01.25" ] [ INFO ] : Console started successfully[0m

@@ -10,25 +10,27 @@ import org.example.control.telegram.TelegramMain;
 
 public class Main {
     public static void main(String[] args) {
-        String INIT_PASS = "/configs.ini";
+        // Получение пути к файлу конфигурации из переменной окружения
+        String configPath = System.getenv("CONFIG_PATH");
+        if (configPath == null || configPath.isEmpty()) {
+            configPath = "configs/configs.ini"; // Значение по умолчанию
+        }
+
         Runnable console = new ConsoleMain();
 
-        if (args.length != 0) {INIT_PASS = args[0];}
-
-        if(args.length != 0 && args[0].equals("autostart")){
+        // Если в аргументах указано "autostart", выполняем автозапуск
+        if (args.length != 0 && args[0].equals("autostart")) {
             System.out.println("Starting auto-startup...");
-            String PASS = "configs/configs.ini";
-            Logger.init(PASS);
-            DataBase.init(PASS);
-            TelegramMain.init(PASS);
+            Logger.init(configPath);                    // Инициализация логгера
+            DataBase.init(configPath);                  // Инициализация базы данных
+            TelegramMain.init(configPath);              // Инициализация Telegram API
             Logger.put(new CommandManager().execute(CommandsNames.START).getStringStatus(), LogType.INFO, true);
             console.run();
-
-        }
-        else{
-            Logger.init(INIT_PASS);
-            DataBase.init(INIT_PASS);
-            TelegramMain.init(INIT_PASS);
+        } else {
+            // Обычный запуск приложения
+            Logger.init(configPath);
+            DataBase.init(configPath);
+            TelegramMain.init(configPath);
             console.run();
         }
     }
