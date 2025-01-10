@@ -9,8 +9,11 @@ services:
       - POSTGRES_DB=task_manager
     volumes:
       - task_manager_db_data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql  # Монтируем файл init.sql для автоматического выполнения
     ports:
       - "5432:5432"
+    networks:
+      - app_network
 
   app:
     build:
@@ -25,7 +28,13 @@ services:
       - ./output:/output
     depends_on:
       - db
+    networks:
+      - app_network
     command: ["java", "-jar", "/app/TGbot.jar", "autostart"]
 
 volumes:
   task_manager_db_data:
+
+networks:
+  app_network:
+    driver: bridge
